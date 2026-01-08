@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "version": "0.9.805",
+      "date": "2026-01-09T00:00:00.000",
+      "title": "Discover What's New",
+      "folder": "0.9.805"
+    },
+    {
       "version": "0.9.804",
       "date": "2026-01-08T00:00:00.000",
       "title": "Link Your Tasks Together",
