@@ -1,22 +1,22 @@
 {
   "releases": [
     {
-      "version": "0.9.981",
+      "version": "0.9.804",
+      "date": "2026-01-08T00:00:00.000",
+      "title": "Link Your Tasks Together",
+      "folder": "0.9.804"
+    },
+    {
+      "version": "0.9.802",
       "date": "2026-01-07T00:00:00.000",
-      "title": "January Update #2",
-      "folder": "0.9.981"
+      "title": "Smoother Scrolling",
+      "folder": "0.9.802"
     },
     {
-      "version": "0.9.980",
-      "date": "2026-01-02T00:00:00.000",
-      "title": "January Update",
-      "folder": "0.9.980"
-    },
-    {
-      "version": "0.9.970",
-      "date": "2025-12-15T00:00:00.000",
-      "title": "December Update",
-      "folder": "0.9.970"
+      "version": "0.9.801",
+      "date": "2026-01-06T00:00:00.000",
+      "title": "Refreshed Entry Actions",
+      "folder": "0.9.801"
     }
   ]
 }
