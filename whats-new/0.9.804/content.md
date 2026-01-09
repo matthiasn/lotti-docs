@@ -37,3 +37,5 @@ Each linked task displays its completion status at a glance:
 - Colors match the task's status for quick scanning
 
 Tap any linked task to jump straight to it.
+
+More on [Substack](https://matthiasnehlsen.substack.com/p/improving-the-display-of-linked-tasks).
