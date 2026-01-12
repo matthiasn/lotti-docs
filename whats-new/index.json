@@ -1,6 +1,24 @@
 {
   "releases": [
     {
+      "version": "0.9.811",
+      "date": "2026-01-11T00:00:00.000",
+      "title": "Smoother Onboarding",
+      "folder": "0.9.811"
+    },
+    {
+      "version": "0.9.808",
+      "date": "2026-01-11T00:00:00.000",
+      "title": "Voice-Controlled Tasks",
+      "folder": "0.9.808"
+    },
+    {
+      "version": "0.9.807",
+      "date": "2026-01-10T00:00:00.000",
+      "title": "Get Started with AI",
+      "folder": "0.9.807"
+    },
+    {
       "version": "0.9.805",
       "date": "2026-01-09T00:00:00.000",
       "title": "Discover What's New",
