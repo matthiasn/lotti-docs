@@ -40,6 +40,146 @@
       }
     },
     {
+      "id": "daily-os/capture-review",
+      "title": "Daily OS transcript review",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_planning_modal_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/capture-review/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 56314,
+          "sha256": "1efce0c383e906ba97d01de67b0a27eda1c3ba554838180d587b517ad8339b9f"
+        },
+        "mobile-dark": {
+          "path": "daily-os/capture-review/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 59292,
+          "sha256": "91e9bbbdf8d26e4ea92819f5c06b6e5c6d93cc9d97f3da89f31a851483b904d4"
+        },
+        "desktop-light": {
+          "path": "daily-os/capture-review/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 86652,
+          "sha256": "fff0f16b79f48ccc1165a20da73e21c7ad4e50e21c6aa5c41cc387a7f9d3c1cd"
+        },
+        "desktop-dark": {
+          "path": "daily-os/capture-review/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 92092,
+          "sha256": "03dea406fe0f6f4df5ecbd67334d7e7a273c12f67203d58f74824133117fcdc8"
+        }
+      }
+    },
+    {
+      "id": "daily-os/reconcile",
+      "title": "Daily OS reconciliation",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_planning_modal_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/reconcile/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 55846,
+          "sha256": "2987f99b47455da6fa860105fdb9e4f9e8b5c459595a97244d416cbfac8bc12a"
+        },
+        "mobile-dark": {
+          "path": "daily-os/reconcile/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 58670,
+          "sha256": "bd4e943fc6e28f6ac2b0ecb3531b6b1874ab22bcf906b5f6c036e4d9cd7def44"
+        },
+        "desktop-light": {
+          "path": "daily-os/reconcile/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 86314,
+          "sha256": "3d651c969a66854a248f49170359b8d061d78931867f94398163212fc65e9816"
+        },
+        "desktop-dark": {
+          "path": "daily-os/reconcile/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 90754,
+          "sha256": "c1eaaf355080c0e3003e3a81456499ecd9abc1cbdb8246f6191bf19df2ec52d5"
+        }
+      }
+    },
+    {
+      "id": "daily-os/timeline",
+      "title": "Daily OS timeline",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/timeline/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 63442,
+          "sha256": "c16a47b2b12b1016e00962e7076089083552bf3640cf3e7c9e3b58813f22ca33"
+        },
+        "mobile-dark": {
+          "path": "daily-os/timeline/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 67602,
+          "sha256": "b4f0fe2d586f40152144e1c1831eedf3ccee62679f320ca0dbdaad102ad9834c"
+        },
+        "desktop-light": {
+          "path": "daily-os/timeline/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 132926,
+          "sha256": "75142613d72d888b73049e35e13e5686cfeebec366ce7c358793b9911a0198bc"
+        },
+        "desktop-dark": {
+          "path": "daily-os/timeline/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 137390,
+          "sha256": "034790980e4e1270fb9910f62c99bb92effe942f0ef9b86824785eb74d6b4fc8"
+        }
+      }
+    },
+    {
+      "id": "daily-os/arrange",
+      "title": "Daily OS arrange mode",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/arrange/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 64238,
+          "sha256": "326cf5126f4a3beb717dd3eb076301482ff2f9a321230e9d900cd9505fdd2be9"
+        },
+        "mobile-dark": {
+          "path": "daily-os/arrange/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 68238,
+          "sha256": "74e8eead263ace22dc02c05cff63d822600dff770c0bfd0cf11cf9af0fa552ca"
+        },
+        "desktop-light": {
+          "path": "daily-os/arrange/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 101554,
+          "sha256": "1b5cf0160ebe0ab4235c3d47458909c3a88ec8a429368d360077fcacca6dd602"
+        },
+        "desktop-dark": {
+          "path": "daily-os/arrange/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 107366,
+          "sha256": "ed2e7c826f4bb0080b1bb40ecf45b8c4ff1e2168f90830ceb12105e1e425cb17"
+        }
+      }
+    },
+    {
       "id": "settings/home",
       "title": "Settings home",
       "sourceTest": "test/features/settings/ui/settings_home_screenshots_test.dart",
