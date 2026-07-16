@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "development",
+  "generatedAt": "2026-07-16T22:59:53+02:00",
+  "appCommit": "0015b3b9399f5c224871149d2d53aea17ce0c029",
+  "cases": [
+    {
+      "id": "daily-os/agenda",
+      "title": "Daily OS agenda",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/agenda/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 61320,
+          "sha256": "9a122cd5251f53f1403bf63ab24c13b2f030a288ab4b62796606068e8d4a398b"
+        },
+        "mobile-dark": {
+          "path": "daily-os/agenda/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 65268,
+          "sha256": "93ebd88cc559bbde99cdd706e7645c9b2f348c97cdb3983427e4c559a1a8831e"
+        },
+        "desktop-light": {
+          "path": "daily-os/agenda/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89378,
+          "sha256": "cd15ab65fd20c3ca1bd053e1e754acfd5d7fb47e21da0be2d2d1af05ce4f9061"
+        },
+        "desktop-dark": {
+          "path": "daily-os/agenda/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 94066,
+          "sha256": "18b5fde609d52d8762431d47e4d86643d9a2820a0601ff0f2fabc9a20f5fe040"
+        }
+      }
+    },
+    {
+      "id": "settings/home",
+      "title": "Settings home",
+      "sourceTest": "test/features/settings/ui/settings_home_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "settings/home/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 51628,
+          "sha256": "f06e343f078999187c411df1efedfadf9caee961b5875b9eec07f43a845f8293"
+        },
+        "mobile-dark": {
+          "path": "settings/home/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 55296,
+          "sha256": "356246638d0b4fefca988d8cebad2530acd38868df135650398417da9fe2e1a3"
+        },
+        "desktop-light": {
+          "path": "settings/home/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 59238,
+          "sha256": "9bcc81ebb15ae8d2fb5406539ee92285f1bc9501f36d8bc407fa8f4e0c7526ec"
+        },
+        "desktop-dark": {
+          "path": "settings/home/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 62954,
+          "sha256": "55444ab11b98495e73aa257053d4bc57551f31cff280599f5ac3c24e8b4fc634"
+        }
+      }
+    }
+  ]
+}
