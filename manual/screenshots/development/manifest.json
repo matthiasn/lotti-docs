@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:36:56+02:00",
-  "appCommit": "b14e2505e9ae5fcdcc08962b815a257cd9261487",
+  "generatedAt": "2026-07-17T10:45:35+02:00",
+  "appCommit": "b46c4a396e860926dd450ae5a1004fb2eb4443a5",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -2521,6 +2521,41 @@
           "height": 1800,
           "bytes": 155798,
           "sha256": "0009d0156eca2d9568a54e5574c43e7dba174a83749dded373bf1518cc0214d4"
+        }
+      }
+    },
+    {
+      "id": "time-tracking/session-rating",
+      "title": "Recorded-session rating",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "time-tracking/session-rating/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 48032,
+          "sha256": "778d0312dd6b08ebb752aec556d705bcebfc7ba3a18e831ef8d4a1f302b8b356"
+        },
+        "mobile-dark": {
+          "path": "time-tracking/session-rating/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 49448,
+          "sha256": "e93353bb00e1f0fe60b6af8c8fb12447a76417dd9442fce3a606c8620cb39d7f"
+        },
+        "desktop-light": {
+          "path": "time-tracking/session-rating/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 56064,
+          "sha256": "b50a5423ab6ec589da50686d2b6628e7888875a77cbc13597b8c37a88fbce420"
+        },
+        "desktop-dark": {
+          "path": "time-tracking/session-rating/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 57982,
+          "sha256": "8b2eace2f281cb93e8a444966ed879f961198ed2fa6f16419baf81232ebc8cc6"
         }
       }
     },
