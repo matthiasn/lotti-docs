@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T01:04:00+02:00",
-  "appCommit": "d7e5fd0042790fc74659b6935fe0f0282ef0c3b9",
+  "generatedAt": "2026-07-17T02:12:47+02:00",
+  "appCommit": "d4b99b37d81791bf4e283054043d380c976b56a6",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -13,29 +13,29 @@
           "path": "daily-os/agenda/mobile-light.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 59798,
-          "sha256": "00f74cf7dcb31b78c7d5bba915d72fbb110c794d5cd97e1336cbd64d9700810c"
+          "bytes": 56018,
+          "sha256": "99b5b373dfde76bb0408b0e120d0ecf49e36cec3857699ae03262fd9b7b975a2"
         },
         "mobile-dark": {
           "path": "daily-os/agenda/mobile-dark.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 62996,
-          "sha256": "1960512f7359fa02ba58f4322f1fd3f2097efc622cad44823253d23ce7ecccb2"
+          "bytes": 58642,
+          "sha256": "512111691b3a3eeff36462c5f691e5ddc1cf22731dac594ad5a93c6f12888295"
         },
         "desktop-light": {
           "path": "daily-os/agenda/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 84002,
-          "sha256": "dacc2b2b88620db8edc8b3234896cb6b7a60578f60e4a8313d869d194cfb8145"
+          "bytes": 83836,
+          "sha256": "f920089f43315b4cb8d5394a81c9dd6ac4fbf07dd68a81db2a2ab3b525275404"
         },
         "desktop-dark": {
           "path": "daily-os/agenda/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 87366,
-          "sha256": "6bdd5bbb40c3b7e1c573750ed8184faff8299239ab687b4e4717b189088ab23c"
+          "bytes": 86274,
+          "sha256": "568cadde63a501fce10504fee282336ba4f7433757cb4a16285ed15ada799cfe"
         }
       }
     },
