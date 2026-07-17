@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T11:35:22+02:00",
-  "appCommit": "af2bf15ae730bd548cf5796dc657bfb87943e41e",
+  "generatedAt": "2026-07-17T12:00:14+02:00",
+  "appCommit": "1c2ecb87595cfa46bc03ffa4a54891314f46052c",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -447,15 +447,15 @@
           "path": "tasks/workspace/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 304914,
-          "sha256": "d22b283e0f8c5fa0d7a0b56afb172a529903f56198336f3557807ee92442007f"
+          "bytes": 311150,
+          "sha256": "02929ca23c93fa48791187b0ec7700ce7dd16bd204196e0671225dacf58b3315"
         },
         "desktop-dark": {
           "path": "tasks/workspace/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 311956,
-          "sha256": "8b63f37e7eedea4f70aac0f3f3f64627b9e39623004560b53f13d968ae6bb980"
+          "bytes": 314170,
+          "sha256": "452579f70b83a840a40273795aef32a8d72a683530e1d04abced7197f3e55830"
         }
       }
     },
@@ -468,29 +468,134 @@
           "path": "tasks/detail/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 89930,
-          "sha256": "c5a7a4466f1e06b90c52abc52dd718fe1ca7bfef113256be8488aac521c0589d"
+          "bytes": 105650,
+          "sha256": "ea4d6025909ca6be2938f94ead5b3bd895de2e2d0a3af7529f651307e5f294d6"
         },
         "mobile-dark": {
           "path": "tasks/detail/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 90926,
-          "sha256": "d7f7c6e8b91dab2bb53c782c81ecd95fc1ed0fecbe424c5c6cf78439e29c2792"
+          "bytes": 107786,
+          "sha256": "dc51c30d7565d1c1b2d6bbe3c7500137abf0a88451d73fbd589e64dabcdd2dff"
         },
         "desktop-light": {
           "path": "tasks/detail/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 294152,
-          "sha256": "f62efe9fab39c4c281894b768a64c957791e3d0a0f97450decc4a9bef6281b46"
+          "bytes": 295060,
+          "sha256": "f74aa35a747e8d3d6d077597aa111174de6fdb4fec6e4b94c484ac3cf5028634"
         },
         "desktop-dark": {
           "path": "tasks/detail/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 293750,
-          "sha256": "3272faa2ad7b5a94819e07b4944c1a06219e2605c63e2c9cac451e1737cc653f"
+          "bytes": 295114,
+          "sha256": "cfba77fa87f3d061a0a934cb00fff584b243271a850619a399d70847b3f653e3"
+        }
+      }
+    },
+    {
+      "id": "tasks/agent-card",
+      "title": "Assigned task agent summary",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/agent-card/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 67986,
+          "sha256": "e34ad47fb9e2b8cee643f408dff407dcdb00f80800e56730308621ac3b0ef0f4"
+        },
+        "mobile-dark": {
+          "path": "tasks/agent-card/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 69702,
+          "sha256": "febfe5b7f33072b04e725dbe4c67c2e1a0f52d4a5f6bef6a4e5d8647ed6b0a3b"
+        },
+        "desktop-light": {
+          "path": "tasks/agent-card/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 91322,
+          "sha256": "0e6a83fbf01447140c75a93832538e8eda37677b6f84d411f10192334d4d91a9"
+        },
+        "desktop-dark": {
+          "path": "tasks/agent-card/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 94056,
+          "sha256": "72db5430d74604cbd5b8a2f0e205b45c4036e33ea8a007c547420b6109fd978e"
+        }
+      }
+    },
+    {
+      "id": "tasks/agent-card-expanded",
+      "title": "Expanded task agent report",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/agent-card-expanded/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 79558,
+          "sha256": "d07ba6549b505ce3538e223033f7ee8b6697d67c76538d12db52fd0df6692732"
+        },
+        "mobile-dark": {
+          "path": "tasks/agent-card-expanded/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 83502,
+          "sha256": "efa1f1fce03b794e08eb292ef5060e3d75b2d308a01adcd65c11ac274c14c3bc"
+        },
+        "desktop-light": {
+          "path": "tasks/agent-card-expanded/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 108702,
+          "sha256": "a9247918e2769e81eac55ebdee02b317ef5049e72b309e651d84e6205a129205"
+        },
+        "desktop-dark": {
+          "path": "tasks/agent-card-expanded/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 113590,
+          "sha256": "d332cdc95e3f90b5f77f15556203a3734cb7a075425612e9700e480c4cae9f1d"
+        }
+      }
+    },
+    {
+      "id": "tasks/agent-card-manual",
+      "title": "Task agent with automatic updates off",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/agent-card-manual/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 75846,
+          "sha256": "de2db027bd82a77aea0f1fc77012d5d402d01e3ab1111315678b402d34d37dbf"
+        },
+        "mobile-dark": {
+          "path": "tasks/agent-card-manual/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 78868,
+          "sha256": "9fc7785134de034cb2689bf0fd35da1b711f331d97da234de8585606984de4ca"
+        },
+        "desktop-light": {
+          "path": "tasks/agent-card-manual/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 95910,
+          "sha256": "662df7dcb4068a38374eaed8e475d74bf1fab0fa1774e05c05dbb5777fadb9d6"
+        },
+        "desktop-dark": {
+          "path": "tasks/agent-card-manual/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99086,
+          "sha256": "0cf06a4e827eb5bb7d08fb66355d42914b65100c7a1a3d94737c146d500c330b"
         }
       }
     },
