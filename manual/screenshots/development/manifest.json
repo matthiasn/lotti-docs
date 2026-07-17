@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T08:37:30+02:00",
-  "appCommit": "59373564e705d95f738a639724954485ae96ebea",
+  "generatedAt": "2026-07-17T09:07:38+02:00",
+  "appCommit": "b7d0f32f126a9573f128473a0b1a2977c3753010",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1051,6 +1051,111 @@
           "height": 1800,
           "bytes": 55162,
           "sha256": "b9bf96d904609682e3ddc291918ff59ba2a82ccaa9cba294ccfcc3760accb715"
+        }
+      }
+    },
+    {
+      "id": "dashboards/list",
+      "title": "Dashboards list",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/list/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 15392,
+          "sha256": "7435730a5386aa19a5b6b2c24856fb8fbd653e616c166590df75fdf741d225a8"
+        },
+        "mobile-dark": {
+          "path": "dashboards/list/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 16050,
+          "sha256": "a05a978e56bd38517dbe939d453b7d929440abfb2fa1d096186d9505961ab72d"
+        },
+        "desktop-light": {
+          "path": "dashboards/list/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 32600,
+          "sha256": "e5bab4382fbfc914eb43cdf01a5ee76ba7c9412980e8337a06563cc37fb74856"
+        },
+        "desktop-dark": {
+          "path": "dashboards/list/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 33270,
+          "sha256": "ba491e5140cc62f48b618bc48ce75e711a023594ac57864b9244383418d7be46"
+        }
+      }
+    },
+    {
+      "id": "dashboards/view",
+      "title": "Colony operations dashboard",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/view/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 37216,
+          "sha256": "d92b595b37b06c99637ee66597a7c21d65e3322b8abfb398918e2621535bf5fb"
+        },
+        "mobile-dark": {
+          "path": "dashboards/view/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 38670,
+          "sha256": "f7a96981cbccc0c3c57d8dc387837cb447d1c01a57a1f42a395f593de689e3fd"
+        },
+        "desktop-light": {
+          "path": "dashboards/view/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99950,
+          "sha256": "d7bffe68d8747ba3fcb27f6fc3f36136696459cab69c0861bd19552d85a07a39"
+        },
+        "desktop-dark": {
+          "path": "dashboards/view/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 104204,
+          "sha256": "69f88de38ca2835a92ed682fe2cf396c881860edb46fe7bd48f1443cd9719c9a"
+        }
+      }
+    },
+    {
+      "id": "dashboards/view-crew",
+      "title": "Colony operations crew charts",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/view-crew/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 39014,
+          "sha256": "2498b5e1b0911a5fb16cb27c8b535a9c6875c50e85ba6eff9bb6e2d0a3b14295"
+        },
+        "mobile-dark": {
+          "path": "dashboards/view-crew/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 40116,
+          "sha256": "a08a83aef01e1a83623dbcf5f9832f06b1ddd75d6f42746ce9c09404b239b6b5"
+        },
+        "desktop-light": {
+          "path": "dashboards/view-crew/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 106442,
+          "sha256": "57bc66314cff1cc4f50e7b10ed5074a63d2b2a636cc70e384a2d4ca61a318e92"
+        },
+        "desktop-dark": {
+          "path": "dashboards/view-crew/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 111480,
+          "sha256": "9dd77e15dbaf69e08731ed3d1bed01b41f80662a7f6ae53947723eaa1e17e919"
         }
       }
     },
