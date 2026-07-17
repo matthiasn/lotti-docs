@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T08:13:05+02:00",
-  "appCommit": "4a0791a1c4964da442a9f3079c2409c4b7940fd1",
+  "generatedAt": "2026-07-17T08:37:30+02:00",
+  "appCommit": "59373564e705d95f738a639724954485ae96ebea",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -3291,6 +3291,426 @@
           "height": 1800,
           "bytes": 147368,
           "sha256": "5de6f7153887a4eba5ddd948142cd15529e01fac5eaf3f31067a5624d2df30ec"
+        }
+      }
+    },
+    {
+      "id": "sync/hub",
+      "title": "Sync settings hub",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/hub/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 42186,
+          "sha256": "82285ab83907970cfc20b4bbfb586d88970c2a50badae978b85d94fd2fb95c92"
+        },
+        "mobile-dark": {
+          "path": "sync/hub/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 45224,
+          "sha256": "2bfabf3556a3c97e55567a9ce8772c6d1a1a5586b893efbb1d8713f304f35fdb"
+        },
+        "desktop-light": {
+          "path": "sync/hub/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78056,
+          "sha256": "8d462ceb0dc4769e48bd4a6a55f831700118150233e6e03003908c962b1bc600"
+        },
+        "desktop-dark": {
+          "path": "sync/hub/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 82908,
+          "sha256": "62245a4958c3a2096140c59c0001c18bfc6f4f8151dd4d86588b23ef56a8d144"
+        }
+      }
+    },
+    {
+      "id": "sync/provisioned",
+      "title": "Provisioning bundle import",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/provisioned/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 35962,
+          "sha256": "bb7992ec34b813e5861454c95d3eec09ccc1b8c471e61f34fa214ac6835d6f64"
+        },
+        "mobile-dark": {
+          "path": "sync/provisioned/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 36330,
+          "sha256": "5ff0ff1ac998fc7e4722b8fbe1d8f673a0f30a1837c5dab1b1f1bc68463bd53e"
+        },
+        "desktop-light": {
+          "path": "sync/provisioned/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 87978,
+          "sha256": "48f62622ba34dca22256866ce6b7d8e41181f62de3a09a9d27de40a238d584c4"
+        },
+        "desktop-dark": {
+          "path": "sync/provisioned/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 81504,
+          "sha256": "7ed85b937af5ed370c73d2aa1d559944e01ae920705e0d587d65452f50e46f29"
+        }
+      }
+    },
+    {
+      "id": "sync/status",
+      "title": "Provisioned sync status",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/status/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26672,
+          "sha256": "514282f96d1a2d68365daa1b14371f85987bcadb690b1edaebf700205fcf6ace"
+        },
+        "mobile-dark": {
+          "path": "sync/status/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26076,
+          "sha256": "c1b079b1c74052b2b8894b22d0044ab5441cc61c818322918708f8a4e1447e66"
+        },
+        "desktop-light": {
+          "path": "sync/status/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89760,
+          "sha256": "af25fe22924e1fc29f9c67a324b3064414650eb5e27bab26f5086e6286b1ed48"
+        },
+        "desktop-dark": {
+          "path": "sync/status/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83992,
+          "sha256": "24c0881dee8362a983c962f16c8d97fee9b2ca1998c273fdd39769bb688905b6"
+        }
+      }
+    },
+    {
+      "id": "sync/verification",
+      "title": "Sync device verification",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/verification/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 53712,
+          "sha256": "79f5feb0bffab13ad26a07eaa6854bda1ea05e014909d34e3c9a9090f7723b76"
+        },
+        "mobile-dark": {
+          "path": "sync/verification/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 53022,
+          "sha256": "5c9a7081212727bb79e915d2492338283a415e822f6587d27ad95a9c5be9916a"
+        },
+        "desktop-light": {
+          "path": "sync/verification/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 90780,
+          "sha256": "49aebb52cedd784bb748fa80715db60a24c67df840bbfd6113082a1b4705c5d8"
+        },
+        "desktop-dark": {
+          "path": "sync/verification/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 79188,
+          "sha256": "ad4060a76266ab61f1e5fc63e12897ef8c96867499a0be99c168806c3776b0b2"
+        }
+      }
+    },
+    {
+      "id": "sync/node-profile",
+      "title": "Sync node profile",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/node-profile/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 44216,
+          "sha256": "bfbb2b58988b1822c0484aab67debd7332eba9fb566b26622981afe2633d2ddb"
+        },
+        "mobile-dark": {
+          "path": "sync/node-profile/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 46322,
+          "sha256": "80e7339f412e2469df2a97ec7f45a81808e8b63a0f8017eb8ddb739d80a3f8b1"
+        },
+        "desktop-light": {
+          "path": "sync/node-profile/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 114438,
+          "sha256": "ba0ce1940f6e4f1a057249da364f6c2c2ac5ea20d36949e2a2ee8f96748b0bcb"
+        },
+        "desktop-dark": {
+          "path": "sync/node-profile/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 121582,
+          "sha256": "84f97ccf996c23b5e60b347411b789b261432d7cdb4e71b1ce098a206a380907"
+        }
+      }
+    },
+    {
+      "id": "sync/backfill",
+      "title": "Sync backfill",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/backfill/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41636,
+          "sha256": "5c9caf4204fe4f5e29b0bafe09703aa3736da6f3ab16415a39a9a555314deea4"
+        },
+        "mobile-dark": {
+          "path": "sync/backfill/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 44036,
+          "sha256": "98d9e3ea8c5ba787dfc4ad35cb356959e7f4b870a57d7021f37cffb56f050ed4"
+        },
+        "desktop-light": {
+          "path": "sync/backfill/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 123916,
+          "sha256": "1fd5782b35ffcb54bb97e5b6b034d722ffb9291c5fd5d2f4ea8997467abaf09c"
+        },
+        "desktop-dark": {
+          "path": "sync/backfill/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 129556,
+          "sha256": "f47e2c1436b6a3a7cbb6bd13f4ab28fd8a4b807340ec000b41488819c3e1963e"
+        }
+      }
+    },
+    {
+      "id": "sync/stats",
+      "title": "Matrix sync metrics",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/stats/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 42146,
+          "sha256": "b307904223a63e32c98c1218f9ef2035d254a8b9345ba16719670fa0eaec1d68"
+        },
+        "mobile-dark": {
+          "path": "sync/stats/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 43518,
+          "sha256": "613cd6d50401cb5f6c58c119fa2c6ba0bb5e568532f24af0e5372c853de9af51"
+        },
+        "desktop-light": {
+          "path": "sync/stats/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 139886,
+          "sha256": "b7e034fd02080b33ef2f22bc99fcaa24cda6e983f6095331dedbfb538841edcd"
+        },
+        "desktop-dark": {
+          "path": "sync/stats/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 146102,
+          "sha256": "fafb1658d5a24195588019bf1a5f2c78c500e946e2b1677bf533c1219c4b5f91"
+        }
+      }
+    },
+    {
+      "id": "sync/outbox",
+      "title": "Sync outbox",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/outbox/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 35046,
+          "sha256": "d80d3f510188bfdd620504413989477f409aacdc76759bd9798897acd82dfab9"
+        },
+        "mobile-dark": {
+          "path": "sync/outbox/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 34914,
+          "sha256": "14d77cfc4f8248f4bba1a0e07d3b37de179d86589368e958e6df7eb7dd5d46e1"
+        },
+        "desktop-light": {
+          "path": "sync/outbox/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 105420,
+          "sha256": "c89fda1d308e4347372b3419e21508d74e1b326d7539c9aff191cab2f86edf8d"
+        },
+        "desktop-dark": {
+          "path": "sync/outbox/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 109936,
+          "sha256": "9164ee49bf2b845ac4207b596990eb34a24ee481aeae741ceac5ff6ea1cf585d"
+        }
+      }
+    },
+    {
+      "id": "sync/conflicts",
+      "title": "Sync conflicts",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/conflicts/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26850,
+          "sha256": "62d1ee63a4e69d7e4cbd4a1207a945a88819027dd86c388dc8374fd8d40a4eae"
+        },
+        "mobile-dark": {
+          "path": "sync/conflicts/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 27860,
+          "sha256": "eedc0303d10f5e31aa497f709cc092a71ce212cb55a0b81587f55ca3e82ec3d8"
+        },
+        "desktop-light": {
+          "path": "sync/conflicts/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99636,
+          "sha256": "ed0236f0916a9d667f6c059e469dd19210cbe4a738989b7e0fe7025610cc992a"
+        },
+        "desktop-dark": {
+          "path": "sync/conflicts/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 103402,
+          "sha256": "16121f35b94a15e7d7c24cc6d26d689ea3ff5b600d13732f1ab96ceb5e613c02"
+        }
+      }
+    },
+    {
+      "id": "sync/conflict-detail",
+      "title": "Sync conflict resolution",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/conflict-detail/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 82786,
+          "sha256": "1f97dc1fea9f840b3f14c14f55f8fc8cbac521f0b6224bac0ec9def77bd32037"
+        },
+        "mobile-dark": {
+          "path": "sync/conflict-detail/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 84586,
+          "sha256": "e6fb99fdd3f14cc16b1d9f81044fb83e178e5522f8e254b72030a4d0acddf1aa"
+        },
+        "desktop-light": {
+          "path": "sync/conflict-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 154598,
+          "sha256": "976625c5b6d2f99d50bbc8b091aa2491fa03984c5169ba256c12fe10cbafda1c"
+        },
+        "desktop-dark": {
+          "path": "sync/conflict-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 158808,
+          "sha256": "4f6cf9fe730c0d2b07ca5dfa9238ab323f5b94bb5974781791390d9d81ebce84"
+        }
+      }
+    },
+    {
+      "id": "sync/conflict-combine",
+      "title": "Sync conflict field combination",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/conflict-combine/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 25060,
+          "sha256": "0fe2be14f9e49e6eec9723580e751822fc28b25e967711d8922e40e60c01099d"
+        },
+        "mobile-dark": {
+          "path": "sync/conflict-combine/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 25570,
+          "sha256": "b630ee50633cd0bf3606ffc0945e665e6f3efc94247ba36c444f7126a4398129"
+        },
+        "desktop-light": {
+          "path": "sync/conflict-combine/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 96948,
+          "sha256": "e76402a604588fb824645513f5817830b5d23a275adf5d421d68a11397baf7ae"
+        },
+        "desktop-dark": {
+          "path": "sync/conflict-combine/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 101966,
+          "sha256": "ccff6895ce54be6853f38ea969b9006c43b4ff7317087c11b83b92bb8b6791f9"
+        }
+      }
+    },
+    {
+      "id": "sync/maintenance",
+      "title": "Matrix sync maintenance",
+      "sourceTest": "test/features/sync/ui/sync_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "sync/maintenance/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 39230,
+          "sha256": "3522fac75015527ad219ba32573642eb635c5b61b5d66f7d61442a57011f3dd6"
+        },
+        "mobile-dark": {
+          "path": "sync/maintenance/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41608,
+          "sha256": "2162906139bab04ad94b03789a0a2d0bf8f5cb3071cd4583ba07ebdec52e357f"
+        },
+        "desktop-light": {
+          "path": "sync/maintenance/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 113226,
+          "sha256": "289510f1213567c28c0fdfe3f5c659102c0e88e4215f1d5bb3a7e09df3fc5e6d"
+        },
+        "desktop-dark": {
+          "path": "sync/maintenance/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 119416,
+          "sha256": "ff875b87e42d2cb6aab58b9b25830794b665c74ad2461e5e65b9d507d65f1737"
         }
       }
     }
