@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T09:07:38+02:00",
-  "appCommit": "b7d0f32f126a9573f128473a0b1a2977c3753010",
+  "generatedAt": "2026-07-17T09:45:25+02:00",
+  "appCommit": "24f41e7207f74136fe9fb385a400745c4e75c003",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -491,6 +491,146 @@
           "height": 1800,
           "bytes": 149920,
           "sha256": "ef44c43782024cd6de0836533d9ad427e08c23218a5449ac118a27201c1f7f20"
+        }
+      }
+    },
+    {
+      "id": "entries/create-menu",
+      "title": "Contextual entry creation menu",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "entries/create-menu/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 70400,
+          "sha256": "3cf55e9ba2a5b3056991efbe9bc05241437a2eef9daad5e8d2802d03599b349a"
+        },
+        "mobile-dark": {
+          "path": "entries/create-menu/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 54998,
+          "sha256": "96a894a5c92f81df8642864272978effac48bf347d53d3f666dc4eee8d493fcd"
+        },
+        "desktop-light": {
+          "path": "entries/create-menu/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 157870,
+          "sha256": "9f9a2ca1be1944d05a2b6c3a841ec47bce21af4d0b29836544a2f762ccf6e0e3"
+        },
+        "desktop-dark": {
+          "path": "entries/create-menu/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 113986,
+          "sha256": "b511021ccb768483d20c9f9ea08e26d8e9ffa41f6ca1dc653b02df9e9eaf378f"
+        }
+      }
+    },
+    {
+      "id": "tasks/cover-references",
+      "title": "Task cover-art reference selection",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/cover-references/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 129142,
+          "sha256": "3046dfd266bd213f29c2289a229fa3e778fef15bb8cc3053f5b8314afb52c357"
+        },
+        "mobile-dark": {
+          "path": "tasks/cover-references/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 116640,
+          "sha256": "25fa05d38fe1e0a29978963a73979a4c1b5a85c9553dcdc7f5c8ede446042d9d"
+        },
+        "desktop-light": {
+          "path": "tasks/cover-references/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 259586,
+          "sha256": "125e1f3d5fb8d61763d272a78dc77e342a0babf1ae84ee379d04c181c710dfa2"
+        },
+        "desktop-dark": {
+          "path": "tasks/cover-references/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 221868,
+          "sha256": "85748039bd951336fcffcdcb0bae24172a7358ceeee33bcba1f7843f8b009f4c"
+        }
+      }
+    },
+    {
+      "id": "tasks/cover-generating",
+      "title": "Task cover-art generation progress",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/cover-generating/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 65924,
+          "sha256": "bda14fd773187e60ddc158de1a0285f24327e6af7a72c521b5464e4cf286d5e6"
+        },
+        "mobile-dark": {
+          "path": "tasks/cover-generating/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 52644,
+          "sha256": "e6f8bb7f245e3892198e2733d9429b34bbf86fbe7837b3bce5626aea9bce782c"
+        },
+        "desktop-light": {
+          "path": "tasks/cover-generating/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 163720,
+          "sha256": "b2c066bb63bb6aa93a9dd2bbe5d716606a9326ecf560d1b8a0203257be363e61"
+        },
+        "desktop-dark": {
+          "path": "tasks/cover-generating/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 118114,
+          "sha256": "d6cb3a66476f7691636fd78d0ee292ae9a5b3fd705f646bc02b20a36127feefd"
+        }
+      }
+    },
+    {
+      "id": "tasks/link-picker",
+      "title": "Task link picker",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "tasks/link-picker/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 62716,
+          "sha256": "e63de633dbed7d053627a93b87c7f1e10d32a70161766aadd1e5e0d66b1df846"
+        },
+        "mobile-dark": {
+          "path": "tasks/link-picker/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 63740,
+          "sha256": "a2d4520ef560a6bf379535498944d436edb9e54a0183a9620a123f7e752fcb2e"
+        },
+        "desktop-light": {
+          "path": "tasks/link-picker/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 134248,
+          "sha256": "37f5e2c86940b9a6ec8e94b89aa4d195f9e4a1d185d3ef67510d9f01a7abae05"
+        },
+        "desktop-dark": {
+          "path": "tasks/link-picker/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 134960,
+          "sha256": "d1d0c77f9e5a84c68afc54fc7d4f017a494a01156d1b7b375c943193f850aaa1"
         }
       }
     },
