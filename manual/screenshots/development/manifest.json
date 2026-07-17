@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T05:52:17+02:00",
-  "appCommit": "f47f2dc11828a6b5f07b59975fb8c9788b68a14b",
+  "generatedAt": "2026-07-17T06:13:33+02:00",
+  "appCommit": "5b1c4ec3e60d9878118288897c878623cf2942b0",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -915,6 +915,76 @@
       }
     },
     {
+      "id": "recordings/transcripts",
+      "title": "Saved transcription history",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "recordings/transcripts/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 30654,
+          "sha256": "17652319a3b6b5497bc54c12a643b26c83f466d64e03da1950ca2cf9fc42b276"
+        },
+        "mobile-dark": {
+          "path": "recordings/transcripts/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 29828,
+          "sha256": "3f8e35a3e167c8baf1a6847813b22bedb8b202062c2c8cc55e21932d626bf11b"
+        },
+        "desktop-light": {
+          "path": "recordings/transcripts/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 39180,
+          "sha256": "56ad855267c4e77042e1044212db511612f0dd24d0d2fbd5e863fe6c29cb2cf3"
+        },
+        "desktop-dark": {
+          "path": "recordings/transcripts/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 37856,
+          "sha256": "9f111c5dab4e3780d0bf2fa19af9da154ae7606f17483950e77c108520dda566"
+        }
+      }
+    },
+    {
+      "id": "recordings/transcript-expanded",
+      "title": "Expanded Project Waddle transcript",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "recordings/transcript-expanded/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 58932,
+          "sha256": "83fd8288a63d4132cc4eed5a04fb61a33b87aa19a342194b0b3f8c03cc59c9c6"
+        },
+        "mobile-dark": {
+          "path": "recordings/transcript-expanded/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 60544,
+          "sha256": "e2b36809ecce42f7956b3dedfb89c4f16e40b62e67445d929d4216f23d583b33"
+        },
+        "desktop-light": {
+          "path": "recordings/transcript-expanded/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 67426,
+          "sha256": "7b7b8c95792fbf7e036665828ee4def161a2a84b51ce40a9bd16d876e875d606"
+        },
+        "desktop-dark": {
+          "path": "recordings/transcript-expanded/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 68286,
+          "sha256": "4ee0993c324c054c5837e13dd092f7d932dc1487b2dba8559776ea6e0956b56d"
+        }
+      }
+    },
+    {
       "id": "theming/preferences",
       "title": "Appearance preferences",
       "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
@@ -1016,6 +1086,76 @@
           "height": 1800,
           "bytes": 89808,
           "sha256": "75c8d4abd2187ff24d7471c8192155f6ef8f496955cfef21a0d72421acabd7dc"
+        }
+      }
+    },
+    {
+      "id": "speech/settings",
+      "title": "Speech voice, model, and reading speed",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "speech/settings/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 28750,
+          "sha256": "4428a321af4bb9dd17b3099c84a4b01941782f5e6d624ebf05bd1dff0ed73db4"
+        },
+        "mobile-dark": {
+          "path": "speech/settings/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 30318,
+          "sha256": "0bd025dd9de6c7d28d8a76b167eb03d1847f882bd69a691e2bbb630a2e9bb9be"
+        },
+        "desktop-light": {
+          "path": "speech/settings/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83236,
+          "sha256": "fba492c4c292dc03310e64b8a7efa4618e224a9ba1697e8dc485560dd0a33974"
+        },
+        "desktop-dark": {
+          "path": "speech/settings/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 88190,
+          "sha256": "aeec02be7c5983dd08456950e1fbb5db28fd49bd6897723e18568abe61aee9ff"
+        }
+      }
+    },
+    {
+      "id": "speech/voice-options",
+      "title": "Alternate speech voice options",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "speech/voice-options/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 29584,
+          "sha256": "f847a14f8541347c5f60471e89a50ed5bdd82197e306ecbb058f791585d518cc"
+        },
+        "mobile-dark": {
+          "path": "speech/voice-options/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 31300,
+          "sha256": "84f07b3277dee1028f53adbbee47d52660e926207a3e456a9f78d01b718cbbba"
+        },
+        "desktop-light": {
+          "path": "speech/voice-options/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83904,
+          "sha256": "346197b25eef2611b8a1828261ceb6bd1a99a746568ff9570e56f5505f8ded77"
+        },
+        "desktop-dark": {
+          "path": "speech/voice-options/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89048,
+          "sha256": "0ecbdc945cdb04422240d1f0805cff4fd897a32f38f4509833f0fa9681d68df3"
         }
       }
     },
