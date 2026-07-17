@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T02:47:14+02:00",
-  "appCommit": "94c6051775f9d96027377c293fd4a849ae992556",
+  "generatedAt": "2026-07-17T02:59:50+02:00",
+  "appCommit": "8b06ec3fd93e4f7138171dc1de7eed2ac298ccd9",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -530,6 +530,111 @@
       }
     },
     {
+      "id": "habits/settings-list",
+      "title": "Habit definitions",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "habits/settings-list/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26322,
+          "sha256": "36338bb181e1e2c74d20789e5e0b1dd49dd7ff9632eb5bdb376ef798bd1ebc0a"
+        },
+        "mobile-dark": {
+          "path": "habits/settings-list/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 27478,
+          "sha256": "893a3962ec9a199ed7d3be0ad54fe7df49b324e23ed4221240f80d52e89181ab"
+        },
+        "desktop-light": {
+          "path": "habits/settings-list/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 42522,
+          "sha256": "e9592b3eb1a27391d03f7f4603723a0bddd727f709383b8a7a25340e13d41b5b"
+        },
+        "desktop-dark": {
+          "path": "habits/settings-list/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 44196,
+          "sha256": "b6a6caec015ae864ab6e70259c30b0a7d90351110f9b0b1c4e810ba244b69afe"
+        }
+      }
+    },
+    {
+      "id": "habits/settings-detail",
+      "title": "Habit details",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "habits/settings-detail/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 43970,
+          "sha256": "8f4b1278c2ca21f6dc3c99e80fe790bddfe54d359afd5286ab47c9ba033720d1"
+        },
+        "mobile-dark": {
+          "path": "habits/settings-detail/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 45626,
+          "sha256": "a2d56b5d59b980839d9479ba551234081c656928d1c9943f9e24d2ed53df9159"
+        },
+        "desktop-light": {
+          "path": "habits/settings-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 54706,
+          "sha256": "69474d4204ca6ecf64ffe0f65d1d51fcc4f99e35ccaea71b45771385b259469d"
+        },
+        "desktop-dark": {
+          "path": "habits/settings-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 55982,
+          "sha256": "c8daaf54cbdc24ac81e0cbba1d1dbdb2d7bfff07e376581919d172740048437f"
+        }
+      }
+    },
+    {
+      "id": "habits/schedule",
+      "title": "Habit schedule",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "habits/schedule/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 29688,
+          "sha256": "2b84d5e970c02dd03154e4a22d0e242a86dc41df2c4d824863e74d08a0969a44"
+        },
+        "mobile-dark": {
+          "path": "habits/schedule/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 30932,
+          "sha256": "37b8a3385089b1305aca299ee06c8468c86608e1069c7ba8b9eb6756e8b4c753"
+        },
+        "desktop-light": {
+          "path": "habits/schedule/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 43396,
+          "sha256": "597905a71bfd4fb92d4b3b90a366586317bb24a27fadb8ce96fcd731738645e4"
+        },
+        "desktop-dark": {
+          "path": "habits/schedule/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 44154,
+          "sha256": "c63b04e9fb3a9f8a2885626958fbb5557a15b92b4baa1b2ef2ae5b37dec63d01"
+        }
+      }
+    },
+    {
       "id": "habits/record",
       "title": "Habit completion",
       "sourceTest": "test/features/habits/ui/habits_manual_screenshots_test.dart",
@@ -561,6 +666,216 @@
           "height": 1800,
           "bytes": 29344,
           "sha256": "92014b5f79233a5be155cf4e8a90fff723baa531ce27fdbe2eadf98379ebc6b0"
+        }
+      }
+    },
+    {
+      "id": "measurables/settings-list",
+      "title": "Measurable definitions",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "measurables/settings-list/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 20172,
+          "sha256": "035e94c91085547a4cfc1abf22634843062659f232b35e9c53cd940635ce3544"
+        },
+        "mobile-dark": {
+          "path": "measurables/settings-list/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 20990,
+          "sha256": "192dc10b42d17430ddccfdc4906c41189b06f6e1414f429cd16d27be56baf07a"
+        },
+        "desktop-light": {
+          "path": "measurables/settings-list/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 31344,
+          "sha256": "7eddc72037549f1bce1b4a7ea89c69953ac0fb4975ea1594589e456f466e030f"
+        },
+        "desktop-dark": {
+          "path": "measurables/settings-list/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 32428,
+          "sha256": "42bffeb3efcc3fdda4a4e55dec41fff54bc61e887d4dd5e0bf17610f25ff4772"
+        }
+      }
+    },
+    {
+      "id": "measurables/settings-detail",
+      "title": "Measurable details",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "measurables/settings-detail/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41458,
+          "sha256": "a0946a490b8d24b73cec2caa17106b701b92cdd3e9865f2ac97254865725f5ac"
+        },
+        "mobile-dark": {
+          "path": "measurables/settings-detail/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 43226,
+          "sha256": "ab7e4f748c32f038f1dca56d5ecd2c79e7131307b88174418248d4f730bbff32"
+        },
+        "desktop-light": {
+          "path": "measurables/settings-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 52552,
+          "sha256": "e1c3726d892331e285ffbbf4c48582001fa3162b2aafb3e3e9c67b66cbae2ff9"
+        },
+        "desktop-dark": {
+          "path": "measurables/settings-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 53466,
+          "sha256": "32e7e80e9217a1c5d0843823b236d7e96019bc4509ba2fc042c185279fac6cde"
+        }
+      }
+    },
+    {
+      "id": "dashboards/settings-list",
+      "title": "Dashboard definitions",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/settings-list/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 20170,
+          "sha256": "2a722b32eb6be0a864d45771d9a391728c26adb850c9282d17534ef3318fb6b7"
+        },
+        "mobile-dark": {
+          "path": "dashboards/settings-list/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 21094,
+          "sha256": "897fbcd2534cbc9f933ae487d273de3c5ca35d5c400cebceb30a9326ecce15b3"
+        },
+        "desktop-light": {
+          "path": "dashboards/settings-list/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 34122,
+          "sha256": "24872665813827a97f29e128311cf088f8255baab21cc5413dfe0a162b07fae7"
+        },
+        "desktop-dark": {
+          "path": "dashboards/settings-list/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 34516,
+          "sha256": "555aef8a165b847870b13332dd795b307ba8728ef7279a966c6a701c7168e670"
+        }
+      }
+    },
+    {
+      "id": "dashboards/settings-detail",
+      "title": "Dashboard details",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/settings-detail/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 48480,
+          "sha256": "690b8c9e054c80cacc563fd106d2f2cdfd92c764871ef02187bdcbf3e8d10ce9"
+        },
+        "mobile-dark": {
+          "path": "dashboards/settings-detail/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 50476,
+          "sha256": "99cd2820aa43a6e271baba24fb1faad848303da85cc3633da6e12aa2b9ebd1dc"
+        },
+        "desktop-light": {
+          "path": "dashboards/settings-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 65828,
+          "sha256": "2ebea185dcb40c5e7c5551ca01db37367f60b507d47154dc38f9b36bef85195e"
+        },
+        "desktop-dark": {
+          "path": "dashboards/settings-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 67328,
+          "sha256": "91df0f52bafad23d554ec5c80264939358b1196903892ec442d98cd9cd4156e7"
+        }
+      }
+    },
+    {
+      "id": "dashboards/charts",
+      "title": "Dashboard chart composition",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/charts/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41962,
+          "sha256": "23dd5919c024f21656543b17c65222a3d6bb45df8eb444924924c225a93109f5"
+        },
+        "mobile-dark": {
+          "path": "dashboards/charts/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 43128,
+          "sha256": "97a572bd195bc75aa33dd9f720bc84b0bc11546b6ec6d247ba63d2c5d1fdf199"
+        },
+        "desktop-light": {
+          "path": "dashboards/charts/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 61620,
+          "sha256": "66b18fad73b32d38da7ae77a1224cdfa3d6a6eb43ea376a1b133f514b74cc3ec"
+        },
+        "desktop-dark": {
+          "path": "dashboards/charts/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 62838,
+          "sha256": "f902569fa13c5193c6820d8b4fbf7942e9dc75297eb7b64640d0a95f6357416c"
+        }
+      }
+    },
+    {
+      "id": "dashboards/sources",
+      "title": "Dashboard chart sources",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "dashboards/sources/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 36066,
+          "sha256": "ae606c26acd164d2327a1fcfd337be03b87c8d84d44b0928caa58432a60aba59"
+        },
+        "mobile-dark": {
+          "path": "dashboards/sources/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 37110,
+          "sha256": "62c5663309078a9a393256eece59a733a0c4f5884b3214d9788c0a346a173d8a"
+        },
+        "desktop-light": {
+          "path": "dashboards/sources/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 55340,
+          "sha256": "4a40047e2d3ce33cfd6001bd637cc8ff3b50c93790f7d66904a7097114dd0102"
+        },
+        "desktop-dark": {
+          "path": "dashboards/sources/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 55162,
+          "sha256": "b9bf96d904609682e3ddc291918ff59ba2a82ccaa9cba294ccfcc3760accb715"
         }
       }
     },
