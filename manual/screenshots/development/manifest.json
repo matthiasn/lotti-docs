@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:16:22+02:00",
-  "appCommit": "9ea73b18c05a774fadbf01f721be9f679ace3b75",
+  "generatedAt": "2026-07-17T10:21:33+02:00",
+  "appCommit": "4748f4c21397322451155722ae007ac4743103ac",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -2066,6 +2066,41 @@
           "height": 1800,
           "bytes": 64680,
           "sha256": "e13ce4180989fdeb58bf3d893ae90e0f39c54cf678990542041f947995557368"
+        }
+      }
+    },
+    {
+      "id": "projects/editor",
+      "title": "Project settings editor",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/editor/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 41924,
+          "sha256": "ab95a0d8d3b0f55fe79fb9c9961dd6b0d3e353624cd92a2dbe7c5ac887bb170c"
+        },
+        "mobile-dark": {
+          "path": "projects/editor/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 41254,
+          "sha256": "01da12944c3e505472d6b039d1e833a2b051179d72ebe0398d219438816d1156"
+        },
+        "desktop-light": {
+          "path": "projects/editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 51918,
+          "sha256": "086453a574da8b426de1ff4452c6f2aa778ec6150c3cb5465943fd9532dc181a"
+        },
+        "desktop-dark": {
+          "path": "projects/editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 49716,
+          "sha256": "2de177480cb761beb31ca02628f80488d52de0bed8c0d6b7e44bdafd13971597"
         }
       }
     },
