@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T03:57:27+02:00",
-  "appCommit": "74a345ae4d6cc1232ab7b406d3f621b9ec81e556",
+  "generatedAt": "2026-07-17T04:21:38+02:00",
+  "appCommit": "32ce820d666e52a1850e0a41ec0bd32157fa1a6c",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1366,6 +1366,111 @@
           "height": 1800,
           "bytes": 64680,
           "sha256": "e13ce4180989fdeb58bf3d893ae90e0f39c54cf678990542041f947995557368"
+        }
+      }
+    },
+    {
+      "id": "events/overview",
+      "title": "Events overview",
+      "sourceTest": "test/features/events/ui/pages/events_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "events/overview/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 160448,
+          "sha256": "ad63475bab3c4853e1dba5964bf8c46b924746d3f68d0c4a8456f0f7c5c73942"
+        },
+        "mobile-dark": {
+          "path": "events/overview/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 162232,
+          "sha256": "4d058e784b0a8c54d6ed716ccb9de34ac0a1113f4a1bf12419996b06fec9c039"
+        },
+        "desktop-light": {
+          "path": "events/overview/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 275794,
+          "sha256": "dfa5f9b5e318bfa7d56df9cc5ba1e8b55a9c2fde4a575adafe7d41a89bf01550"
+        },
+        "desktop-dark": {
+          "path": "events/overview/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 275072,
+          "sha256": "fa5379d9274a95b865b6dc4f0fa0799bb6c7e28efcaebb1d1088f37bae62c63a"
+        }
+      }
+    },
+    {
+      "id": "events/detail",
+      "title": "Event detail",
+      "sourceTest": "test/features/events/ui/pages/events_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "events/detail/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 151194,
+          "sha256": "e4251a2254bacb7e40147e2bc43e5d104d232a88c8c92673cfc482ee1ecfa8c2"
+        },
+        "mobile-dark": {
+          "path": "events/detail/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 155724,
+          "sha256": "29a78710dfaabd2cc8cc607be95d93ebc42d7df20de039efb4380c4128af4051"
+        },
+        "desktop-light": {
+          "path": "events/detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 305270,
+          "sha256": "e0c0c9d5bd016626f768f5a2debd2a466838531319a0936eac99ccaabad36123"
+        },
+        "desktop-dark": {
+          "path": "events/detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 307814,
+          "sha256": "c0fffa0fe6cb20b357a7eef882365b181efd33dd04768bbc0775a41d070c7ad2"
+        }
+      }
+    },
+    {
+      "id": "events/timeline",
+      "title": "Event timeline and tasks",
+      "sourceTest": "test/features/events/ui/pages/events_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "events/timeline/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 146216,
+          "sha256": "f67b2cdee4fa8ef8e38464343b033edbbe53802f0528816ecb2997a8e3820222"
+        },
+        "mobile-dark": {
+          "path": "events/timeline/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 149250,
+          "sha256": "6be39cc7537bdee711b1630748032e21aa684716486598dfcf1377e614bfe382"
+        },
+        "desktop-light": {
+          "path": "events/timeline/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 279930,
+          "sha256": "0040aa99e6a98324e94e3e8158e360463c80456b75fb977a334762596d5179e7"
+        },
+        "desktop-dark": {
+          "path": "events/timeline/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 282310,
+          "sha256": "5923affccb6cbc106db7c948991717e324516146d60aa0ab715bdf83c69171f8"
         }
       }
     }
