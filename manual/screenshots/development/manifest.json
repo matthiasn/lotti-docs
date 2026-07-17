@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T11:23:12+02:00",
-  "appCommit": "2d21376dc98625a11ef1da90227ce6bd830dbf7d",
+  "generatedAt": "2026-07-17T11:35:22+02:00",
+  "appCommit": "af2bf15ae730bd548cf5796dc657bfb87943e41e",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1357,15 +1357,15 @@
           "path": "dashboards/list/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 32600,
-          "sha256": "e5bab4382fbfc914eb43cdf01a5ee76ba7c9412980e8337a06563cc37fb74856"
+          "bytes": 99950,
+          "sha256": "d7bffe68d8747ba3fcb27f6fc3f36136696459cab69c0861bd19552d85a07a39"
         },
         "desktop-dark": {
           "path": "dashboards/list/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 33270,
-          "sha256": "ba491e5140cc62f48b618bc48ce75e711a023594ac57864b9244383418d7be46"
+          "bytes": 104204,
+          "sha256": "69f88de38ca2835a92ed682fe2cf396c881860edb46fe7bd48f1443cd9719c9a"
         }
       }
     },
