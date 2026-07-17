@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:21:33+02:00",
-  "appCommit": "4748f4c21397322451155722ae007ac4743103ac",
+  "generatedAt": "2026-07-17T10:27:03+02:00",
+  "appCommit": "bde46c669ab42dd6274abb2ce36cad185c3ac2ba",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -2696,6 +2696,41 @@
           "height": 1800,
           "bytes": 113992,
           "sha256": "dfbc0aeba968e5c6c12d9308831e915a9beb80963f63feca81b37d86fe2c7c2c"
+        }
+      }
+    },
+    {
+      "id": "health-import/overview",
+      "title": "Mobile health import",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "health-import/overview/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26466,
+          "sha256": "c271079979c43376cb47ce752a6af690a508ae218200a35a991f0dd942674588"
+        },
+        "mobile-dark": {
+          "path": "health-import/overview/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 27012,
+          "sha256": "0ce3da96aac5de603f41a8d229b8f797ee90b7e05c3a172594d3b3aebde6bbb6"
+        },
+        "desktop-light": {
+          "path": "health-import/overview/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83722,
+          "sha256": "6c73ccc8fdb663bcdbd5d41f7e15cbd12bb7d6e664ce188feff449c5082ec929"
+        },
+        "desktop-dark": {
+          "path": "health-import/overview/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89250,
+          "sha256": "cd532db8badd011b853b9ba63bff250b51d4b7106c899f743a1d8dce93d860bc"
         }
       }
     },
