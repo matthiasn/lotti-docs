@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T05:34:21+02:00",
-  "appCommit": "196041b3c5a8d3a5ad02c2faebbedd409475153a",
+  "generatedAt": "2026-07-17T05:52:17+02:00",
+  "appCommit": "f47f2dc11828a6b5f07b59975fb8c9788b68a14b",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1926,6 +1926,251 @@
           "height": 1800,
           "bytes": 106210,
           "sha256": "6be2e8991c9a334dc03e70148fa747ff0f679b0b48ba2d41099f334550d61036"
+        }
+      }
+    },
+    {
+      "id": "onboarding/settings",
+      "title": "Onboarding settings",
+      "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "onboarding/settings/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 13660,
+          "sha256": "842f7a46733b7ad2b58fc41cf082861ae2576c80447997148022ab362007b34f"
+        },
+        "mobile-dark": {
+          "path": "onboarding/settings/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 14560,
+          "sha256": "59c6e82315be856736772b0f12b6cf46450c53df67758bfc1e47a224c5073e0f"
+        },
+        "desktop-light": {
+          "path": "onboarding/settings/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 68630,
+          "sha256": "b1cc676ef83e5dd4b21e23332d8db0804842fe5abd068fc09a194137f629dc52"
+        },
+        "desktop-dark": {
+          "path": "onboarding/settings/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 72276,
+          "sha256": "2df2f24092a1442380cb82e744dda4d91e196762ae698fae1eedb7d03e9a64ae"
+        }
+      }
+    },
+    {
+      "id": "onboarding/welcome",
+      "title": "Onboarding welcome",
+      "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "onboarding/welcome/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 46904,
+          "sha256": "b5704467ca226f9426208a58a6ea8a8abc226283ec2060089f8e664e9f4e5be8"
+        },
+        "mobile-dark": {
+          "path": "onboarding/welcome/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 48678,
+          "sha256": "a287808373ce3f74fc2519643375834d3beda1bbf425014f81c45a0b15e6b782"
+        },
+        "desktop-light": {
+          "path": "onboarding/welcome/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78784,
+          "sha256": "89bc06a24538062a97d3df5b998cfd61b350d381752ef47a60f9333b19ac57c5"
+        },
+        "desktop-dark": {
+          "path": "onboarding/welcome/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 82572,
+          "sha256": "b91c54e7c7058812a847d6f258a8b323f1a0dce482b07b8b37a88d47aa7b35cb"
+        }
+      }
+    },
+    {
+      "id": "onboarding/providers",
+      "title": "Onboarding provider selection",
+      "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "onboarding/providers/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41676,
+          "sha256": "a57148349a88ce0bbfc6352a381dfde2a87e1c4fe8520c9c01a6e644257583d1"
+        },
+        "mobile-dark": {
+          "path": "onboarding/providers/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 41652,
+          "sha256": "4bdbe4c110999dd1e45309bab4b6cbf141355c9a14b4a50d2f419d530942d726"
+        },
+        "desktop-light": {
+          "path": "onboarding/providers/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78814,
+          "sha256": "fa5e1e750da3638c24672fb63e9488e6bbb82de9b220d8d9a17c716e6621602d"
+        },
+        "desktop-dark": {
+          "path": "onboarding/providers/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 81696,
+          "sha256": "3bccebc3e57cf55fcd4e0ac1a785d57d9dff14a1d4e2565ad4b185d7bacb5330"
+        }
+      }
+    },
+    {
+      "id": "onboarding/first-task",
+      "title": "Onboarding first-task capture",
+      "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "onboarding/first-task/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 50998,
+          "sha256": "a3a6970d348b7c0f99ca8a61c59e6eb76983d882a76a9c31bc9a798f41b8c3a9"
+        },
+        "mobile-dark": {
+          "path": "onboarding/first-task/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 52658,
+          "sha256": "1b24600eec6d96ff72a9dd467808bcf95693e9dbd6d17b4ea73e99480a9d301c"
+        },
+        "desktop-light": {
+          "path": "onboarding/first-task/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 82196,
+          "sha256": "084033fd6837a2565d5727eed0ef128db55967b53abe08f85c5bf5276e94d14b"
+        },
+        "desktop-dark": {
+          "path": "onboarding/first-task/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 85552,
+          "sha256": "ed8c283dce2999ddaf928c293c0549502e74cdb2864eda28bb9fffcd3030fad3"
+        }
+      }
+    },
+    {
+      "id": "onboarding/task-created",
+      "title": "Onboarding task created",
+      "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "onboarding/task-created/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 51346,
+          "sha256": "6d6a6535dc85b243eb6db057a120589bbde2646537c8f5c0e6cdc82dc1850f88"
+        },
+        "mobile-dark": {
+          "path": "onboarding/task-created/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 53178,
+          "sha256": "3379c1b7099a94860b08961f36ce010f649153c66f41bf0e8a4639ff6ee35924"
+        },
+        "desktop-light": {
+          "path": "onboarding/task-created/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 54600,
+          "sha256": "7a6ea9ef4457cf516e6accc7efcf689856b0a7926fc6ee3505372e71594ffc00"
+        },
+        "desktop-dark": {
+          "path": "onboarding/task-created/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 56398,
+          "sha256": "a089173c688d497bed1d1c501dc27875e94ce689ff68d54445403e3d8f249d12"
+        }
+      }
+    },
+    {
+      "id": "whats-new/latest",
+      "title": "Latest What's New release",
+      "sourceTest": "test/features/whats_new/ui/whats_new_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "whats-new/latest/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 112662,
+          "sha256": "10d1154be9b0d8e1adabcf302e6d59dfba703bd2b5ee3e213c964f4959e9acc8"
+        },
+        "mobile-dark": {
+          "path": "whats-new/latest/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 116502,
+          "sha256": "c20ad5c7b1310f0278dcda609e80bee9bd9ec7a13d350ccf2a615c2368c1857f"
+        },
+        "desktop-light": {
+          "path": "whats-new/latest/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 176546,
+          "sha256": "517672166f7de9bbca26db9df14bc5161fbd160730655ed7aa1213c41de58bb9"
+        },
+        "desktop-dark": {
+          "path": "whats-new/latest/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 173474,
+          "sha256": "64357d5827551eabb29106a864c20f294939a71fdc8984e14b496443dff9fa1f"
+        }
+      }
+    },
+    {
+      "id": "whats-new/past-release",
+      "title": "Past What's New release",
+      "sourceTest": "test/features/whats_new/ui/whats_new_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "whats-new/past-release/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 119456,
+          "sha256": "12dce0f5a26928ca5268b4f7369d63c8fe3265c4600e090cf7c778dcdb04140a"
+        },
+        "mobile-dark": {
+          "path": "whats-new/past-release/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 122520,
+          "sha256": "e7425c3045969e5201010b333e0572414853fd6acf5a575095982e2ac8edea07"
+        },
+        "desktop-light": {
+          "path": "whats-new/past-release/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 189460,
+          "sha256": "36377bd0f390179bc9e1b13f01cb58ae006b3fe2ee0d504e7f37b1da8aa954ad"
+        },
+        "desktop-dark": {
+          "path": "whats-new/past-release/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 186806,
+          "sha256": "602e37dfa7ef5d15b05e91fd72142f9bd9ce7c0d0e408211dfcaa3e8c359c96c"
         }
       }
     }
