@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:07:09+02:00",
-  "appCommit": "66d63dff35380288a5ef1416e3f11e7d136b99a7",
+  "generatedAt": "2026-07-17T10:16:22+02:00",
+  "appCommit": "9ea73b18c05a774fadbf01f721be9f679ace3b75",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -386,6 +386,41 @@
           "height": 1800,
           "bytes": 67554,
           "sha256": "ba3c8c387e524b717535e409379ada8028a4e594a65bdfcd0a4d147f032f5fd9"
+        }
+      }
+    },
+    {
+      "id": "settings/definitions",
+      "title": "Settings definitions hub",
+      "sourceTest": "test/features/settings/ui/settings_home_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "settings/definitions/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 24238,
+          "sha256": "c49c1fb25153bdc06b5a72c91e81dce260e14b4c775f3f4a78e57cfcdd310825"
+        },
+        "mobile-dark": {
+          "path": "settings/definitions/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 25742,
+          "sha256": "07795eeb788eb8058ca8dd7a8035f4f5ef789481f87ac9081d1ba489deb7decc"
+        },
+        "desktop-light": {
+          "path": "settings/definitions/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78192,
+          "sha256": "64fbd900e0905e9e0386d5c22d95a2d024652ccb59f27a43ca3aa9fa6f7bf80f"
+        },
+        "desktop-dark": {
+          "path": "settings/definitions/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83696,
+          "sha256": "c14e732d4753665c9e2a39370b56f076fedc4957bed390a7e03633cacd948813"
         }
       }
     },
