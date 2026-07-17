@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T05:00:29+02:00",
-  "appCommit": "7cc2ed7b7927800ee3ba209431869a2070e97b38",
+  "generatedAt": "2026-07-17T05:19:41+02:00",
+  "appCommit": "b95af61bdefca53f4c7c422329e073495b76131d",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1716,6 +1716,216 @@
           "height": 1800,
           "bytes": 94368,
           "sha256": "96ea23dccf5f5e285b5d02909296c12b74873263554ea28a1d5982ac16f593b2"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/hub",
+      "title": "Advanced Settings hub",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/hub/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 36302,
+          "sha256": "aa901d837b7f6c3b161033e3b771260cc67c0f5c34386e1bf2d5e39320a7cbc7"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/hub/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 38766,
+          "sha256": "0af35d342cfc31dbf7ce740e53d4c6ef48b821cb798da1eccacaf23828a61781"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/hub/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 83722,
+          "sha256": "6c73ccc8fdb663bcdbd5d41f7e15cbd12bb7d6e664ce188feff449c5082ec929"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/hub/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89250,
+          "sha256": "cd532db8badd011b853b9ba63bff250b51d4b7106c899f743a1d8dce93d860bc"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/flags",
+      "title": "Configuration flags",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/flags/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 64660,
+          "sha256": "793555014b67c7e844229b90c6c05f290bb9a3eb851a794b2e8e6bffbc7d2120"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/flags/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 68856,
+          "sha256": "da7e5e3b7c838f52856687877b67fd0ac1926d2688131855b78ce881a596efff"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/flags/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 204374,
+          "sha256": "d866f419dcbcb3227537afc881c7d74e6e93bcf9b78f4b8cebc91d853bd36867"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/flags/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 218060,
+          "sha256": "62b6d1a8f72be76c9ad6cf7ae51459d4d9b2f6528e94eebc4d52f39c6672647d"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/logging",
+      "title": "Logging domains",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/logging/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 32414,
+          "sha256": "76907d0050ed0cb54e24c64b9df8c522c5395c9321796cb5b6d943c9c1d6abc2"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/logging/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 34094,
+          "sha256": "e4ba1c02265c7edb7b28e34ce7e9a76dd89e7c77833c7886f673478790ce8c99"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/logging/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 105880,
+          "sha256": "8f7156d21cf936fa48a8b5268be287ed27b81b7a2e8a6f16c45d74755387dbae"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/logging/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 111690,
+          "sha256": "1e395ad94108955742617b0e596d52ee2faea3866bce46a992dea90b5fa9cd14"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/maintenance",
+      "title": "Maintenance actions",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/maintenance/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 64612,
+          "sha256": "27e00fdd1380fa3f35f4eb3db9c2c5d9d31a4f1bf33b6f7bf17340f562cb05ae"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/maintenance/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 68664,
+          "sha256": "67f6374561796d9dc3f7affe89764ec3b931148f522227c771b07185d7fd6dba"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/maintenance/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 154052,
+          "sha256": "45aa7250ad7b45f2a8b55ff09fc9440b51777de7ed87ad7d624d431b45bd6c24"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/maintenance/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 163438,
+          "sha256": "984632a140f763933c2dd374a665aa9a6ea0830e00e9093b9d97027de8efd385"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/onboarding-metrics",
+      "title": "Onboarding metrics",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/onboarding-metrics/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 31884,
+          "sha256": "286c85767a8f6b1ddd3c66fd99d49a5d7ff276daa49f86295542badbfecc8904"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/onboarding-metrics/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 34278,
+          "sha256": "aff70c7ca686a6a80194ea6510359bb69cde8aa91da6542d58e53ce413f1d687"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/onboarding-metrics/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 107258,
+          "sha256": "a105d465f61cf5f4daf1744562c5b68500baf16c61d2c1ff2d1ad7b2b72c9685"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/onboarding-metrics/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 114196,
+          "sha256": "edf1b35fdc1047c4c63ff287d3e25e239e0d70364929a017091486c82dcf1da6"
+        }
+      }
+    },
+    {
+      "id": "advanced-settings/about",
+      "title": "About Lotti",
+      "sourceTest": "test/features/settings/ui/settings_advanced_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "advanced-settings/about/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 30564,
+          "sha256": "c9b5f2ba62cfd645f952d8331bc0d778038a86e77e27468d85266754b8cc311a"
+        },
+        "mobile-dark": {
+          "path": "advanced-settings/about/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 30532,
+          "sha256": "fc0dc3808e33133e0a85dbc4eded1615c57d4e159233a1d42b008375368caf51"
+        },
+        "desktop-light": {
+          "path": "advanced-settings/about/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 101616,
+          "sha256": "8b8cf5c5dc1cc2145b1ecd240afdeeb4834c83629c7395f336c2ea5b65dde5df"
+        },
+        "desktop-dark": {
+          "path": "advanced-settings/about/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 106210,
+          "sha256": "6be2e8991c9a334dc03e70148fa747ff0f679b0b48ba2d41099f334550d61036"
         }
       }
     }
