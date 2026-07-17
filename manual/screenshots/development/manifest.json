@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T04:21:38+02:00",
-  "appCommit": "32ce820d666e52a1850e0a41ec0bd32157fa1a6c",
+  "generatedAt": "2026-07-17T05:00:29+02:00",
+  "appCommit": "7cc2ed7b7927800ee3ba209431869a2070e97b38",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1471,6 +1471,181 @@
           "height": 1800,
           "bytes": 282310,
           "sha256": "5923affccb6cbc106db7c948991717e324516146d60aa0ab715bdf83c69171f8"
+        }
+      }
+    },
+    {
+      "id": "journal/overview",
+      "title": "Journal overview",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/overview/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 84504,
+          "sha256": "02db05c1622023c29613f1ba4047235fdd8c25cc97d8aede656a687206b1adc4"
+        },
+        "mobile-dark": {
+          "path": "journal/overview/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 88478,
+          "sha256": "a86d484cc37f1ad4a1bd14383ff32681e130591828e1fdf6a24ab07083e728e2"
+        },
+        "desktop-light": {
+          "path": "journal/overview/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 102394,
+          "sha256": "01bf9460546662f1ecb40eb3ddd9352411548183a50f25ca03e306aece68454b"
+        },
+        "desktop-dark": {
+          "path": "journal/overview/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 106124,
+          "sha256": "ffed4d3b5c9c3ccd093d69ba6515ac9257ae4b56690d74ee4aa1fa1fc1c605f3"
+        }
+      }
+    },
+    {
+      "id": "journal/filters",
+      "title": "Journal filters",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/filters/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 60486,
+          "sha256": "21862b80ded71ed57a3e59ac10db7880bc0e989dee34f39f8ccbdec4e02c7093"
+        },
+        "mobile-dark": {
+          "path": "journal/filters/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 57730,
+          "sha256": "2ecd43de6187cd7772a7e3715ba636a9d40764cd1148d9f2108d7dd63ae0b517"
+        },
+        "desktop-light": {
+          "path": "journal/filters/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 94616,
+          "sha256": "2124bdbe292d647d9d79a88c349cd6c939db5ea0f7176ec8a82ea36ee91256ac"
+        },
+        "desktop-dark": {
+          "path": "journal/filters/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 85648,
+          "sha256": "d6de9423f9444a895a8260b0cdd0c0731d34f7dd11f3b35e249a1b038fb48f79"
+        }
+      }
+    },
+    {
+      "id": "journal/create",
+      "title": "Journal create menu",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/create/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 49734,
+          "sha256": "c9d39f56ab1ed5b57f8c9a32a4d116bace6499eceea754bf9f78775b1ee91880"
+        },
+        "mobile-dark": {
+          "path": "journal/create/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 43054,
+          "sha256": "cd3fd603b1cd92b4a448640bae813dd7ed09c9f4e9194dd95e52a907c62a8379"
+        },
+        "desktop-light": {
+          "path": "journal/create/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 79392,
+          "sha256": "109261d6a01a4f607599a1c9c962f1c2d6458f8fb1475273924d4cc35fc3a7b8"
+        },
+        "desktop-dark": {
+          "path": "journal/create/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 67788,
+          "sha256": "2102bea73ee191cc220155ef5efa72daa253e3fa8cb4e53ad0aea3146daa330c"
+        }
+      }
+    },
+    {
+      "id": "journal/detail",
+      "title": "Journal entry detail",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/detail/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 73068,
+          "sha256": "6f1f342d9c06276d6a1cca54c08f82dd313600d85185daee24affe17fc30a612"
+        },
+        "mobile-dark": {
+          "path": "journal/detail/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 77416,
+          "sha256": "d768690507644b02a21e3f834b2529b019063683f4d6bf11084a8830d064219d"
+        },
+        "desktop-light": {
+          "path": "journal/detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 252362,
+          "sha256": "f3da2143516488e1a5696634f092f7015f962950014bd51b9316eef80ab31fb8"
+        },
+        "desktop-dark": {
+          "path": "journal/detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 254900,
+          "sha256": "06dc5b5c15793fc055f4e76edfa2db2ca3a70178d9c6bc5db9c02cb024116c9b"
+        }
+      }
+    },
+    {
+      "id": "journal/activity",
+      "title": "Journal linked activity",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/activity/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 54388,
+          "sha256": "4511123573ff7f8e4b6cffa3325b771898e747237fe9afbd3a8b56527533594c"
+        },
+        "mobile-dark": {
+          "path": "journal/activity/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 58398,
+          "sha256": "27639c7bbb4e3ab7449e880c5a46ca28326f19cc13931e13e82583111933ec66"
+        },
+        "desktop-light": {
+          "path": "journal/activity/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 108328,
+          "sha256": "b4604967722331f27ded56cb116b1d551659306960b5cd12ab2b97fb55f207f8"
+        },
+        "desktop-dark": {
+          "path": "journal/activity/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 114388,
+          "sha256": "b76b41404d29774ebe2be80eedfbc03190aedd20723d26004b7daa89b98b9e33"
         }
       }
     }
