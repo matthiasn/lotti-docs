@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T07:31:17+02:00",
-  "appCommit": "3615a5b63728c995b0ec67e4d6783c9aa20ac623",
+  "generatedAt": "2026-07-17T07:46:54+02:00",
+  "appCommit": "573f2d1c4311bc5439e0e232fce7c0dc9409291c",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -118,29 +118,29 @@
           "path": "daily-os/timeline/mobile-light.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 66148,
-          "sha256": "288352a239fa0bcd8b5dd9bda26fd4ea1bffa36dfefefa434c90b7bf3dc90c16"
+          "bytes": 66406,
+          "sha256": "118e21af610a71258ecc076c215ad7aa4fa8c12f335af348228237ca49fccd13"
         },
         "mobile-dark": {
           "path": "daily-os/timeline/mobile-dark.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 71048,
-          "sha256": "b32acb66c71999cd31e6a471a9f1ba2eb2242bcc9bdacd02fef562f2a28b4eb6"
+          "bytes": 71320,
+          "sha256": "64c77089d5812ba6cb09e72fa91188d2b4c1b10fbf027a9f97fc3fb0a9f9b7a5"
         },
         "desktop-light": {
           "path": "daily-os/timeline/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 136326,
-          "sha256": "8a089aed089d493486f50a4982808c187a07abe08855a127e865e264f28340c5"
+          "bytes": 138180,
+          "sha256": "b189351b58e614192eecdee7151e7aa12ec20e5ec06d179b7f446e855f302f8e"
         },
         "desktop-dark": {
           "path": "daily-os/timeline/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 141690,
-          "sha256": "ab34216fd803037848a3fa9779ea340d2db26526faed4d43c93b49244f4022e5"
+          "bytes": 145588,
+          "sha256": "83e9aa53eaf9681fe187dc3440703beda64479347c30395ce5f4f00772f826a1"
         }
       }
     },
@@ -153,29 +153,29 @@
           "path": "daily-os/arrange/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 64108,
-          "sha256": "ed9e2484e6b5188b25669b5b72c7a5a86763146e39c2b76405f5c38919076edf"
+          "bytes": 64266,
+          "sha256": "c3335aaa65f90d9b9de334ca623760e9d3cc1559dadae2183fe82be6746732e4"
         },
         "mobile-dark": {
           "path": "daily-os/arrange/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 68776,
-          "sha256": "c8ca10841c8615f4ca630ea6fa08b65f20b4177464215b9ade961607bfef97a5"
+          "bytes": 68916,
+          "sha256": "8ea25f22153e93a8bd22c04800fbc06b3df0a40c5feda585501573d3f9c9e872"
         },
         "desktop-light": {
           "path": "daily-os/arrange/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 103106,
-          "sha256": "2eca0429a478c3be19bd27fb9dfecf9392819567cae7103f4273a0f11af7bdc1"
+          "bytes": 102518,
+          "sha256": "e8f2889d0e72f8c781f53d3f3dfcfda39342797035625924323da98ed75b3ebf"
         },
         "desktop-dark": {
           "path": "daily-os/arrange/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 108572,
-          "sha256": "9068d83ed0708cf8aa93e8ac8fae140dc03118f55abfa61d2a1ca5247a8a9546"
+          "bytes": 109086,
+          "sha256": "21f26ed3705cb1ddfcb1a51397f6e6d92454fd4cb463de9c431911e22e590c0f"
         }
       }
     },
@@ -363,29 +363,29 @@
           "path": "settings/home/mobile-light.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 51628,
-          "sha256": "f06e343f078999187c411df1efedfadf9caee961b5875b9eec07f43a845f8293"
+          "bytes": 55686,
+          "sha256": "8ac557af322e42cb94d822dc826e851ddad13bba09eeae75a02c7cc06c7b4c7c"
         },
         "mobile-dark": {
           "path": "settings/home/mobile-dark.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 55296,
-          "sha256": "356246638d0b4fefca988d8cebad2530acd38868df135650398417da9fe2e1a3"
+          "bytes": 59730,
+          "sha256": "7ae9b9029f0003c478c34e40fcb9eb7236a58247ffdbf386611908084bad2de2"
         },
         "desktop-light": {
           "path": "settings/home/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 59238,
-          "sha256": "9bcc81ebb15ae8d2fb5406539ee92285f1bc9501f36d8bc407fa8f4e0c7526ec"
+          "bytes": 63596,
+          "sha256": "d3faea96893fa507ebfb475f40a07e2afc21a1ca0fde26571751eb6a532e8a99"
         },
         "desktop-dark": {
           "path": "settings/home/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 62954,
-          "sha256": "55444ab11b98495e73aa257053d4bc57551f31cff280599f5ac3c24e8b4fc634"
+          "bytes": 67554,
+          "sha256": "ba3c8c387e524b717535e409379ada8028a4e594a65bdfcd0a4d147f032f5fd9"
         }
       }
     },
@@ -398,29 +398,29 @@
           "path": "tasks/workspace/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 96146,
-          "sha256": "55926cdb53bf2d76c33d959162b71de5cad3fba2e9c1c832bc824ea7c2dcad74"
+          "bytes": 101324,
+          "sha256": "188be411a7ab565f4d1804dead6da1fef2837960dc8f6a9d9014aa5a8577a7ef"
         },
         "mobile-dark": {
           "path": "tasks/workspace/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 99036,
-          "sha256": "9e61914658741074fec7dd33402a354c7027c8f7c30efbb2798e806a752b0573"
+          "bytes": 104236,
+          "sha256": "b52401254aeadd90937dd7a2bd2e63b2050014b0f5e578fca7e31c40093602d1"
         },
         "desktop-light": {
           "path": "tasks/workspace/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 299508,
-          "sha256": "d1cf0bec30de6b553fd2fb7f39319f445da8f8e07fdbadec823df91994a712fb"
+          "bytes": 304914,
+          "sha256": "d22b283e0f8c5fa0d7a0b56afb172a529903f56198336f3557807ee92442007f"
         },
         "desktop-dark": {
           "path": "tasks/workspace/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 304254,
-          "sha256": "632be69fb2dca37e72f1dee3247d575ae5b78941da05c578569b97365d2dc700"
+          "bytes": 311956,
+          "sha256": "8b63f37e7eedea4f70aac0f3f3f64627b9e39623004560b53f13d968ae6bb980"
         }
       }
     },
@@ -433,15 +433,15 @@
           "path": "tasks/detail/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 90076,
-          "sha256": "dd3197ff1818233ad03cf93e2b8d0cbe5421c234b4583456525c219069534d2d"
+          "bytes": 89930,
+          "sha256": "c5a7a4466f1e06b90c52abc52dd718fe1ca7bfef113256be8488aac521c0589d"
         },
         "mobile-dark": {
           "path": "tasks/detail/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 91232,
-          "sha256": "1210790e838fcbd019a6d51fac461f9c3f851df39e9b4db0d496a0db3aa71b21"
+          "bytes": 90926,
+          "sha256": "d7f7c6e8b91dab2bb53c782c81ecd95fc1ed0fecbe424c5c6cf78439e29c2792"
         },
         "desktop-light": {
           "path": "tasks/detail/desktop-light.webp",
@@ -482,15 +482,15 @@
           "path": "tasks/filters/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 178808,
-          "sha256": "8a370650769421d961ee329ed4b30e558bfe93d8a955b9d6691e4d2b2207592d"
+          "bytes": 182270,
+          "sha256": "b2189685c522df96605f03c79cbd65492be6888aa9cbcefa7318a138fd34a377"
         },
         "desktop-dark": {
           "path": "tasks/filters/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 147326,
-          "sha256": "d7e0d87458ac9fe0fc0cf5f7cd6371db6d843e1aa733543314192a548fcc0ac3"
+          "bytes": 149920,
+          "sha256": "ef44c43782024cd6de0836533d9ad427e08c23218a5449ac118a27201c1f7f20"
         }
       }
     },
@@ -1343,29 +1343,29 @@
           "path": "keyboard-shortcuts/catalog/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 35026,
-          "sha256": "b4512dd10934befcb5c20a31fe2eba5c8bd115c5461cf884146a8da47f30b27a"
+          "bytes": 35068,
+          "sha256": "0a83ee2a1dbb6e484df8b73b696db3c55222240d3aaaa5f9f5cf65ee67a6de15"
         },
         "mobile-dark": {
           "path": "keyboard-shortcuts/catalog/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 35926,
-          "sha256": "349e9ad2f96ee945304ed59c25810c2eea81c1cfdb8a3e68975ce52a339a1db3"
+          "bytes": 36124,
+          "sha256": "85d5310aaf7824323a37e44d7803c27ab2078e4b0a75e11a59740ecf5f44681f"
         },
         "desktop-light": {
           "path": "keyboard-shortcuts/catalog/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 95382,
-          "sha256": "64e08f9c9982b48baf34e715c24b62bb5e8dba6efe2a7e8b17cb6058585049c8"
+          "bytes": 95976,
+          "sha256": "cb3d397357f727b05727165454d52a8f79810753ffb9f799969d47c475e2f015"
         },
         "desktop-dark": {
           "path": "keyboard-shortcuts/catalog/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 99334,
-          "sha256": "61d4acfd83ecbd14bccc5579cd3541b1f6d31c12ab762ee1b3a2dc0b65e930e5"
+          "bytes": 99204,
+          "sha256": "394cb1d98fd24eb3419156cbad849e3749ec22299f9bcce01226b4b95d306c78"
         }
       }
     },
@@ -1378,29 +1378,29 @@
           "path": "keyboard-shortcuts/search/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 17726,
-          "sha256": "aae8cdfb1d2e8b961bf2c8f0983d9b79a2c042122c38c75ba536668087609b6a"
+          "bytes": 17702,
+          "sha256": "001d9dca80df0884eba58ef5cd0e7e776daf8bfbf4777fe24010de3d3d28f4ea"
         },
         "mobile-dark": {
           "path": "keyboard-shortcuts/search/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 18448,
-          "sha256": "bec892af4a52a12c127d1fc19ac97d64657d330da4af44a75bc71dd80e241e9b"
+          "bytes": 18460,
+          "sha256": "06804937a583cb08ae01673cdc074829d52f519a0d08d620162897f6cc053ec6"
         },
         "desktop-light": {
           "path": "keyboard-shortcuts/search/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 69164,
-          "sha256": "41e4401e7aabb34d8bdd71c8dca77aef1d90f483f024fafb801567d0d0570176"
+          "bytes": 68980,
+          "sha256": "8ecd8fd1209ee74199fb9289c5bcd4c248db780ae536622a6cc62698d839a9ff"
         },
         "desktop-dark": {
           "path": "keyboard-shortcuts/search/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 73088,
-          "sha256": "3ee6f044e2fec12eea974055ee01e97993600171c840999a62f340a71a0afd1d"
+          "bytes": 73124,
+          "sha256": "a24bf014f007c5c056de01705b5826a4c28169187b970d04ac1e0ad4fad649bf"
         }
       }
     },
@@ -2031,6 +2031,41 @@
           "height": 1800,
           "bytes": 94368,
           "sha256": "96ea23dccf5f5e285b5d02909296c12b74873263554ea28a1d5982ac16f593b2"
+        }
+      }
+    },
+    {
+      "id": "time-analysis/running-total",
+      "title": "Time Analysis running total",
+      "sourceTest": "test/features/insights/ui/time_analysis_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "time-analysis/running-total/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 52876,
+          "sha256": "bedc8511e8fae3b5488713666a92469322f04fd6344914572438fee6889bea7b"
+        },
+        "mobile-dark": {
+          "path": "time-analysis/running-total/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 54716,
+          "sha256": "5c0b5fbd195771ea6de55a9922c582997e096ec9c686a7ee1698ace290eff8b4"
+        },
+        "desktop-light": {
+          "path": "time-analysis/running-total/desktop-light.webp",
+          "width": 2800,
+          "height": 1800,
+          "bytes": 106408,
+          "sha256": "f1cb360cfa6b02b57a72b9b38d1f10f733e5ce64103496d0ad56cc3d3d5b967c"
+        },
+        "desktop-dark": {
+          "path": "time-analysis/running-total/desktop-dark.webp",
+          "width": 2800,
+          "height": 1800,
+          "bytes": 108758,
+          "sha256": "33dcf6c910534dd749905ea8ea46953959521e91cc9edda4a2f776f5d58f85f8"
         }
       }
     },
@@ -2813,29 +2848,29 @@
           "path": "ai/legacy-profiles/mobile-light.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 44318,
-          "sha256": "70278b068e838cb2b7e6185e98c0f28b7a4a3fd466bd50f051733fa456748f17"
+          "bytes": 43150,
+          "sha256": "0f361c7089c1b41ec9a8bf54106c60bed7710587dc54460ed5b061c621bc0f52"
         },
         "mobile-dark": {
           "path": "ai/legacy-profiles/mobile-dark.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 46928,
-          "sha256": "c58297c9bec7a503ee4ca054e0f243f0dd49d6cd93e1836250ceb2b23b21513a"
+          "bytes": 45612,
+          "sha256": "84fa009e16a42e9e2a44b9b9c3a7f4c692220cd6f85e413d56b08746d1e8085a"
         },
         "desktop-light": {
           "path": "ai/legacy-profiles/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 50750,
-          "sha256": "98d2836e12cbffc02c23b9c97ff530da5518949e304c2e5f8399b4c634f355e8"
+          "bytes": 50906,
+          "sha256": "6c6dcb087878c8e9d36dcb8c1c94cb15750252bd52696a951abca803387ddc3a"
         },
         "desktop-dark": {
           "path": "ai/legacy-profiles/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 53442,
-          "sha256": "aa82a673c3014e5ad93ca1bb7513d9241f67e4290e1044704625249e17d0e34d"
+          "bytes": 52422,
+          "sha256": "fb1a7315954200d058cfa24e0562e3f24af0eb2a00cc835ac531fa8d748e54d3"
         }
       }
     },
@@ -2918,29 +2953,29 @@
           "path": "agents/stats/mobile-light.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 51384,
-          "sha256": "0abdb32bb768b5b052c08b69681ed658bb79548aae0968ade07ebf5c45eb5585"
+          "bytes": 50846,
+          "sha256": "e64392afee7403e1b22eae0932d99da0e958e2b1608b8132869f13a185ce20dd"
         },
         "mobile-dark": {
           "path": "agents/stats/mobile-dark.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 53412,
-          "sha256": "9f9a0e988be974422f011d503ba1d6cf3ed50685aa47e6e353649a9833455048"
+          "bytes": 53106,
+          "sha256": "ccd2b63cc2c3c5962a850dbd1ac1ef5685385af7c758c0453d6f083b7af4bc55"
         },
         "desktop-light": {
           "path": "agents/stats/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 115148,
-          "sha256": "6d177c7b567d2150075ecf7994c934dffc3c116bd8e8999758ee6e6695502a03"
+          "bytes": 115206,
+          "sha256": "f7eb46806949de6d1863601cb28bbf48bdf01a2e7a43dfee2d26b336e9669282"
         },
         "desktop-dark": {
           "path": "agents/stats/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 121368,
-          "sha256": "e7c6e7dcce39721420f49a4e7d998b171de9765be61c550d1f57a407e125bfa1"
+          "bytes": 121256,
+          "sha256": "158e067f873b852a8d88654a92ed76a98396b1d9222f92a3a61281d69589fdf5"
         }
       }
     },
@@ -3142,15 +3177,15 @@
           "path": "agents/template-review/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 78168,
-          "sha256": "51fad070a2ad099ac29e309d6c0a7c64a35379f64e55d27857d963ab1017a8a8"
+          "bytes": 78204,
+          "sha256": "2f6dd273e42c5b6282e318ddd67fcc39c46e339a42c9213e48aa7195a4e7a2d3"
         },
         "desktop-dark": {
           "path": "agents/template-review/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 81984,
-          "sha256": "4a19ae5178175eaffab03d356ef778e6f7f4b8a30191eab14e622fac583406c0"
+          "bytes": 81956,
+          "sha256": "93fc18c668b4a778580c3e872f02722bacc4cdb0def3d387e2cb99f2f0aec260"
         }
       }
     },
@@ -3233,29 +3268,29 @@
           "path": "agents/instance-detail/mobile-light.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 80562,
-          "sha256": "8f63c3d649d8ec80ce76fe79642af6283cf002683e16b60f9128b6aa1ae23a52"
+          "bytes": 80624,
+          "sha256": "c7b68391b898f3c8b44188b3474145f8f92063cad674aa1c469ff14303a2b876"
         },
         "mobile-dark": {
           "path": "agents/instance-detail/mobile-dark.webp",
           "width": 880,
           "height": 1912,
-          "bytes": 86062,
-          "sha256": "eb068519545117ae2b7ddd5bfb4f32cb970c0d8532441397c58c83c362dd8acb"
+          "bytes": 85426,
+          "sha256": "2cbb2d18a63b34fac40676230e74ea151a8330bd3059bf4da637ddadd1e322a8"
         },
         "desktop-light": {
           "path": "agents/instance-detail/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 138382,
-          "sha256": "51d0e33c39ccd95a2d7ec948cbb8b91685daa78256ecb651e85a56c51be4657c"
+          "bytes": 138358,
+          "sha256": "173c137a759eb6549008de8d7f65b8fb47858fb539f38ea71ed7e15d6a435d4b"
         },
         "desktop-dark": {
           "path": "agents/instance-detail/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 147474,
-          "sha256": "cca7c7bf6d5aa4ab7666d6c869c1615dda9a21e8dbf1ec58d291db73d4cbd898"
+          "bytes": 147368,
+          "sha256": "5de6f7153887a4eba5ddd948142cd15529e01fac5eaf3f31067a5624d2df30ec"
         }
       }
     }
