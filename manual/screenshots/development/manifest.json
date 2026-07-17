@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T09:58:35+02:00",
-  "appCommit": "dd3d84262792951d2277cba8034d86b4e6466df3",
+  "generatedAt": "2026-07-17T10:07:09+02:00",
+  "appCommit": "66d63dff35380288a5ef1416e3f11e7d136b99a7",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -2311,6 +2311,111 @@
           "height": 1800,
           "bytes": 114388,
           "sha256": "b76b41404d29774ebe2be80eedfbc03190aedd20723d26004b7daa89b98b9e33"
+        }
+      }
+    },
+    {
+      "id": "journal/date-time",
+      "title": "Entry date and time editor",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/date-time/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 38042,
+          "sha256": "21abad3516f397efc270980c87213f8a0acb334a7ca8c5cd978139c0f28f2782"
+        },
+        "mobile-dark": {
+          "path": "journal/date-time/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 38542,
+          "sha256": "f40716efbd67e2499c9f26e8778a971c5abec159f5564d98f672a071a466be9e"
+        },
+        "desktop-light": {
+          "path": "journal/date-time/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 158346,
+          "sha256": "cb61baa71782628971a05c259294982a727a68e7eda0dcf9abc6759d042e83a5"
+        },
+        "desktop-dark": {
+          "path": "journal/date-time/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 128390,
+          "sha256": "435399e882e72661f72dd70f8a299f198a97c08dd98ee342bbe764e4f700ca29"
+        }
+      }
+    },
+    {
+      "id": "journal/date-picker",
+      "title": "Entry date picker",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/date-picker/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 37698,
+          "sha256": "ac145f3185210366eb9b188b51058c58f2dfbdfb8d9bd9d40c9517dbe57717dc"
+        },
+        "mobile-dark": {
+          "path": "journal/date-picker/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 37068,
+          "sha256": "9bec5cfe4b47134d0192eb3c757b01b8cc33da0a371c554bc7183233fd6efd55"
+        },
+        "desktop-light": {
+          "path": "journal/date-picker/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 156690,
+          "sha256": "596a947689cb8309cfdb3eebb2ea3ef12e7e1612423d516b8871f19eb5b71e0b"
+        },
+        "desktop-dark": {
+          "path": "journal/date-picker/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 126560,
+          "sha256": "325e34afb9845914616991711b20686bd68eb0b61ea1bd6d95747a6f91f591ee"
+        }
+      }
+    },
+    {
+      "id": "journal/linked-filter",
+      "title": "Linked-entry filter and sort",
+      "sourceTest": "test/features/journal/ui/pages/journal_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "journal/linked-filter/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 49332,
+          "sha256": "7c530fa584d5cf9ade690c65872e6497bf80e2782d46a5c578bdf1a7c7c2b046"
+        },
+        "mobile-dark": {
+          "path": "journal/linked-filter/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 47470,
+          "sha256": "ab01058343d1129d4703a80095518ecab33c57e6cdd71e3291c1d73b54dccc77"
+        },
+        "desktop-light": {
+          "path": "journal/linked-filter/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 205478,
+          "sha256": "8571b788d80111db836c04709e79eb13532ee7a8ffa7e88e9b5355a438baf682"
+        },
+        "desktop-dark": {
+          "path": "journal/linked-filter/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 155798,
+          "sha256": "0009d0156eca2d9568a54e5574c43e7dba174a83749dded373bf1518cc0214d4"
         }
       }
     },
