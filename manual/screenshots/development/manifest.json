@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T02:59:50+02:00",
-  "appCommit": "8b06ec3fd93e4f7138171dc1de7eed2ac298ccd9",
+  "generatedAt": "2026-07-17T03:26:18+02:00",
+  "appCommit": "b193779a1195b9b1ed691fd5acc4f37339abce33",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -911,6 +911,286 @@
           "height": 1800,
           "bytes": 31696,
           "sha256": "30ae2613491243a77c002dbc633702021b2ea0376372a04f947e6ce318c2de05"
+        }
+      }
+    },
+    {
+      "id": "theming/preferences",
+      "title": "Appearance preferences",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "theming/preferences/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 10156,
+          "sha256": "2bf52d3517b5ce5b0adf7ad5cfeb270c72dad909af47cb9f205924da70f8c58b"
+        },
+        "mobile-dark": {
+          "path": "theming/preferences/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 10784,
+          "sha256": "8d9a0ce4293441eec91e844352cd9c62fd657b52e76c77503e8b8e8317fa4ae3"
+        },
+        "desktop-light": {
+          "path": "theming/preferences/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 61872,
+          "sha256": "3238dabe7a6d6b8504f8ea40567d3e88c8457120308d5b0ace0316252ce82b69"
+        },
+        "desktop-dark": {
+          "path": "theming/preferences/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 65560,
+          "sha256": "3ff2daaeed2f2b8e39f42815644a063e9073170b38181dddc5d83323de1e7e64"
+        }
+      }
+    },
+    {
+      "id": "theming/picker",
+      "title": "Theme picker",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "theming/picker/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 29456,
+          "sha256": "1943c12d6f7f137f1795f623c5a4d3858985c94de091a0f69628f0eef2a137b2"
+        },
+        "mobile-dark": {
+          "path": "theming/picker/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 30420,
+          "sha256": "3225414e591849c4bf930d15d018e6cd236194f45d69abf820005ca40f36d991"
+        },
+        "desktop-light": {
+          "path": "theming/picker/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 70564,
+          "sha256": "d0adc9f73dbbd24710a9ba0ec485c2de1db579881ae1e822309e028a8e601d00"
+        },
+        "desktop-dark": {
+          "path": "theming/picker/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 75930,
+          "sha256": "62c3deece344cb2dff724d9764d76d9fb977e955401a989b2014f9039c985812"
+        }
+      }
+    },
+    {
+      "id": "recording-style/preview",
+      "title": "Recording style preview",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "recording-style/preview/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 34418,
+          "sha256": "4a00c7b09175e7a954bb7872f64b6f36ef60b8691907ca35116985e5a4c8df3e"
+        },
+        "mobile-dark": {
+          "path": "recording-style/preview/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 34598,
+          "sha256": "e99caf551871b536de822f4f44e16579562d2da30f955a5d744f01247101d9ea"
+        },
+        "desktop-light": {
+          "path": "recording-style/preview/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 84036,
+          "sha256": "254cee52fb122ee5ad1384b159a2020747ebdae2a662fbe583d8d531bf132272"
+        },
+        "desktop-dark": {
+          "path": "recording-style/preview/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 89808,
+          "sha256": "75c8d4abd2187ff24d7471c8192155f6ef8f496955cfef21a0d72421acabd7dc"
+        }
+      }
+    },
+    {
+      "id": "keyboard-shortcuts/catalog",
+      "title": "Keyboard shortcut catalog",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "keyboard-shortcuts/catalog/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 35026,
+          "sha256": "b4512dd10934befcb5c20a31fe2eba5c8bd115c5461cf884146a8da47f30b27a"
+        },
+        "mobile-dark": {
+          "path": "keyboard-shortcuts/catalog/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 35926,
+          "sha256": "349e9ad2f96ee945304ed59c25810c2eea81c1cfdb8a3e68975ce52a339a1db3"
+        },
+        "desktop-light": {
+          "path": "keyboard-shortcuts/catalog/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 95382,
+          "sha256": "64e08f9c9982b48baf34e715c24b62bb5e8dba6efe2a7e8b17cb6058585049c8"
+        },
+        "desktop-dark": {
+          "path": "keyboard-shortcuts/catalog/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99334,
+          "sha256": "61d4acfd83ecbd14bccc5579cd3541b1f6d31c12ab762ee1b3a2dc0b65e930e5"
+        }
+      }
+    },
+    {
+      "id": "keyboard-shortcuts/search",
+      "title": "Keyboard shortcut search",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "keyboard-shortcuts/search/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 17726,
+          "sha256": "aae8cdfb1d2e8b961bf2c8f0983d9b79a2c042122c38c75ba536668087609b6a"
+        },
+        "mobile-dark": {
+          "path": "keyboard-shortcuts/search/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 18448,
+          "sha256": "bec892af4a52a12c127d1fc19ac97d64657d330da4af44a75bc71dd80e241e9b"
+        },
+        "desktop-light": {
+          "path": "keyboard-shortcuts/search/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 69164,
+          "sha256": "41e4401e7aabb34d8bdd71c8dca77aef1d90f483f024fafb801567d0d0570176"
+        },
+        "desktop-dark": {
+          "path": "keyboard-shortcuts/search/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 73088,
+          "sha256": "3ee6f044e2fec12eea974055ee01e97993600171c840999a62f340a71a0afd1d"
+        }
+      }
+    },
+    {
+      "id": "celebrations/controls",
+      "title": "Completion celebration controls",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "celebrations/controls/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 64194,
+          "sha256": "fd87c03016f14682513a1e6b3bde0fb15a4233efe7c35439252c9608d16f5fc2"
+        },
+        "mobile-dark": {
+          "path": "celebrations/controls/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 69488,
+          "sha256": "64d352e6f7fa58ed396f7990d270405c276be8f0c7d81802712e0b4b6a5b9ed3"
+        },
+        "desktop-light": {
+          "path": "celebrations/controls/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 152530,
+          "sha256": "54dd644ce173fea8b265e5e84b84b92925909766ff481486f5be0c6dc6625764"
+        },
+        "desktop-dark": {
+          "path": "celebrations/controls/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 162724,
+          "sha256": "266045e36261fec973deacf92b189afe9387500c266e341661d386e88208a1ec"
+        }
+      }
+    },
+    {
+      "id": "celebrations/styles",
+      "title": "Completion celebration styles",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "celebrations/styles/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 38670,
+          "sha256": "02ae40504c5d7d06aef2ff75acd4ee7f35931254eaeb04ebbbf9709ce443dcee"
+        },
+        "mobile-dark": {
+          "path": "celebrations/styles/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 41348,
+          "sha256": "4a8ea6e62205217f60942d1885e899462dc304fa7d471d50eee01cd3e3c81186"
+        },
+        "desktop-light": {
+          "path": "celebrations/styles/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 154490,
+          "sha256": "7f202dca779cc4c76bfbd9dfd09b3f26f4ac2a58e5ea25b491f7cab07321707a"
+        },
+        "desktop-dark": {
+          "path": "celebrations/styles/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 162734,
+          "sha256": "caceb120f919c370ab1b3943ad525d402e1a9bc04365e7fcc4f8e518f0eb213e"
+        }
+      }
+    },
+    {
+      "id": "celebrations/playground",
+      "title": "Completion celebration playground",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "celebrations/playground/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 34134,
+          "sha256": "bdde03d84d290e3227d6f98df4356b40993282837c06e733b33a7c8a335b12e5"
+        },
+        "mobile-dark": {
+          "path": "celebrations/playground/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 36448,
+          "sha256": "c275247f8541764e45dc43def9f3b4a07097c0749d986bbd80f811fa009ba185"
+        },
+        "desktop-light": {
+          "path": "celebrations/playground/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 55540,
+          "sha256": "1a83e0258273cb325e0378d744e9f8ee6e2ea166a824daf5427ea784670ab269"
+        },
+        "desktop-dark": {
+          "path": "celebrations/playground/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 58132,
+          "sha256": "f92710b9f3533524185f9d9ff00dca56fcb3b88335e4128a52176557a7599f92"
         }
       }
     }
