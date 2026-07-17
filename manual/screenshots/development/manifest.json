@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:27:03+02:00",
-  "appCommit": "bde46c669ab42dd6274abb2ce36cad185c3ac2ba",
+  "generatedAt": "2026-07-17T10:36:56+02:00",
+  "appCommit": "b14e2505e9ae5fcdcc08962b815a257cd9261487",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1786,6 +1786,41 @@
           "height": 1800,
           "bytes": 73124,
           "sha256": "a24bf014f007c5c056de01705b5826a4c28169187b970d04ac1e0ad4fad649bf"
+        }
+      }
+    },
+    {
+      "id": "keyboard-shortcuts/palette",
+      "title": "Command palette",
+      "sourceTest": "test/features/settings/ui/settings_preferences_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "keyboard-shortcuts/palette/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 32814,
+          "sha256": "6ee98ef1cc24de6345e329d0c52b3548959c92ede43ba0d6d711c73c491dd014"
+        },
+        "mobile-dark": {
+          "path": "keyboard-shortcuts/palette/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 33150,
+          "sha256": "cb41aa4eadd830413bbeea5ec3ee367572c50a049e4e5d56c072daa7ed5e7b76"
+        },
+        "desktop-light": {
+          "path": "keyboard-shortcuts/palette/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 91170,
+          "sha256": "d5dd934ee355d69e767531acebfe08ca1379d179cd0a07456e1fd94c9cb18786"
+        },
+        "desktop-dark": {
+          "path": "keyboard-shortcuts/palette/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 96560,
+          "sha256": "d6fd633994a92a3872e1509ecedc00631e136272828a4a13bf06b5616795d464"
         }
       }
     },
