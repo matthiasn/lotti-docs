@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T10:45:35+02:00",
-  "appCommit": "b46c4a396e860926dd450ae5a1004fb2eb4443a5",
+  "generatedAt": "2026-07-17T11:07:56+02:00",
+  "appCommit": "24c33d44ec2c45ef96aedbb59793e054e21607d8",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1436,6 +1436,76 @@
           "height": 1800,
           "bytes": 111480,
           "sha256": "9dd77e15dbaf69e08731ed3d1bed01b41f80662a7f6ae53947723eaa1e17e919"
+        }
+      }
+    },
+    {
+      "id": "surveys/panas-intro",
+      "title": "PANAS survey instructions",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "surveys/panas-intro/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 56230,
+          "sha256": "b411953b863162935ecf8ba6859dd2b29a8e731381d85229977e2f34ac9d045f"
+        },
+        "mobile-dark": {
+          "path": "surveys/panas-intro/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 58276,
+          "sha256": "91425b07b907c373cc828e644cd29ee9075e87e872ec1af163f404ccc2e04d3a"
+        },
+        "desktop-light": {
+          "path": "surveys/panas-intro/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 102486,
+          "sha256": "874e638ee694793913b0e9cf13351839892bdc5a53d21778ccd3362251f71101"
+        },
+        "desktop-dark": {
+          "path": "surveys/panas-intro/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99334,
+          "sha256": "9edd2ffdc44494d5b49e03db98a1c6034b72126f0af5f0910553962ac5374564"
+        }
+      }
+    },
+    {
+      "id": "surveys/panas-question",
+      "title": "PANAS survey question",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "surveys/panas-question/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 22272,
+          "sha256": "7bc44a521933dd3502430d678cccc43fa9d67e72a5c1d79e915fc13b976fe6b2"
+        },
+        "mobile-dark": {
+          "path": "surveys/panas-question/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 22352,
+          "sha256": "b9475b4c927e9c318f223df31ead07579e5810d51365da5e6df20a83cd02fa92"
+        },
+        "desktop-light": {
+          "path": "surveys/panas-question/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 68270,
+          "sha256": "c894bd1cfe08335920f44b1eebac3914b79e33b88cd719dbc2ee004e75f81faa"
+        },
+        "desktop-dark": {
+          "path": "surveys/panas-question/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 62060,
+          "sha256": "b33e32a536ed924684e621b4e8f4a92f365dd8531b8e7c1021210fbf9d70063f"
         }
       }
     },
