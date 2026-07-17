@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T06:44:36+02:00",
-  "appCommit": "4bae65b657660f0f92b1846086736c6b1202f158",
+  "generatedAt": "2026-07-17T07:08:17+02:00",
+  "appCommit": "e0d791054be63bbe31475db981eda5992d848c00",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -2731,6 +2731,356 @@
           "height": 1800,
           "bytes": 135038,
           "sha256": "ef012b92e2443f0661e1af4fdcd45e1e39a5e01e96b5203cfee4415d2a23f224"
+        }
+      }
+    },
+    {
+      "id": "agents/stats",
+      "title": "Agent statistics",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/stats/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 51384,
+          "sha256": "0abdb32bb768b5b052c08b69681ed658bb79548aae0968ade07ebf5c45eb5585"
+        },
+        "mobile-dark": {
+          "path": "agents/stats/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 53412,
+          "sha256": "9f9a0e988be974422f011d503ba1d6cf3ed50685aa47e6e353649a9833455048"
+        },
+        "desktop-light": {
+          "path": "agents/stats/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 115148,
+          "sha256": "6d177c7b567d2150075ecf7994c934dffc3c116bd8e8999758ee6e6695502a03"
+        },
+        "desktop-dark": {
+          "path": "agents/stats/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 121368,
+          "sha256": "e7c6e7dcce39721420f49a4e7d998b171de9765be61c550d1f57a407e125bfa1"
+        }
+      }
+    },
+    {
+      "id": "agents/templates",
+      "title": "Agent templates",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/templates/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 49210,
+          "sha256": "72eb1c290675f5ec36b63f3e7e476e93cd47f676db3dbfdd0b90cdc5b00a2a9e"
+        },
+        "mobile-dark": {
+          "path": "agents/templates/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 51558,
+          "sha256": "9946bc567402979e5e3b4965597242eb155b88fbee0609098d0fcee77610715c"
+        },
+        "desktop-light": {
+          "path": "agents/templates/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 109672,
+          "sha256": "3bad9925703be5879644683ef0421824c3e0f0a45fe7edd15bf5d8a012a00588"
+        },
+        "desktop-dark": {
+          "path": "agents/templates/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 116450,
+          "sha256": "b075a385c259df850614600dc00b4d2e2d75a762dbe1516f19d09a231372563b"
+        }
+      }
+    },
+    {
+      "id": "agents/instances",
+      "title": "Agent instances",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/instances/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 59774,
+          "sha256": "4a9d89468786b7a6e2648385ab2f42a5c26fa78a19048fe1d243766d1db94ffb"
+        },
+        "mobile-dark": {
+          "path": "agents/instances/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 63048,
+          "sha256": "c49579cb6a8e9465aa157cc77dc1c7c414957a88f58873219e6fcdee2ce1f7f7"
+        },
+        "desktop-light": {
+          "path": "agents/instances/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 114916,
+          "sha256": "f02bf3e3531988e3e66af4dd28d6010d6b1baf04763e2c8371d0cf1f7c326fca"
+        },
+        "desktop-dark": {
+          "path": "agents/instances/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 121884,
+          "sha256": "56d447766e49756efcefa382d210fec892aacca4295273f471e814bd4e7b840e"
+        }
+      }
+    },
+    {
+      "id": "agents/souls",
+      "title": "Agent souls",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/souls/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 24570,
+          "sha256": "12cb912656a40897ec180ca87a52b9129ca7ae3e4b46502c6ef93587d9a9877a"
+        },
+        "mobile-dark": {
+          "path": "agents/souls/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 25636,
+          "sha256": "9fdd256ee5de5b6ca2e20077c8c4cca4d936b84981fba61526af47fce6c4f84d"
+        },
+        "desktop-light": {
+          "path": "agents/souls/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 81950,
+          "sha256": "09a8c2a2f44a5eb870b45c3a15db2cb11c7334254c46bed2b3bfaa3ca65b1172"
+        },
+        "desktop-dark": {
+          "path": "agents/souls/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 87078,
+          "sha256": "041452196754d4b5cc246eb6da0b8fa00dd16092a05873b0bd213c9e7f664a4e"
+        }
+      }
+    },
+    {
+      "id": "agents/pending-wakes",
+      "title": "Agent wake cycles",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/pending-wakes/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 57054,
+          "sha256": "f73b24300e501c4b33b248701b0e7391334b3c3d42313fe4fa36ae70d0a50a93"
+        },
+        "mobile-dark": {
+          "path": "agents/pending-wakes/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 59654,
+          "sha256": "632eb6ac9723dfc1e31c56ee2b71089b9f6451ade601f059d773c57404258e7c"
+        },
+        "desktop-light": {
+          "path": "agents/pending-wakes/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 123270,
+          "sha256": "623994fb808807a7b33e68887094f039115343e15b98d02eb614d161104956dd"
+        },
+        "desktop-dark": {
+          "path": "agents/pending-wakes/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 131556,
+          "sha256": "e771dd8c3d5a34b81b4e656b35a8024f317af3ebbf204f6a4655397373285be5"
+        }
+      }
+    },
+    {
+      "id": "agents/template-editor",
+      "title": "Agent template editor",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/template-editor/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 51400,
+          "sha256": "c70ce5e1c23f4d55731a6b8d57aaccc882a7cc01fb36114d39f86a1cefab5ae5"
+        },
+        "mobile-dark": {
+          "path": "agents/template-editor/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 51226,
+          "sha256": "3a03b05addd02ed2750bf81155ed4f090a2ff954aa99594e56327b87f01e1f1b"
+        },
+        "desktop-light": {
+          "path": "agents/template-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 118706,
+          "sha256": "2b87d2b3a9fec8fa6f86e6db9acea5c82e1c825bd6a1e1e0c06142198bb83707"
+        },
+        "desktop-dark": {
+          "path": "agents/template-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 123758,
+          "sha256": "2b7cc3be434777438d80ca690952fa2d88d48152f89e6001e28c63a323c4bc92"
+        }
+      }
+    },
+    {
+      "id": "agents/template-review",
+      "title": "Agent template evolution review",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/template-review/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 60396,
+          "sha256": "fb6774394ad316fcdd238368c8ff6dc28408cdc6a9d598f39967075dbcb3f9bc"
+        },
+        "mobile-dark": {
+          "path": "agents/template-review/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 63256,
+          "sha256": "a7f1183e6ab2b1b6eac07e5ace7bfd0d09c7495fe1d7ac7ab5cf357594bee3df"
+        },
+        "desktop-light": {
+          "path": "agents/template-review/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78168,
+          "sha256": "51fad070a2ad099ac29e309d6c0a7c64a35379f64e55d27857d963ab1017a8a8"
+        },
+        "desktop-dark": {
+          "path": "agents/template-review/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 81984,
+          "sha256": "4a19ae5178175eaffab03d356ef778e6f7f4b8a30191eab14e622fac583406c0"
+        }
+      }
+    },
+    {
+      "id": "agents/soul-editor",
+      "title": "Agent soul editor",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/soul-editor/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 60346,
+          "sha256": "005bb97e0df02cc25b79ee6713b0b8cc572f2a5c4bd6818c961896a0d56e6481"
+        },
+        "mobile-dark": {
+          "path": "agents/soul-editor/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 61468,
+          "sha256": "65be5ad3ffd78faa5fa038ee699365467ee6e2aecc2c59bbbf96c56b1dff5c97"
+        },
+        "desktop-light": {
+          "path": "agents/soul-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 126142,
+          "sha256": "41d0431071df2b917e969786aa01e938a1f7100312a28814c1d9451b2c110eaf"
+        },
+        "desktop-dark": {
+          "path": "agents/soul-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 131444,
+          "sha256": "843cccf00372aafeb4aeaaf648b2677b11d9d30c24de059e217d0d8a76f1b0ec"
+        }
+      }
+    },
+    {
+      "id": "agents/soul-review",
+      "title": "Agent soul evolution review",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/soul-review/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 65648,
+          "sha256": "3886392178b869e21afeb39d51ffc03c2c50912b1206364164db1586127f7c5f"
+        },
+        "mobile-dark": {
+          "path": "agents/soul-review/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 71602,
+          "sha256": "1184491ea4e45c2a8f2f5700495516d404546d8da5c8c67418b412d498a21bf7"
+        },
+        "desktop-light": {
+          "path": "agents/soul-review/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 74096,
+          "sha256": "064bdd13c066baf39910684b9b10dc74d29f508e8ae964f7138bcecfb752fa86"
+        },
+        "desktop-dark": {
+          "path": "agents/soul-review/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78956,
+          "sha256": "bc49831c26d237328f0904070c522e483e1825e913f52994a7714607897ae36f"
+        }
+      }
+    },
+    {
+      "id": "agents/instance-detail",
+      "title": "Agent instance detail",
+      "sourceTest": "test/features/agents/ui/agents_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "agents/instance-detail/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 80562,
+          "sha256": "8f63c3d649d8ec80ce76fe79642af6283cf002683e16b60f9128b6aa1ae23a52"
+        },
+        "mobile-dark": {
+          "path": "agents/instance-detail/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 86062,
+          "sha256": "eb068519545117ae2b7ddd5bfb4f32cb970c0d8532441397c58c83c362dd8acb"
+        },
+        "desktop-light": {
+          "path": "agents/instance-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 138382,
+          "sha256": "51d0e33c39ccd95a2d7ec948cbb8b91685daa78256ecb651e85a56c51be4657c"
+        },
+        "desktop-dark": {
+          "path": "agents/instance-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 147474,
+          "sha256": "cca7c7bf6d5aa4ab7666d6c869c1615dda9a21e8dbf1ec58d291db73d4cbd898"
         }
       }
     }
