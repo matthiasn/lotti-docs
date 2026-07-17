@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T07:08:17+02:00",
-  "appCommit": "e0d791054be63bbe31475db981eda5992d848c00",
+  "generatedAt": "2026-07-17T07:31:17+02:00",
+  "appCommit": "3615a5b63728c995b0ec67e4d6783c9aa20ac623",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -176,6 +176,181 @@
           "height": 1800,
           "bytes": 108572,
           "sha256": "9068d83ed0708cf8aa93e8ac8fae140dc03118f55abfa61d2a1ca5247a8a9546"
+        }
+      }
+    },
+    {
+      "id": "daily-os/settings",
+      "title": "Daily OS settings",
+      "sourceTest": "test/features/daily_os_next/ui/pages/daily_os_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/settings/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 60892,
+          "sha256": "08e8ffadadf177718b030bc78717c64045abbb37983173fc503753566e8336af"
+        },
+        "mobile-dark": {
+          "path": "daily-os/settings/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 65458,
+          "sha256": "b6d1c14b9ece6d19e6884589b44fb168ef76d0f472114eefcd449230d8d20432"
+        },
+        "desktop-light": {
+          "path": "daily-os/settings/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 112862,
+          "sha256": "8fc3d00913b6e02f347a8410e25c58bfe79c2206a2d1743b06f588a44616921a"
+        },
+        "desktop-dark": {
+          "path": "daily-os/settings/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 120226,
+          "sha256": "d3feb0d3e3223b803789c37fc34fd72c343d4b8de864ffdae5e747a5255b81d8"
+        }
+      }
+    },
+    {
+      "id": "daily-os/refine",
+      "title": "Daily OS plan refinement",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/refine/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 62292,
+          "sha256": "745103a7abfd3194c8dd6fa599d2706674cb42f36e3200fa519f5445c5c24186"
+        },
+        "mobile-dark": {
+          "path": "daily-os/refine/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 65186,
+          "sha256": "1472cbcb5e6d36bf4bc93a92941004d1cb3e9fcbf91c1a48d7803be5005f8307"
+        },
+        "desktop-light": {
+          "path": "daily-os/refine/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 154756,
+          "sha256": "101add3b3269a1aa7b288a475ed5658847b9380a98a3e1fe9904d5f1a89978ea"
+        },
+        "desktop-dark": {
+          "path": "daily-os/refine/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 162714,
+          "sha256": "c7eb2b0de3ed8c7e12e17b135c39885aa169aa9d42213a56aaca24b200c045fc"
+        }
+      }
+    },
+    {
+      "id": "daily-os/commit",
+      "title": "Daily OS plan commitment",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/commit/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 52848,
+          "sha256": "2fbb8314ce3c842a97bf6e503394246ebe14e8a5986abdb1d2d347c64b40f05d"
+        },
+        "mobile-dark": {
+          "path": "daily-os/commit/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 55628,
+          "sha256": "78ea1f4d7e05b18e92b48769590803c6bc8b349304bab6bdbf8b3e24a5b1cb14"
+        },
+        "desktop-light": {
+          "path": "daily-os/commit/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 97070,
+          "sha256": "7b2edc50825f49fb1de73d9e2054ef7faafd4216b1d52d0a60cb12c907924f8c"
+        },
+        "desktop-dark": {
+          "path": "daily-os/commit/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 100398,
+          "sha256": "dc3ee8fa8ac7b484bf384fdbeede61b410829080a47f2add6a24e0a6ea0434c2"
+        }
+      }
+    },
+    {
+      "id": "daily-os/block-editor",
+      "title": "Daily OS block editor",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/block-editor/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 42812,
+          "sha256": "d6c945eb2e660cc6a1fc87961e0a03c04737a582724e69268bcb7d140ec31d18"
+        },
+        "mobile-dark": {
+          "path": "daily-os/block-editor/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 42956,
+          "sha256": "a3bd0ba81c62a7459ed2e0a740e9a7b9ee49b53ee20a3c8d22512ce4b1bb8201"
+        },
+        "desktop-light": {
+          "path": "daily-os/block-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 87430,
+          "sha256": "d2fbd613d84ae093c3d0f79440a49840c2edfe3a24563e293e34ba7ebcb50cc4"
+        },
+        "desktop-dark": {
+          "path": "daily-os/block-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 78260,
+          "sha256": "b9be125daf781bb3c2998f0b668438c111d886ea27f07a87782f958d9bea2dab"
+        }
+      }
+    },
+    {
+      "id": "daily-os/shutdown",
+      "title": "Daily OS end-of-day shutdown",
+      "sourceTest": "test/features/daily_os_next/ui/pages/day_page_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "daily-os/shutdown/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 62522,
+          "sha256": "13705eece67c9be22d14beec6783a186a62f648820280a9e99d9fb6df57c2aff"
+        },
+        "mobile-dark": {
+          "path": "daily-os/shutdown/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 65496,
+          "sha256": "cf0836a60d09f772e5945b24015bcdf651002faaaaf1f9b98102b6bda7f499fa"
+        },
+        "desktop-light": {
+          "path": "daily-os/shutdown/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 138180,
+          "sha256": "1f7ae9fd969e6e65b17a1d6476fea51e3ec5ab4fe1567385303a70c5b6a0d71e"
+        },
+        "desktop-dark": {
+          "path": "daily-os/shutdown/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 145180,
+          "sha256": "d61aff54a8a5a14110ba051b9488fa459742184fbfba943eaddef7f2f0c06521"
         }
       }
     },
