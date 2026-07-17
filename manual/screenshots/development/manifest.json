@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T07:46:54+02:00",
-  "appCommit": "573f2d1c4311bc5439e0e232fce7c0dc9409291c",
+  "generatedAt": "2026-07-17T08:04:27+02:00",
+  "appCommit": "e40f684af79ac0119ff7a06b09536a4ebb0ffe82",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -223,29 +223,29 @@
           "path": "daily-os/refine/mobile-light.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 62292,
-          "sha256": "745103a7abfd3194c8dd6fa599d2706674cb42f36e3200fa519f5445c5c24186"
+          "bytes": 62592,
+          "sha256": "818153a70021ced0f4879c9cbdaa71a14efea24c0e76751fe0bbc34b459fe113"
         },
         "mobile-dark": {
           "path": "daily-os/refine/mobile-dark.webp",
           "width": 804,
           "height": 1748,
-          "bytes": 65186,
-          "sha256": "1472cbcb5e6d36bf4bc93a92941004d1cb3e9fcbf91c1a48d7803be5005f8307"
+          "bytes": 66276,
+          "sha256": "6f494f82282242bceff21edc024b8461c72c4f692bbb9b9117081c43e22ab3df"
         },
         "desktop-light": {
           "path": "daily-os/refine/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 154756,
-          "sha256": "101add3b3269a1aa7b288a475ed5658847b9380a98a3e1fe9904d5f1a89978ea"
+          "bytes": 154746,
+          "sha256": "b54d6d2547b0f25f192c9f70c08fb4a36c923e291eb753387594eb7e57af7726"
         },
         "desktop-dark": {
           "path": "daily-os/refine/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 162714,
-          "sha256": "c7eb2b0de3ed8c7e12e17b135c39885aa169aa9d42213a56aaca24b200c045fc"
+          "bytes": 162516,
+          "sha256": "c76b53d24a5cb0ac6ac30e5df0f8bee0deb48f02964801d851d4420ed17d2854"
         }
       }
     },
@@ -2162,15 +2162,15 @@
           "path": "advanced-settings/logging/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 105880,
-          "sha256": "8f7156d21cf936fa48a8b5268be287ed27b81b7a2e8a6f16c45d74755387dbae"
+          "bytes": 108174,
+          "sha256": "c2e00644decd55e9409c9ea7b10d000bd4e43dfce406a89eb53334a24a64de39"
         },
         "desktop-dark": {
           "path": "advanced-settings/logging/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 111690,
-          "sha256": "1e395ad94108955742617b0e596d52ee2faea3866bce46a992dea90b5fa9cd14"
+          "bytes": 113992,
+          "sha256": "dfbc0aeba968e5c6c12d9308831e915a9beb80963f63feca81b37d86fe2c7c2c"
         }
       }
     },
@@ -2197,15 +2197,15 @@
           "path": "advanced-settings/maintenance/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 154052,
-          "sha256": "45aa7250ad7b45f2a8b55ff09fc9440b51777de7ed87ad7d624d431b45bd6c24"
+          "bytes": 152092,
+          "sha256": "3c672bebb63d7d3080b59b32b4ea505dd270fac0d52a287f9269b5c743bbed98"
         },
         "desktop-dark": {
           "path": "advanced-settings/maintenance/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 163438,
-          "sha256": "984632a140f763933c2dd374a665aa9a6ea0830e00e9093b9d97027de8efd385"
+          "bytes": 161214,
+          "sha256": "02271bf886956adf16d16331d29a296cb06ed23cf1fd3c58df838d0082db8547"
         }
       }
     },
@@ -2407,15 +2407,15 @@
           "path": "onboarding/first-task/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 82196,
-          "sha256": "084033fd6837a2565d5727eed0ef128db55967b53abe08f85c5bf5276e94d14b"
+          "bytes": 81994,
+          "sha256": "98907d0ed54e7e269839399b558430f61faa9fc9f56138b36045bdf94d491030"
         },
         "desktop-dark": {
           "path": "onboarding/first-task/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 85552,
-          "sha256": "ed8c283dce2999ddaf928c293c0549502e74cdb2864eda28bb9fffcd3030fad3"
+          "bytes": 85562,
+          "sha256": "acd5ac9d015d730b6883a84ad3ffa6d34a9fe694cc13930e2f7a1e583393a7a5"
         }
       }
     },
