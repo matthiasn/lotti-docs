@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T03:26:18+02:00",
-  "appCommit": "b193779a1195b9b1ed691fd5acc4f37339abce33",
+  "generatedAt": "2026-07-17T03:45:50+02:00",
+  "appCommit": "f6e5f1ed9e2ea7761486b4fd75ef2adf39110d84",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1191,6 +1191,181 @@
           "height": 1800,
           "bytes": 58132,
           "sha256": "f92710b9f3533524185f9d9ff00dca56fcb3b88335e4128a52176557a7599f92"
+        }
+      }
+    },
+    {
+      "id": "projects/list",
+      "title": "Projects list",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/list/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 62406,
+          "sha256": "6d1ce73a1c49cab833d397d480d53511e04b9ab7bc5c30dcdeffc062f186a2c5"
+        },
+        "mobile-dark": {
+          "path": "projects/list/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 64654,
+          "sha256": "c4068bcfba10a44d10afa3c3dade94a777965d00f3a9fb2402ba444b92e0526f"
+        },
+        "desktop-light": {
+          "path": "projects/list/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 74850,
+          "sha256": "2bf83c772f839edee604418420a07f8b427c5d805cb8c5ff965bbae52972d7fd"
+        },
+        "desktop-dark": {
+          "path": "projects/list/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 77736,
+          "sha256": "5d27bb2a3ac2daca8b3e8fde07821189377dea7ae3d0995676298cf219cb08ac"
+        }
+      }
+    },
+    {
+      "id": "projects/detail",
+      "title": "Project detail",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/detail/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 82242,
+          "sha256": "1ecd26f67fef314305ab687dd51aa4f2197721fe253cc61461342e412969b7fd"
+        },
+        "mobile-dark": {
+          "path": "projects/detail/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 87850,
+          "sha256": "97a4e37e552d3c7a9d1cd76179c2d9c8fe66e1abc759ac7eb15ae239221e7435"
+        },
+        "desktop-light": {
+          "path": "projects/detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 150722,
+          "sha256": "d03b52e24361c474bd6eefc8c0ab3819bfb84a4f907b3ca01fecbacc86b7a59c"
+        },
+        "desktop-dark": {
+          "path": "projects/detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 159226,
+          "sha256": "88345475e93f8777528860f336fe00df561599725be7308b8c9e71db0b4e806e"
+        }
+      }
+    },
+    {
+      "id": "projects/tasks",
+      "title": "Project tasks",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/tasks/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 82242,
+          "sha256": "1ecd26f67fef314305ab687dd51aa4f2197721fe253cc61461342e412969b7fd"
+        },
+        "mobile-dark": {
+          "path": "projects/tasks/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 87850,
+          "sha256": "97a4e37e552d3c7a9d1cd76179c2d9c8fe66e1abc759ac7eb15ae239221e7435"
+        },
+        "desktop-light": {
+          "path": "projects/tasks/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 150722,
+          "sha256": "d03b52e24361c474bd6eefc8c0ab3819bfb84a4f907b3ca01fecbacc86b7a59c"
+        },
+        "desktop-dark": {
+          "path": "projects/tasks/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 159226,
+          "sha256": "88345475e93f8777528860f336fe00df561599725be7308b8c9e71db0b4e806e"
+        }
+      }
+    },
+    {
+      "id": "projects/filters",
+      "title": "Project filters",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/filters/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 43190,
+          "sha256": "dec4ec080b001ccc28e9d18dc6e096b216d175f40ccd1c1910615d1dc9d94750"
+        },
+        "mobile-dark": {
+          "path": "projects/filters/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 37960,
+          "sha256": "6dc5dc62bdd8a8dce00e133fdd785f9548825878c0c51e2b99ae24ed1bafc05d"
+        },
+        "desktop-light": {
+          "path": "projects/filters/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 63688,
+          "sha256": "0e72bba7358157921e97eca283a7cb25d3589199723cec13d3c7772ced76bfac"
+        },
+        "desktop-dark": {
+          "path": "projects/filters/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 54744,
+          "sha256": "ada6f81af889e247097505f34cfc288a1175dbac69020cd0795301cf3f46caab"
+        }
+      }
+    },
+    {
+      "id": "projects/create",
+      "title": "Create project",
+      "sourceTest": "test/features/projects/ui/pages/projects_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "projects/create/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 50874,
+          "sha256": "8c87f524149b7d7b992574abae7c7b472be963fb5090fec5b275ae9fd66e3f77"
+        },
+        "mobile-dark": {
+          "path": "projects/create/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 47054,
+          "sha256": "08044dad2464aed592ba28b7c24062b8706e624f186fc15298d8064eac5788ea"
+        },
+        "desktop-light": {
+          "path": "projects/create/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 72422,
+          "sha256": "3011f9c367f621a1304e4bb499cf63d66d5e6cf7789d1e28bf80df1bf682cfcd"
+        },
+        "desktop-dark": {
+          "path": "projects/create/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 64680,
+          "sha256": "e13ce4180989fdeb58bf3d893ae90e0f39c54cf678990542041f947995557368"
         }
       }
     }
