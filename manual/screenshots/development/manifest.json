@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T09:45:25+02:00",
-  "appCommit": "24f41e7207f74136fe9fb385a400745c4e75c003",
+  "generatedAt": "2026-07-17T09:58:35+02:00",
+  "appCommit": "dd3d84262792951d2277cba8034d86b4e6466df3",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -1051,6 +1051,111 @@
           "height": 1800,
           "bytes": 53466,
           "sha256": "32e7e80e9217a1c5d0843823b236d7e96019bc4509ba2fc042c185279fac6cde"
+        }
+      }
+    },
+    {
+      "id": "measurements/capture",
+      "title": "Measurement capture editor",
+      "sourceTest": "test/pages/create/create_measurement_dialog_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "measurements/capture/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 40326,
+          "sha256": "3b261c1fbe885e4ce04b8bbe604aca8ea8d9acd259e5f73d0e62c94d08c7bb92"
+        },
+        "mobile-dark": {
+          "path": "measurements/capture/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 39756,
+          "sha256": "91cca25f356f9b0af746be25dc1e68c930b5569a61f1cc1c10fd1dc8ac08f3ea"
+        },
+        "desktop-light": {
+          "path": "measurements/capture/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 49378,
+          "sha256": "6a97b14d87c6d366d3870e3736702b5428e0b15374e94093d006c724211d295e"
+        },
+        "desktop-dark": {
+          "path": "measurements/capture/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 49492,
+          "sha256": "4a9a820fab0c667ac2afa3cb99634446fb7fedab8782fb582329f3eac23f7803"
+        }
+      }
+    },
+    {
+      "id": "measurements/date",
+      "title": "Measurement observed date",
+      "sourceTest": "test/pages/create/create_measurement_dialog_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "measurements/date/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 29110,
+          "sha256": "fa8c88f813c6a1260e411685f683496c259d0d5459cac310f45ce4d86f2d7068"
+        },
+        "mobile-dark": {
+          "path": "measurements/date/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 29536,
+          "sha256": "93d3a74c547a455e6c4fe769d654b7ed36881b84efe6af14b054b7556b41e6c8"
+        },
+        "desktop-light": {
+          "path": "measurements/date/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 47446,
+          "sha256": "c2a604e3b338b4a703580e5e94d3f9f75a754de50adaed5e5c8477bf1a07d1f4"
+        },
+        "desktop-dark": {
+          "path": "measurements/date/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 47602,
+          "sha256": "da64327d498392ad810e58c66ff7979a4c6ddd0f13b8c45acb41b7cd7dfc42df"
+        }
+      }
+    },
+    {
+      "id": "measurements/time",
+      "title": "Measurement observed time",
+      "sourceTest": "test/pages/create/create_measurement_dialog_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "measurements/time/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 26818,
+          "sha256": "e6e8874833f8c1b0cb6aab7d25e48f862fb70ba93bc0d4a8b979355234930f89"
+        },
+        "mobile-dark": {
+          "path": "measurements/time/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 27386,
+          "sha256": "b4802fe0d510b397b55d2fa825f13c9dde6e5e84489100e984e18f447a5575a5"
+        },
+        "desktop-light": {
+          "path": "measurements/time/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 47536,
+          "sha256": "e006424f887ef93de09494f385ea6e3b6d0bfe9cc707eeaa78f16f4175d0e505"
+        },
+        "desktop-dark": {
+          "path": "measurements/time/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 47262,
+          "sha256": "b95a8ead35d46f875cb52135b532bc70b8c80e95378e25c83c54ffcba05445d2"
         }
       }
     },
