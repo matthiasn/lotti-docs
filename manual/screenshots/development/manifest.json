@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T11:07:56+02:00",
-  "appCommit": "24c33d44ec2c45ef96aedbb59793e054e21607d8",
+  "generatedAt": "2026-07-17T11:23:12+02:00",
+  "appCommit": "2d21376dc98625a11ef1da90227ce6bd830dbf7d",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -3086,36 +3086,36 @@
     },
     {
       "id": "onboarding/first-task",
-      "title": "Onboarding first-task capture",
+      "title": "Onboarding first-task voice capture",
       "sourceTest": "test/features/onboarding/ui/onboarding_manual_screenshots_test.dart",
       "variants": {
         "mobile-light": {
           "path": "onboarding/first-task/mobile-light.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 50998,
-          "sha256": "a3a6970d348b7c0f99ca8a61c59e6eb76983d882a76a9c31bc9a798f41b8c3a9"
+          "bytes": 44910,
+          "sha256": "0409e0dc4319e50526d18a4655f1cf6cf068d743f6243b7448fa07c7b49f1096"
         },
         "mobile-dark": {
           "path": "onboarding/first-task/mobile-dark.webp",
           "width": 750,
           "height": 1624,
-          "bytes": 52658,
-          "sha256": "1b24600eec6d96ff72a9dd467808bcf95693e9dbd6d17b4ea73e99480a9d301c"
+          "bytes": 50360,
+          "sha256": "a9b9559a16fbbb0e0caae355a1a9e608c1715192297074d35e4e7bcfc3ea2498"
         },
         "desktop-light": {
           "path": "onboarding/first-task/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 81994,
-          "sha256": "98907d0ed54e7e269839399b558430f61faa9fc9f56138b36045bdf94d491030"
+          "bytes": 69112,
+          "sha256": "3f87d9ff61a76eb523d033952cdc41d3791743f6eb65580d4e0b613a43be098b"
         },
         "desktop-dark": {
           "path": "onboarding/first-task/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 85562,
-          "sha256": "acd5ac9d015d730b6883a84ad3ffa6d34a9fe694cc13930e2f7a1e583393a7a5"
+          "bytes": 75884,
+          "sha256": "6eb61ebb2e2b30858990f88f2bf0e6ff5f2845c58f5dfce03edda3624d05312a"
         }
       }
     },
