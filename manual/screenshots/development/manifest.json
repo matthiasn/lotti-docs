@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T06:13:33+02:00",
-  "appCommit": "5b1c4ec3e60d9878118288897c878623cf2942b0",
+  "generatedAt": "2026-07-17T06:44:36+02:00",
+  "appCommit": "4bae65b657660f0f92b1846086736c6b1202f158",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -412,15 +412,15 @@
           "path": "categories/automation/desktop-light.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 69818,
-          "sha256": "1797feb150f51ee2f08afef7b27f759763e8be6f9b9762fc50338d61563c2fe8"
+          "bytes": 71816,
+          "sha256": "0d92c2d746f6989cc16cceeae31267de7b198923fb02915c0642dd69b4d69c47"
         },
         "desktop-dark": {
           "path": "categories/automation/desktop-dark.webp",
           "width": 2880,
           "height": 1800,
-          "bytes": 73060,
-          "sha256": "bbc69ae8cbc01e658fd78db71b660774a6efd6814f4d8ef439221f5716ffe514"
+          "bytes": 74812,
+          "sha256": "adaa3c59c5970044c261b4a2aa1e3460f95b6624719ca1b9b90da760b3315104"
         }
       }
     },
@@ -2311,6 +2311,426 @@
           "height": 1800,
           "bytes": 186806,
           "sha256": "602e37dfa7ef5d15b05e91fd72142f9bd9ce7c0d0e408211dfcaa3e8c359c96c"
+        }
+      }
+    },
+    {
+      "id": "ai/providers",
+      "title": "AI providers",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/providers/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 52750,
+          "sha256": "1504f7eb4a1c58c13628d64acc4548869a373dd582aa69a214838b6b7409b078"
+        },
+        "mobile-dark": {
+          "path": "ai/providers/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 55476,
+          "sha256": "acc717e78ce382afe5a39d609bc87ca9fd283ef3166c43c16677f2fbf3405664"
+        },
+        "desktop-light": {
+          "path": "ai/providers/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 118184,
+          "sha256": "a0d58511008af9ac722e951bd6d89374c0d574d64ed38e738fe0c0f6006013b3"
+        },
+        "desktop-dark": {
+          "path": "ai/providers/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 125958,
+          "sha256": "cfabf8bff50ed9b31a111796f503c6acfc3cd98b5f8d6f2f886650db7bbe242c"
+        }
+      }
+    },
+    {
+      "id": "ai/provider-detail",
+      "title": "AI provider detail",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/provider-detail/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 77198,
+          "sha256": "ca43603dde46360e4454db83f49e283b65fe0982ca9408527362a805039e66ef"
+        },
+        "mobile-dark": {
+          "path": "ai/provider-detail/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 80324,
+          "sha256": "95773acff0ffe625456e2317e7ac9307d0e5c26dd61b9a3a3e923c8590390e5b"
+        },
+        "desktop-light": {
+          "path": "ai/provider-detail/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 134812,
+          "sha256": "54c5e5356a64fa8a651f9c6e64712f1822386cf92ebcc2b019f4d45b6499895a"
+        },
+        "desktop-dark": {
+          "path": "ai/provider-detail/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 141666,
+          "sha256": "f9db86399d9a4848d280ad3e40876e29e3934dff545f94eb78dfdd2529c3ac62"
+        }
+      }
+    },
+    {
+      "id": "ai/provider-editor",
+      "title": "AI provider editor",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/provider-editor/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 54986,
+          "sha256": "9568ebd0bae1f35e220626a8c75700794140c6a80036f046fa0edf4ff5271ab1"
+        },
+        "mobile-dark": {
+          "path": "ai/provider-editor/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 56118,
+          "sha256": "1bf503f60b96f4a97bb96a79b6cfba9b4dd38b2083ecc223ac2392861d3deb5a"
+        },
+        "desktop-light": {
+          "path": "ai/provider-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 57796,
+          "sha256": "ed5c4e0af35620b710f224df1bd4a79a86014ac7df57b8f13e682c9beeeb38f1"
+        },
+        "desktop-dark": {
+          "path": "ai/provider-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 57268,
+          "sha256": "173ccc184d2ad517bd3e346ab626224ba1005665d7d20d89215d59ca8ba7585e"
+        }
+      }
+    },
+    {
+      "id": "ai/models",
+      "title": "AI models",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/models/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 80700,
+          "sha256": "1fcee74803cdc9000f76f358b7c74165f8eee7bff03cdeee1c1576a95b25a0c1"
+        },
+        "mobile-dark": {
+          "path": "ai/models/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 85222,
+          "sha256": "e4657207c3e405c54e3ebd0ad930c1b72005560e3885f62f1a5455909ce7ae1c"
+        },
+        "desktop-light": {
+          "path": "ai/models/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 150234,
+          "sha256": "e78e018c0040d1de81ca2aacf07ca337a79646288a6338858d4ed00fd53839af"
+        },
+        "desktop-dark": {
+          "path": "ai/models/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 159062,
+          "sha256": "9234d34644b729da6799e061a600f3c9e651b6c7999cd64212c984e70fae9d8e"
+        }
+      }
+    },
+    {
+      "id": "ai/model-editor",
+      "title": "AI model editor",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/model-editor/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 54338,
+          "sha256": "5e3a342bb9c6e1722f492dfa9528f8c76b1b122ecb98f4daf1a3317520fba78e"
+        },
+        "mobile-dark": {
+          "path": "ai/model-editor/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 56246,
+          "sha256": "6478e46cd3ede1664d51614141d37656901976cba587cb23e9f005eec4866604"
+        },
+        "desktop-light": {
+          "path": "ai/model-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 115866,
+          "sha256": "d4185ee81990b941c76bbd698fde965671ef28b8977720fa7be4c7902c401d7f"
+        },
+        "desktop-dark": {
+          "path": "ai/model-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 122338,
+          "sha256": "62960ca50a7fd3319b3ad6a88528846cfb1763e8605b15e157984830d23712e1"
+        }
+      }
+    },
+    {
+      "id": "ai/profiles",
+      "title": "Inference profiles",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/profiles/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 84118,
+          "sha256": "cdbe2cee46850d331df1d44f8d68d27fcdbadb1e96d37cb97ff9a83255a64c14"
+        },
+        "mobile-dark": {
+          "path": "ai/profiles/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 88802,
+          "sha256": "89f209af69c070f59a662968453ff558237e166a6944f945f5547bf5c3bd96d9"
+        },
+        "desktop-light": {
+          "path": "ai/profiles/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 149068,
+          "sha256": "718a2cafc0fb2d7784b97633b0efb3b51aeb4266ce6bffc45fad2758148c56ea"
+        },
+        "desktop-dark": {
+          "path": "ai/profiles/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 159034,
+          "sha256": "5a7bad4589aff9e15c67b469974b03f85f88b55277e30d1a09a5b96fa30b9d38"
+        }
+      }
+    },
+    {
+      "id": "ai/profile-editor",
+      "title": "Inference profile editor",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/profile-editor/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 83604,
+          "sha256": "7082f39fdd8acfa1fabb5aeb83a6c5b58c014377d4ee9b0a9d1536c88746ba45"
+        },
+        "mobile-dark": {
+          "path": "ai/profile-editor/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 84752,
+          "sha256": "0f7239c85916feb361cb3877026664dfb5c71fa267c0183a223c1de83fd71d8b"
+        },
+        "desktop-light": {
+          "path": "ai/profile-editor/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 136202,
+          "sha256": "13cee1a5b18e2e394772d743fa927adc7e82194932a656089ea40e6041459c68"
+        },
+        "desktop-dark": {
+          "path": "ai/profile-editor/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 142658,
+          "sha256": "87728acccad9e6392acc1ed39f057103a6f2affe9414f6c280c8acd95ea1920e"
+        }
+      }
+    },
+    {
+      "id": "ai/model-picker",
+      "title": "AI model picker",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/model-picker/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 47292,
+          "sha256": "c0ea23c79c8fcfe0140f7477322def67939928daf4deecdbd307ca7a852af741"
+        },
+        "mobile-dark": {
+          "path": "ai/model-picker/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 42708,
+          "sha256": "1870f07bac0fd1c48a37f04f56544fa7f3ae74089678993bd8a2373c5483f4a0"
+        },
+        "desktop-light": {
+          "path": "ai/model-picker/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 112852,
+          "sha256": "d393e8c11db2b3e9fd01565c60ec6a7824cadd1e7b1ae3b5d298164585947441"
+        },
+        "desktop-dark": {
+          "path": "ai/model-picker/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 99936,
+          "sha256": "bb7e43e9c35a5900c50a608388df182475ec9ad966621bfb79ee8d495ea7bb3e"
+        }
+      }
+    },
+    {
+      "id": "ai/profile-picker",
+      "title": "Inference profile picker",
+      "sourceTest": "test/features/settings/ui/settings_definitions_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/profile-picker/mobile-light.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 61510,
+          "sha256": "f921df81a109f1b7084ca6fa16cf06784afd854480c402840f2662fa0c266b2d"
+        },
+        "mobile-dark": {
+          "path": "ai/profile-picker/mobile-dark.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 61944,
+          "sha256": "dc4d8bd506c437ab03be4b57e527f629de23bb6d173da4fb8b508a7972a565a2"
+        },
+        "desktop-light": {
+          "path": "ai/profile-picker/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 76988,
+          "sha256": "aa22dbb66337504d252bbec71c25e3da6a37a10e6aa48972c2b8aab5e8b11b07"
+        },
+        "desktop-dark": {
+          "path": "ai/profile-picker/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 72306,
+          "sha256": "df6f0136d1b7ebc9060023f75a647f015712f69ff9c4082a894a40285db0ea65"
+        }
+      }
+    },
+    {
+      "id": "ai/legacy-profiles",
+      "title": "Legacy inference profiles",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/legacy-profiles/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 44318,
+          "sha256": "70278b068e838cb2b7e6185e98c0f28b7a4a3fd466bd50f051733fa456748f17"
+        },
+        "mobile-dark": {
+          "path": "ai/legacy-profiles/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 46928,
+          "sha256": "c58297c9bec7a503ee4ca054e0f243f0dd49d6cd93e1836250ceb2b23b21513a"
+        },
+        "desktop-light": {
+          "path": "ai/legacy-profiles/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 50750,
+          "sha256": "98d2836e12cbffc02c23b9c97ff530da5518949e304c2e5f8399b4c634f355e8"
+        },
+        "desktop-dark": {
+          "path": "ai/legacy-profiles/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 53442,
+          "sha256": "aa82a673c3014e5ad93ca1bb7513d9241f67e4290e1044704625249e17d0e34d"
+        }
+      }
+    },
+    {
+      "id": "ai/skills",
+      "title": "Contextual AI skills",
+      "sourceTest": "test/features/tasks/ui/widgets/task_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/skills/mobile-light.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 55234,
+          "sha256": "4d99fa56c6e0844cfc0daded34685165f39e13e3aa2f7a167e508fd6bedd2bd0"
+        },
+        "mobile-dark": {
+          "path": "ai/skills/mobile-dark.webp",
+          "width": 804,
+          "height": 1748,
+          "bytes": 43000,
+          "sha256": "d504f8a1b5093a3e2d1ade83af666d47d3d0995f25c53ef54bf0b8bb2e4e943d"
+        },
+        "desktop-light": {
+          "path": "ai/skills/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 181946,
+          "sha256": "5e98edf0912371063a3bc380e7641d1c1a18bd4024cdfa462c6b6e42ef514a0a"
+        },
+        "desktop-dark": {
+          "path": "ai/skills/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 132152,
+          "sha256": "a592d98f57796489560ee4746ebdf2b47074bab21e7d340a83aac6b1bd1dc9db"
+        }
+      }
+    },
+    {
+      "id": "ai/usage",
+      "title": "AI usage and impact",
+      "sourceTest": "test/features/ai/ui/settings/ai_settings_manual_screenshots_test.dart",
+      "variants": {
+        "mobile-light": {
+          "path": "ai/usage/mobile-light.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 41796,
+          "sha256": "dbe7bd80674b9c12b31c3f13993a98d373de74b3f9e0e98d4381e26e8622f838"
+        },
+        "mobile-dark": {
+          "path": "ai/usage/mobile-dark.webp",
+          "width": 880,
+          "height": 1912,
+          "bytes": 42942,
+          "sha256": "2e6db0a5a5fb9790dbce2a6105e697e34040b2201af6ae9184be96102534df3d"
+        },
+        "desktop-light": {
+          "path": "ai/usage/desktop-light.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 127648,
+          "sha256": "ddd4a2e5a7ed957c54082d1834b1df3f7a712792d9859c0fb4e29c90af849425"
+        },
+        "desktop-dark": {
+          "path": "ai/usage/desktop-dark.webp",
+          "width": 2880,
+          "height": 1800,
+          "bytes": 135038,
+          "sha256": "ef012b92e2443f0661e1af4fdcd45e1e39a5e01e96b5203cfee4415d2a23f224"
         }
       }
     }
