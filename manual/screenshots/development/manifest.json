@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "development",
-  "generatedAt": "2026-07-17T05:19:41+02:00",
-  "appCommit": "b95af61bdefca53f4c7c422329e073495b76131d",
+  "generatedAt": "2026-07-17T05:34:21+02:00",
+  "appCommit": "196041b3c5a8d3a5ad02c2faebbedd409475153a",
   "cases": [
     {
       "id": "daily-os/agenda",
