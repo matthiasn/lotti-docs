@@ -6,13 +6,14 @@
     "en",
     "de",
     "fr",
+    "it",
     "es",
     "cs",
     "ro",
     "pt"
   ],
-  "generatedAt": "2026-07-18T02:39:25+02:00",
-  "appCommit": "c4bc40a81125905396a33020295813d1da61aea3",
+  "generatedAt": "2026-07-18T03:42:38+02:00",
+  "appCommit": "91244dd4129eaab003849595cbae84be93bf1509",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -112,6 +113,38 @@
               "height": 1800,
               "bytes": 97360,
               "sha256": "aee4b6af7694ebbf148aac669ec9e47437b5b9441ba59a79456ccb4fbb9dee3c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/agenda/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 59582,
+              "sha256": "ecdc9536868c13db024568ff2effaeda928373b9719111c38efb181c7ad4bdfd"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/agenda/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 62248,
+              "sha256": "fdf93aed887120d9e340e2e9f89150ea67b5234fe153f53d812dbc6efadfb120"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/agenda/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 98022,
+              "sha256": "05bdd3ae3f1b636ab1ad0cf9a5929b5f1ac33bcb93f94a6bf4b9733af7a524a4"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/agenda/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101076,
+              "sha256": "9817d297bcd29b267d04d3fb11c133dc03f5f6f7cca4bdfc13f96885fcdff57e"
             }
           }
         },
@@ -346,6 +379,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/capture-review/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 46300,
+              "sha256": "99d25bdf8e51ff371f2ab874175475aac0bbbfd0c73c1d667924967c881075dd"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/capture-review/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48640,
+              "sha256": "8e2b5fea47264e85fa12261d9eb7f13cff0c2ea892a37000e6b1cc0a4592283a"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/capture-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62190,
+              "sha256": "3f4c7f747ba878c0ba53e9eea5abcf89560c93c068ea51b0d635cbcb00afbb37"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/capture-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64716,
+              "sha256": "90f357a35c9e2b5e3524dd4fa7d780743d1a6d56dc09bdf661d2b141b0d645e6"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -574,6 +639,38 @@
               "height": 1800,
               "bytes": 104324,
               "sha256": "f18dada71c25841102f88b34977ac58912b64e4d52062d79dfe972b87040d569"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/reconcile/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 61950,
+              "sha256": "9e11cc2972e059cf300448d6ac73947596b8bc183afaf53bf8e64450c0ac37e5"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/reconcile/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 65358,
+              "sha256": "512f2a412dd02b02eabf1e1d90dedca7a693d6b2f2d3feb05a01f371a7483e35"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/reconcile/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 98738,
+              "sha256": "2f44b4e3b9168c9bf6874217fff715daf5be9e99e0f875c12abe86c547c91141"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/reconcile/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104124,
+              "sha256": "4c4689e8c35fd2dde74f28d0af307771b319b1fcc93ca2e4c6bc1b5c3b44899b"
             }
           }
         },
@@ -808,6 +905,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/timeline/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 64580,
+              "sha256": "deba9643c160561945925ee3ea24be8bdcd5e8ec2c0669839a5d55849976381f"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/timeline/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 68590,
+              "sha256": "ef9890f743c2e47ee7966dbe4cbd9f949e036f3725c7b18b055d3a7af097f3ce"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/timeline/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137394,
+              "sha256": "b53b6203d9afb28b3af36955327fac3ac7ad5cfc9b7cdfd5e618c18fcc5838dd"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/timeline/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 143120,
+              "sha256": "5d8624e27e03003134889f9f04d3ca5ea79c751c01a735d312f2b32346ae8fcd"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -1036,6 +1165,38 @@
               "height": 1800,
               "bytes": 123644,
               "sha256": "82b7c719cd2b5ac4e53d73b03bb85de7a2f5318863f55fcf6e8ada6cdcbd872a"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/arrange/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 67818,
+              "sha256": "808a82be84e3dbbea7c1d72736968df05a88ed7f698ea15d31eef1ef6f65959c"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/arrange/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 72922,
+              "sha256": "bc6dd6d9d3168efa7cfaa3dc74389fda8f05c492fa157d4af97f6f56da1d3845"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/arrange/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 121146,
+              "sha256": "f7d92187ecd80c3efb0ef4ab624639c15c0821b46e83ef717c9e8b7ebaea2048"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/arrange/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128946,
+              "sha256": "482f4d895c1cdf82faeab3ab9c3fd9830d017fed3fa5e0cb8f773f314ebcdba6"
             }
           }
         },
@@ -1270,6 +1431,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/settings/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 69822,
+              "sha256": "9567baa4f56811e9a91d4122c754e98f1d43f98a791c8c06c4868ea52621a791"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/settings/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 74666,
+              "sha256": "9157aacd0f5d63550dffb5668061d9b62442d951b3d3de432efd193ed3355a83"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133728,
+              "sha256": "1ae4d7e4c374709dff5af7581f4cc670bdab9946cae17efc804dba21366ebce1"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 142514,
+              "sha256": "f862213dcd63e261a444e1644a4769b7121332cc4b9637c42e87d9db84ed0a45"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -1498,6 +1691,38 @@
               "height": 1800,
               "bytes": 179248,
               "sha256": "4e7b5221d9be05ae0a4d1dc758d95878b7d2968372a58d95090494cd82274f4f"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/refine/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 69316,
+              "sha256": "f8ca848d67e5dc1dee1df2b5bdb68de6df1bdd2b0e3283b0f5d0c37d158daabe"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/refine/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73058,
+              "sha256": "1006b9cbf360c034f1ac11bf701e499b0ddf605a5e0c0d2732a9750a64b614b6"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/refine/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 167444,
+              "sha256": "c2edc8f02d54ee6c2cb161f3d0492dc5b8be81c957cb3c5b1d49642397b78eed"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/refine/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 180098,
+              "sha256": "d9085d69ae7a20c12c3151e73ae8ff5eea62aa0a8ac32a5be55f1a4b29391152"
             }
           }
         },
@@ -1732,6 +1957,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/commit/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 54006,
+              "sha256": "e2f30051565affaa5282ab4a24020fca358926a318c6b2bc8bc1a20940ad49bc"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/commit/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 56674,
+              "sha256": "cadbc06e965e3d716d1675f5aed2b5dd5c3828adf1afd93467dadbc1152ac359"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/commit/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107884,
+              "sha256": "e4d3d6cf624f07e640a6672d842f0b0fd0c76380a982e089a9240284fe53fd18"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/commit/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112564,
+              "sha256": "22110efc5fd225841091e5ec665d58fd5c7dfea94f5e6ab0d0ab2c17344c82af"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -1960,6 +2217,38 @@
               "height": 1800,
               "bytes": 90122,
               "sha256": "b6ab08a6518fae70e1d1e044e0dc47f4b5778c128b5f992e83f3b6343dac290e"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/block-editor/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 43884,
+              "sha256": "5de20a9928b43dcff5893b4f03f56c787779cd82c2011a61da5e0b2c004b7a07"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/block-editor/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44242,
+              "sha256": "d2b445b2e994f839a20d1734fbbfe9d9226394093fa2e55e31b2925ff72fafe1"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/block-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90320,
+              "sha256": "e545227a4297ba1f49c0a6d56ef0608d4277ab27d18b6a6ae79aa03aae5f1200"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/block-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 82480,
+              "sha256": "25f8e1fa9931bc29cda41b9e8e5df1c1cd6581a05647a0c63fc88cdc70695616"
             }
           }
         },
@@ -2194,6 +2483,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/daily-os/shutdown/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 67746,
+              "sha256": "6d2d8dec0de02b43b43a6ef59901725f29f28848f36f4fdb6d8f85d82b8719b5"
+            },
+            "mobile-dark": {
+              "path": "it/daily-os/shutdown/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 71294,
+              "sha256": "ca15c9ecb0b0a3d9030a5d77eb0bb716add61f398a0f5a1915aff4b3279d27ed"
+            },
+            "desktop-light": {
+              "path": "it/daily-os/shutdown/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 162384,
+              "sha256": "3c85307bbe8fe5f277b1a3c517442cac9c8ea24eae01c7c0d415e9dc1950c766"
+            },
+            "desktop-dark": {
+              "path": "it/daily-os/shutdown/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 171838,
+              "sha256": "e668fd16a9487074b0a885018b0e183c7630468d0f3d31e6c2b46f3f75c6d28e"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -2422,6 +2743,38 @@
               "height": 1800,
               "bytes": 72880,
               "sha256": "f2bb9c9ef83def83c02233ba4f21e162fe2e0e0fc532c8d8cd5d608ad55e6872"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/settings/home/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 73380,
+              "sha256": "6d5fd312aee046e26079d7b0f6fcc0045a22c8664b4b2b74d10e481a68386b15"
+            },
+            "mobile-dark": {
+              "path": "it/settings/home/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 78178,
+              "sha256": "f652552b912f95ee127a9042af262e361e5149d2fbad0d8616b0ef26341a6cce"
+            },
+            "desktop-light": {
+              "path": "it/settings/home/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79154,
+              "sha256": "04405e416ad67833adebc663bce8943634b4b54f8721fbce0c72389c41fad893"
+            },
+            "desktop-dark": {
+              "path": "it/settings/home/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 83688,
+              "sha256": "f9b7c2c9441be08430e6a9d8ec882c00e7c8a5993fb8c1681b4799eb2bfe923c"
             }
           }
         },
@@ -2656,6 +3009,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/settings/definitions/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 25140,
+              "sha256": "32afd76337f21fe5af15c360e5061ff1757eebe78353fddbfab13c91d2333c5b"
+            },
+            "mobile-dark": {
+              "path": "it/settings/definitions/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 26822,
+              "sha256": "2478ab26f64302eee3431e316d407523649c4c08def11ebf4c3fa5776f37976a"
+            },
+            "desktop-light": {
+              "path": "it/settings/definitions/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 85506,
+              "sha256": "baf08673ae176a8ff241fcaaa2b652fd095cadd0657cc3326d053b6aca136aaa"
+            },
+            "desktop-dark": {
+              "path": "it/settings/definitions/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90914,
+              "sha256": "431496b76ca50c8330b78d0b5b99fc026ec65ec09cf31171fdd46486cb10c66e"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -2884,6 +3269,38 @@
               "height": 1800,
               "bytes": 336606,
               "sha256": "7f806d2410f516926e9b05bc53cbc925c6edd96dc74d1a23e1029f8d4be1af05"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/workspace/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 107376,
+              "sha256": "3dbfe72082d99b5676c12aa816c9f0bedbd552b21f8700b2d56b728cd0874af1"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/workspace/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 110318,
+              "sha256": "2a567a5e466647fa3a046ea28359250eeaf2cd12438d29995e4d2e7107c2e4b2"
+            },
+            "desktop-light": {
+              "path": "it/tasks/workspace/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 326612,
+              "sha256": "8c6a5deab609cbcb657698029450d80d960258a843eaa2bbed02fa64de57425d"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/workspace/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 327766,
+              "sha256": "3e0677eb09cc867236984152b8977edec74081641da7293c2a58cdcfe3610b7a"
             }
           }
         },
@@ -3118,6 +3535,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 125018,
+              "sha256": "4e02e5d447bdbd6dd3dfa874fee2b5ab7482084e6676194d5387d3201688f492"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 128700,
+              "sha256": "6b28de22fe73e35437f7bb7139b4c696c88e25c96e9a65b70cf08994c74cb8f7"
+            },
+            "desktop-light": {
+              "path": "it/tasks/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 296172,
+              "sha256": "1d49f961fe0ff54adf6f01737c113f7596b93bf0410985c3e116c6a52c4074dd"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 296276,
+              "sha256": "85b8df0a15e88a1bc0e0a0f95b56a4bba7a93cf2b2470e4e8d265e95a76a082c"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -3346,6 +3795,38 @@
               "height": 1800,
               "bytes": 109098,
               "sha256": "1e6a3cf7dc09fbff41137d6bb41929f44318ab97d7743ff81441eec75d456f57"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/agent-card/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 87200,
+              "sha256": "52989ffd0c76bddc2f109117760d228b61c67619484241499852f1d631b40c83"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/agent-card/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 90718,
+              "sha256": "eff32990d23e003771f5c4f781be852402055135ff393dc3f4db3dfc26e9f5e6"
+            },
+            "desktop-light": {
+              "path": "it/tasks/agent-card/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 163704,
+              "sha256": "f8513be5754b23132cef4d4cf8b0c8db2263b800af7e66cd7862ee58019301b2"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/agent-card/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 164218,
+              "sha256": "2ea3739d09d27a76ddec9fbd201b51c58bfade856959e90f5d1364e196cf8644"
             }
           }
         },
@@ -3580,6 +4061,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/agent-card-expanded/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 100934,
+              "sha256": "ce2702d04ac0c810ef433094b17c05afab97e7a7308bbbe9d5c61e46a171fbe9"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/agent-card-expanded/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 105534,
+              "sha256": "be086a2ae05e6436c22e99a480a7b45f46c52a75da088926efb54ba680187d4d"
+            },
+            "desktop-light": {
+              "path": "it/tasks/agent-card-expanded/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128132,
+              "sha256": "5be5800005cdeb23ad1600ed6fe9cca90bf798266f224aa6d37048c42b96dd86"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/agent-card-expanded/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 134534,
+              "sha256": "fc84c87256ebb4a4a9f7140d2c6707cb06d59fbcc8425ec38a55508ddd811ce9"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -3808,6 +4321,38 @@
               "height": 1800,
               "bytes": 111824,
               "sha256": "ebcaf918a795c07a9f37f952f0231dea433d8ecae2aa2e09a6fe99ef149d54d6"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/agent-card-manual/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 83400,
+              "sha256": "b81b7ee5e29b436b13c9f56dfcd335f34a69b0b02ec3ab2eca6d64869ffb6450"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/agent-card-manual/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 84946,
+              "sha256": "fa5af1f5f35885987eb9a7683879dbbb49761c0c8da5f264606d0aa1a4090501"
+            },
+            "desktop-light": {
+              "path": "it/tasks/agent-card-manual/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 165976,
+              "sha256": "da6c4b8ecd1b3e0ab895efd93b0f92f30c1e5f1cf10605af3611a8b01012806d"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/agent-card-manual/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169684,
+              "sha256": "af6d7226f7900edd55226fa5dfc81a7199050e7bda744b7f22aa7e3e93936609"
             }
           }
         },
@@ -4042,6 +4587,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/agent-suggestions/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 91872,
+              "sha256": "63cac2d271563cb143e7b9dc184ac5a5488395d6b976819053b2b79b04f85601"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/agent-suggestions/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 96668,
+              "sha256": "478cd682b40ea5b8a11047745985dcf09b8b332974c43c67c5e2c78fd50c9a82"
+            },
+            "desktop-light": {
+              "path": "it/tasks/agent-suggestions/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 193906,
+              "sha256": "410eb47150c5456c80f058a2dd4a2e2d28f0424bd7634e5bb6ca39bd83e21411"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/agent-suggestions/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 196322,
+              "sha256": "46a623a6ea647f9d6e2a9dc92ff26fa644e78c13b71e31aa4e947308f693d844"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -4270,6 +4847,38 @@
               "height": 1800,
               "bytes": 169428,
               "sha256": "cd77eac29ae8bc339069a979259c2d523ca9f16b606227de3f6b2bc21b7fe50c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 49792,
+              "sha256": "e58f6b479f2d058373e10793f8d55830906ae5a9475ce45ab6f40139d7e97483"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52028,
+              "sha256": "b38f04941ef9f27114118312831efb3c492b173c7e1776a93cd7c7c9da4f3986"
+            },
+            "desktop-light": {
+              "path": "it/tasks/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 198336,
+              "sha256": "179faf715b189a1f8a2fd31ec7c1b61adced5406d5f658cb97deedbecb579af5"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 164840,
+              "sha256": "c5aaa8ded8755f9d147c74e2ab5a4ea3e8fbd5babdc986e77732565eb8a0a91f"
             }
           }
         },
@@ -4504,6 +5113,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/entries/create-menu/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 79172,
+              "sha256": "62d7449ae3903114e2a94420c56bfb3b8861d4ce8d3f0184bc6d72996c20267a"
+            },
+            "mobile-dark": {
+              "path": "it/entries/create-menu/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 62900,
+              "sha256": "58ab38e7600577c1b5abea26220532f41256cdf516962f28e170f64844449918"
+            },
+            "desktop-light": {
+              "path": "it/entries/create-menu/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 165482,
+              "sha256": "e84dd370ee551ca7a503a70132d461372c52d73ea77e385c2a3ba58d449e01e6"
+            },
+            "desktop-dark": {
+              "path": "it/entries/create-menu/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122076,
+              "sha256": "90defd8708489e30c5f32f3fd953dcc0d7c566e4b559f64d27b31bfece48b5ee"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -4732,6 +5373,38 @@
               "height": 1800,
               "bytes": 225448,
               "sha256": "6e98b16a89419ba6871dec7101f29d216d454f90e0adecae034d3e5a07e9fc74"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/cover-references/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 134926,
+              "sha256": "81d7aa53c9f310f77a0caad0e60d516557d882e59c108b745d2930b0d84acc77"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/cover-references/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 121316,
+              "sha256": "05a9476a98cf32e0f5fb92333a82b7896a25679bd1e0f876f33a779380bd42c3"
+            },
+            "desktop-light": {
+              "path": "it/tasks/cover-references/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 263512,
+              "sha256": "dd4136b0e3140d27195c5f61e70d9f429e80078ca2e449e788ac5d0a35267636"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/cover-references/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 225722,
+              "sha256": "f27fff9a3111ef117991cac218d9999aaa9d12ceba756af442ecc040c97da7c8"
             }
           }
         },
@@ -4966,6 +5639,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/cover-generating/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 70246,
+              "sha256": "66275a70c06db64caf0103dfc9934863e5d3e574c1045a1bd6c76efa0a957479"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/cover-generating/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 58820,
+              "sha256": "9896d2a2e0bbfaf87cbc9514d0297902929c756adf628d53f9db006ae62497c7"
+            },
+            "desktop-light": {
+              "path": "it/tasks/cover-generating/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 167872,
+              "sha256": "b1c8ff101664cec0ab40e2027ea8e05b8f317ac2f590c23051dc2b5720b83621"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/cover-generating/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122176,
+              "sha256": "1e92549d24082e8fec08e6cd0ff52f8b353c1da4a6f335d63c8964ca873e2dd1"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -5194,6 +5899,38 @@
               "height": 1800,
               "bytes": 141486,
               "sha256": "eafeaa1951b7fc6f3320491c906a2f3adb204469e49c4b4a562201fae55bfde6"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/tasks/link-picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 66052,
+              "sha256": "d2d8c4c786d1eb54411da4fa3ef25992012568c255a9ece1ed5a15ab492e97ee"
+            },
+            "mobile-dark": {
+              "path": "it/tasks/link-picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 67336,
+              "sha256": "eff2f966e6866bccd2e202c05ce03a058c7a5171a41e8506d9eaa847a25d4ae4"
+            },
+            "desktop-light": {
+              "path": "it/tasks/link-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137512,
+              "sha256": "5ceb9e5cd40a872204a3c877e685a4c2ec523d3a473a23482b492a871acf5e23"
+            },
+            "desktop-dark": {
+              "path": "it/tasks/link-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 138350,
+              "sha256": "4a9db601b373c477ca3434bea4444fb655f31e774471a278c9c023c1dc447979"
             }
           }
         },
@@ -5428,6 +6165,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/categories/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 26352,
+              "sha256": "f73529e62c2925c91adcbd8380091bfa525f092b07bf8cb6385a68e290955c88"
+            },
+            "mobile-dark": {
+              "path": "it/categories/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 27682,
+              "sha256": "284dd6f84ce0511c24869a3f9abad1464aff5e4b9d85d5e8ea4882c328a5ae01"
+            },
+            "desktop-light": {
+              "path": "it/categories/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 36812,
+              "sha256": "5277f84c57e00815db9345bd99335c5beada5b8951c5581fa7b663de894636e7"
+            },
+            "desktop-dark": {
+              "path": "it/categories/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 38044,
+              "sha256": "d445d0a134a724c67469541900e3c268277f85299d5f9546cc3035ab7a323cda"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -5656,6 +6425,38 @@
               "height": 1800,
               "bytes": 66370,
               "sha256": "ddb0dbf75d15ceea76739d4b85378eeb92e7c0f73896ba892017e5dcde322438"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/categories/detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49668,
+              "sha256": "25c6800bd9c0931a89ee44e014703967f676e26367eea08c187f58a9a1b56740"
+            },
+            "mobile-dark": {
+              "path": "it/categories/detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 51968,
+              "sha256": "fd45e905ef2f4cd7213183d8de73ffb1ef85ea0d4deba7498f94f1fccfb67ab7"
+            },
+            "desktop-light": {
+              "path": "it/categories/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 63458,
+              "sha256": "737c5131f3bbbc33b371caab802450bcdc169af5c1f6ccff065736cc1d0d62d1"
+            },
+            "desktop-dark": {
+              "path": "it/categories/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66052,
+              "sha256": "63374e64139cbcfe30e0b8dca8c6426e13c90b55ac24ae34706b23e6d2dc80e2"
             }
           }
         },
@@ -5890,6 +6691,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/categories/automation/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 61074,
+              "sha256": "e9852bd0d66d61c280e49209173755a2146fd103ef60f9a1adcb64d121525c6b"
+            },
+            "mobile-dark": {
+              "path": "it/categories/automation/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 63956,
+              "sha256": "3a4e25afac713907d1267d58e367e6f09a471f75d80c3144d039009e65973884"
+            },
+            "desktop-light": {
+              "path": "it/categories/automation/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79692,
+              "sha256": "a5ba383687f507816c9e02b71b663d43efddab6a6cc123a38bdcae7bc4d7d2e8"
+            },
+            "desktop-dark": {
+              "path": "it/categories/automation/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 82070,
+              "sha256": "c18a49d15a0a769e0915edf98291a0035f7c652dc86c41017c67598553c1946c"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -6118,6 +6951,38 @@
               "height": 1800,
               "bytes": 38324,
               "sha256": "c5fc21282316a8559794c545842dc37d24a542d281cf80021f91de07ea6506b0"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/labels/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 24896,
+              "sha256": "ffd19ad0a57829e319dbe6aef7842bce26e92053b76610c73005fbb2f6ed51b6"
+            },
+            "mobile-dark": {
+              "path": "it/labels/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 26220,
+              "sha256": "ed48595615b4d04e0d8ed1cbc83835426044fa775d91d5260f8799c4b2af2add"
+            },
+            "desktop-light": {
+              "path": "it/labels/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 35320,
+              "sha256": "320f873a62dbd8083c01867e30fe4a88f0282214b4a14834862fa845aaee77de"
+            },
+            "desktop-dark": {
+              "path": "it/labels/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 36340,
+              "sha256": "2c04b9a567a3eb08047965386d67eb05776059d9b98eb9ddb8a258a16f8060c8"
             }
           }
         },
@@ -6352,6 +7217,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/labels/detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 52710,
+              "sha256": "61a549647a2a47c1cd63b3156d0bcdb0626db603a74689db32d9b6b7aedf2ffa"
+            },
+            "mobile-dark": {
+              "path": "it/labels/detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53960,
+              "sha256": "a2701982c30ce47baa5c952b32d8a8d91f519fe879464e833c7d56521a5a9373"
+            },
+            "desktop-light": {
+              "path": "it/labels/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64646,
+              "sha256": "ff456f3a3db0495a2184ee14eb4f218a97b75fb3b249e19861301c8ce9cb0880"
+            },
+            "desktop-dark": {
+              "path": "it/labels/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64878,
+              "sha256": "13ebcfcabd49de6a4254312c7879477391b9e227d29fc5ce2ba19bf813824dfb"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -6580,6 +7477,38 @@
               "height": 1800,
               "bytes": 85026,
               "sha256": "798bf1d118df9a01654f405320482a5e7b754677126d0d1155cdfe0b5c06e658"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/habits/today/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 55596,
+              "sha256": "95cbf68fb0c89740a313ce13a2c0047e7ad7c40effa025d069c6dbed366eff59"
+            },
+            "mobile-dark": {
+              "path": "it/habits/today/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 57568,
+              "sha256": "4641c225c8ae691893353c9ea2188965fd887e876e6ea803f3d89cd367cd3cd7"
+            },
+            "desktop-light": {
+              "path": "it/habits/today/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 78330,
+              "sha256": "8abc30377e7f54dc95505de15f92ae7d67cf8e057ea24c1c039d1b2bb7a98699"
+            },
+            "desktop-dark": {
+              "path": "it/habits/today/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79422,
+              "sha256": "aa37c91f765e6c7b0bd4e12e6ac9ef3438cc161cc49fd40ad3154450158f249c"
             }
           }
         },
@@ -6814,6 +7743,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/habits/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 27656,
+              "sha256": "0a5354d6566fe073f7b25d9163b5d4ea2db86af2be42462831c54c820922df11"
+            },
+            "mobile-dark": {
+              "path": "it/habits/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 28930,
+              "sha256": "f13edf8719739361043272ad489b9fda1b5be8ab4bac4a0bc33fc1e8c6681d82"
+            },
+            "desktop-light": {
+              "path": "it/habits/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 47678,
+              "sha256": "2e46da12ab7053cda355ce4ad8d527e0bbce40e3c529c64acd4a574cf4fc3a26"
+            },
+            "desktop-dark": {
+              "path": "it/habits/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49624,
+              "sha256": "5bcdc6beb331ad7d89eb60cadac3b3626f0a8196c40d1c65485763eebd5dcedd"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -7042,6 +8003,38 @@
               "height": 1800,
               "bytes": 65020,
               "sha256": "10da294f7de0959bf4bcfa596ccd23c014a8189909bbf51a348db43649b2b9aa"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/habits/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 51584,
+              "sha256": "10d013d6842926139c817f89507961366fdc91d1a65691c587e0b76f6bf6a4c1"
+            },
+            "mobile-dark": {
+              "path": "it/habits/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53416,
+              "sha256": "317cb0dd70c2b0edf93bae1e8fc229314c272e62c34974f681e4e6b0a7b782d7"
+            },
+            "desktop-light": {
+              "path": "it/habits/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61940,
+              "sha256": "cccd9543931c8c2eb6e1727fd68c9eb137c932522e5f0c32de2fc3e15853d859"
+            },
+            "desktop-dark": {
+              "path": "it/habits/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 63428,
+              "sha256": "c4f699b32c06e6efcd7dd69519e66ee6903ecc83ee10c7afc37fd5f2437819b2"
             }
           }
         },
@@ -7276,6 +8269,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/habits/schedule/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33900,
+              "sha256": "2ef65ac48823817bcbad8210485ce92d8302a513c89ddfbc2d77488fd6273b53"
+            },
+            "mobile-dark": {
+              "path": "it/habits/schedule/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 35154,
+              "sha256": "5cf70b6ab12bcbef3ce5b4fa58b1ce82f056e9bd2de79936564b029722da5e3d"
+            },
+            "desktop-light": {
+              "path": "it/habits/schedule/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 47730,
+              "sha256": "830a2f57127cf5090cc818e885310fa2f7f1cadc47611ebdb5bd8e6e15337bde"
+            },
+            "desktop-dark": {
+              "path": "it/habits/schedule/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49280,
+              "sha256": "b47d7b3a6feca334b9d90e35163cabe4887464f80e1bb645cb0a7d4dde627ba9"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -7504,6 +8529,38 @@
               "height": 1800,
               "bytes": 31234,
               "sha256": "b125ccce7e13e8dc46837e500f84b0def74f64bb330c260fe35ad1d0c72d0e74"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/habits/record/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 24532,
+              "sha256": "a115bb4270a8744eeb202ce2ce92357998646f70884e339c982ad56e80220031"
+            },
+            "mobile-dark": {
+              "path": "it/habits/record/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 25474,
+              "sha256": "d99629de60ca43f002d123f963f5c34faae7d03514d2645b78c1f3dd69bd7424"
+            },
+            "desktop-light": {
+              "path": "it/habits/record/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 31330,
+              "sha256": "9584760dd4d1b3427c013a1a7be6fe2f4952e2b3f237abe5cec7b7d6087d908a"
+            },
+            "desktop-dark": {
+              "path": "it/habits/record/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 32536,
+              "sha256": "a4e1739ac852e8315367bd6b2bceab34963afcf00198b297ca034c97fc6c65e1"
             }
           }
         },
@@ -7738,6 +8795,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/measurables/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 19176,
+              "sha256": "d5af9acc3c57e850439d4525d46c84ecd3971444ad38bd1463b864cf19ca95bc"
+            },
+            "mobile-dark": {
+              "path": "it/measurables/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 19922,
+              "sha256": "935a5befd0db6a07d86575d8259c280c02655ab5fa17d042ad779767953a5d72"
+            },
+            "desktop-light": {
+              "path": "it/measurables/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 29472,
+              "sha256": "78104d5c1b65ec2490cb9bb8ace9e7c0a3f452def7a9c1a88f2803281f3e0f7d"
+            },
+            "desktop-dark": {
+              "path": "it/measurables/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 29666,
+              "sha256": "9f6ed7d7cb123ccf6473fde68a48c05b3e6bf17e3f08ddbdbc3eb9b27b54172e"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -7966,6 +9055,38 @@
               "height": 1800,
               "bytes": 58410,
               "sha256": "92a5cbe98acd9f5f8a5f52b4552ef984a20c472458b62122bf3911a2efba96a1"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/measurables/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 46000,
+              "sha256": "37dc74075590b02d4ab25d078fcb6ba5550ce044d692a605e7230b4839c57da5"
+            },
+            "mobile-dark": {
+              "path": "it/measurables/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47472,
+              "sha256": "26e530d795d80b0b701745aa61e29e639546d18354155c625920123d14a75ba0"
+            },
+            "desktop-light": {
+              "path": "it/measurables/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 57692,
+              "sha256": "746e91fdce0c30468a7337904cbc491e6e0e0111d5e71193ec679093d837c7ac"
+            },
+            "desktop-dark": {
+              "path": "it/measurables/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 58210,
+              "sha256": "688a0d9af0d3ff53d3e15d586b24bcd5a1c78d12c4fbe04108fb6ebb2456ed37"
             }
           }
         },
@@ -8200,6 +9321,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/measurements/capture/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39836,
+              "sha256": "7fcb630355a0561d319004614ac202407c4f6523313fbee89426f8d95bed5214"
+            },
+            "mobile-dark": {
+              "path": "it/measurements/capture/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39866,
+              "sha256": "d1c24a36d99c25b89932b0ffcd317f146c2984fcfda8d1a50cab8025cda4a4cb"
+            },
+            "desktop-light": {
+              "path": "it/measurements/capture/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 50332,
+              "sha256": "ad19b7eb5452410d5a23d03afad26e193c51fb77e7b3c19f201f66708a038b57"
+            },
+            "desktop-dark": {
+              "path": "it/measurements/capture/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 50338,
+              "sha256": "55f5c56d2f79f6ee0446e4e24905b624499c28e791f3b5271865231cfcabdeb0"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -8428,6 +9581,38 @@
               "height": 1800,
               "bytes": 50134,
               "sha256": "9817e2994f5cb586bd9dbe55c926c8b2d257471fd909f39c769a01271ec7935c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/measurements/date/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 30652,
+              "sha256": "b62b9538761ea4859114a95d0a92a2fc0ef7e8f70b2f82c801d10801aef87d7b"
+            },
+            "mobile-dark": {
+              "path": "it/measurements/date/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 31506,
+              "sha256": "41f50640c72aff393814000f8d1eba2a3f8f14fb4b851413b4ca41c14921f2fd"
+            },
+            "desktop-light": {
+              "path": "it/measurements/date/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49360,
+              "sha256": "29352fda3d03d07f1b0a102d7944be47000074b80169a9f94e4efa1abdeedd3f"
+            },
+            "desktop-dark": {
+              "path": "it/measurements/date/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49492,
+              "sha256": "c09b9b2e7137f8e4db41fe9b8c50469264b5a2c2668b884196a9211433ccd679"
             }
           }
         },
@@ -8662,6 +9847,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/measurements/time/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 27730,
+              "sha256": "4bb7641d2c6262322a264c34140bba4ebdf92807515ad438c7e0d533ee94bf14"
+            },
+            "mobile-dark": {
+              "path": "it/measurements/time/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 28404,
+              "sha256": "a00f0e691003faa34a993b14acfe93f664b5b815df51945809e014f785879cda"
+            },
+            "desktop-light": {
+              "path": "it/measurements/time/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49218,
+              "sha256": "dde3c91c80e8c2b17584bd0476b387495f05f5a8c257a8e032eab83545fb7fb5"
+            },
+            "desktop-dark": {
+              "path": "it/measurements/time/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49244,
+              "sha256": "6b80ba20fde2d4db59b413f48b1b01a21b01232a071def8b079db3af3c82101c"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -8890,6 +10107,38 @@
               "height": 1800,
               "bytes": 41782,
               "sha256": "ae6f5cd00b95ddb94c4512df324e29af8dd69e826dd8781bb3fd76ce46b75e9c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 21394,
+              "sha256": "cd22efcd82ab5c4511296225f63e167032735f0e9b40d220013c2261dd46b9c7"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 22368,
+              "sha256": "19e76c07a0f737c46c1f48b413e07dd9eaffea07b20a5c06b68dec91200e2e65"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 36272,
+              "sha256": "622b3facd9a7d724aaac49aca66485fffb649cfee886bf7d4db0dd5cce539e2e"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 37414,
+              "sha256": "54a068141ad1c23afc63560b7aaf4524927a4a234d17dca2427f638237cda6eb"
             }
           }
         },
@@ -9124,6 +10373,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54644,
+              "sha256": "7ac6709c760729106ff10b2d50ec4b0088791f46d339ab9c14a1363c339b51b1"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 57104,
+              "sha256": "c90a802e8603b39d455420f4b4bd071f99aa31ec180a8f3dd338f6b653a95879"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 74418,
+              "sha256": "79d927b2f12d17ece2603a61a13d4e14741f9d34ede9762fc879a3fd6991a5a2"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 76020,
+              "sha256": "9a2fc196127110d7e602a5e8762710c369ecdbe90b41a4f6756dcdc5f2565b1d"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -9352,6 +10633,38 @@
               "height": 1800,
               "bytes": 67540,
               "sha256": "c6762728016b6bed947c4452004b84683ad142eaa10325bb5504b8bf04ce0bd9"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/charts/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44532,
+              "sha256": "f688fb30a9e863cb0e1d560ac1a0f95c97a19a29a9539e29aff11e043f10b7bc"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/charts/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 46014,
+              "sha256": "b5ab8f924a0bc220eedb73cf870dbe6c97a3a1b16f7b7d446b8894b3e535377d"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/charts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62268,
+              "sha256": "1c3183ab5c5112d0d47906f94aa0ffda1f33773fc89de28045e5760b3b7f28b0"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/charts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62234,
+              "sha256": "4d74253f93a8a8deb113578eaf710bebac54486080b15d621844cb2ce0e5dc79"
             }
           }
         },
@@ -9586,6 +10899,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/sources/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39580,
+              "sha256": "bca1046a483faef81b2ee8fea611d98b3d531132afd1a93347a0ed5e90519913"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/sources/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 41162,
+              "sha256": "b56bf605e59d158a8b6e725aa51d9df3350fcf48c446b3464f82745f1fef6007"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/sources/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 57242,
+              "sha256": "39a087e26d816ebccffdb3104e18b4194ed4debbcc3c8dd64d7d70954e51b9ab"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/sources/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 57496,
+              "sha256": "476aa91251af4691640981227a39ac25f5cc293a39a9c5449b36b1e2b7607679"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -9814,6 +11159,38 @@
               "height": 1800,
               "bytes": 108664,
               "sha256": "f3455e9ecc517b5fe46c5bd725684c03930e2bb6c346da9c159517b39819b776"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 17078,
+              "sha256": "2220b6158d886816d2febeaf20c87f890e7e8b0cd1fffb8c4cc2fa8c3c149fbb"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 17626,
+              "sha256": "fc9404184976fe6022497fcf7674d31cff6a1004b26cbf67eea7aaedf3ab55d9"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104260,
+              "sha256": "47dd84af06d2969212d3b634f13027ba0f2f7f94363f1963c31aa6f9e3a95aca"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110022,
+              "sha256": "2ef1040f7c6bf9bb664b7129f49f3f2872004c71279e6345ba76fe910562f42f"
             }
           }
         },
@@ -10048,6 +11425,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/view/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 38994,
+              "sha256": "18f9e072b515a58f7cc00d1fc5aa2cbeeb27849f32bfcafc9e51ca954db8ae40"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/view/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 40434,
+              "sha256": "daf62efc35e5725df873e51591c4b9629072278b5643807a9dec6132f725fdf1"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/view/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104260,
+              "sha256": "47dd84af06d2969212d3b634f13027ba0f2f7f94363f1963c31aa6f9e3a95aca"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/view/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110022,
+              "sha256": "2ef1040f7c6bf9bb664b7129f49f3f2872004c71279e6345ba76fe910562f42f"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -10276,6 +11685,38 @@
               "height": 1800,
               "bytes": 109736,
               "sha256": "2ebad27ce28f659fbd4b268e65c904fe32921f65edf689cfce346dc576f69201"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/dashboards/view-crew/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 40562,
+              "sha256": "5f10f81929cef491acce1743408d42fe225e34ba928522ce1e01c3a2f3db4f96"
+            },
+            "mobile-dark": {
+              "path": "it/dashboards/view-crew/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42260,
+              "sha256": "043dbedd4cacd81af189c82502cdcb14a6ebf6c548c9a1706e88c47a3c55a4b4"
+            },
+            "desktop-light": {
+              "path": "it/dashboards/view-crew/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107586,
+              "sha256": "76b1ab51ee23b8250220893f82b10b79025d514aae51fdfcb94e663bdbc03a55"
+            },
+            "desktop-dark": {
+              "path": "it/dashboards/view-crew/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110926,
+              "sha256": "9b879940256fff3971c697cdc7547fc31cfdadec2c9c9ccef492a9998cd94c8e"
             }
           }
         },
@@ -10510,6 +11951,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/surveys/panas-intro/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47116,
+              "sha256": "8746661cb5912abb52d8028c807b063375429c2aae31f592e1bbeabc1ff0337f"
+            },
+            "mobile-dark": {
+              "path": "it/surveys/panas-intro/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48016,
+              "sha256": "97ebcf35a82886c04776776d3cd81d7c2bd43eedfd1278f95ea29c390a021adf"
+            },
+            "desktop-light": {
+              "path": "it/surveys/panas-intro/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 97584,
+              "sha256": "293ad9abae13a05ceabf2d6cb7fa9c5bc5f6451979ba8d93cf39bd77740d9283"
+            },
+            "desktop-dark": {
+              "path": "it/surveys/panas-intro/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 92004,
+              "sha256": "2e410a9c5769d19f23d0727dbf9ed2b6f303bc9883b63de442fb944e4550b3a9"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -10738,6 +12211,38 @@
               "height": 1800,
               "bytes": 67114,
               "sha256": "dd9d793e4e4a4954d41b0f6408e84b6951b5d5cd1083bf1552a477351a7e5933"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/surveys/panas-question/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 24868,
+              "sha256": "7051f501e7d358365d29fa65d8ce7ad42b550df65b7f224437fdb0da44fc2df4"
+            },
+            "mobile-dark": {
+              "path": "it/surveys/panas-question/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 25364,
+              "sha256": "c7a2075c2bbcf45870d681865f806dc0ba169a650851c05e8e8ef420f36969a5"
+            },
+            "desktop-light": {
+              "path": "it/surveys/panas-question/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 75170,
+              "sha256": "b2a89988f6533f5130cae58a4ad901e019e905ccdbb7fad9f4704cb8d630619d"
+            },
+            "desktop-dark": {
+              "path": "it/surveys/panas-question/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68678,
+              "sha256": "abfe2c908744b95101e8ade7d4fc99ba89d6abce6f55e6262229a81b040fe3ff"
             }
           }
         },
@@ -10972,6 +12477,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/recordings/active/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31432,
+              "sha256": "256d06943b90cc9063acac83f93253929555333ccf7afa5d9e30f123737cd842"
+            },
+            "mobile-dark": {
+              "path": "it/recordings/active/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31026,
+              "sha256": "3ae7bbc740b2762ea7b0ae0a0edd94ab7aa93df349bdbb53f0d1fae391efddb7"
+            },
+            "desktop-light": {
+              "path": "it/recordings/active/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 38016,
+              "sha256": "f5207e09b144aba4c3ccdbe5a268afb0e8b138c99a004c6f9d4210527ca02288"
+            },
+            "desktop-dark": {
+              "path": "it/recordings/active/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 37302,
+              "sha256": "b297892ef483b54aa65a43e0c17bacf06e67e4d36f4ea5f38cd286a4d7a0c97d"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -11200,6 +12737,38 @@
               "height": 1800,
               "bytes": 40076,
               "sha256": "e9fa65951967e255fc4fb38b9af1b59989f73296d856fe322c1a4828ea0461d3"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/recordings/transcripts/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31424,
+              "sha256": "c27b443e4d8934aa5519982b7bdc8a454887a1559e13eb3aa764313e045aa780"
+            },
+            "mobile-dark": {
+              "path": "it/recordings/transcripts/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30628,
+              "sha256": "ba4f37abb775f9305d2dd2edd1f640867e6555216360cbe82ea1566db8f0327b"
+            },
+            "desktop-light": {
+              "path": "it/recordings/transcripts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 40320,
+              "sha256": "0e40a39649807d941a2562446a8fc69c9e3a38f992687e622f70421710edc7e5"
+            },
+            "desktop-dark": {
+              "path": "it/recordings/transcripts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 38640,
+              "sha256": "7356c1378e935b9530d8144b92d4ef0e1cfa540e0864044532f95dc29e315850"
             }
           }
         },
@@ -11434,6 +13003,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/recordings/transcript-expanded/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 58742,
+              "sha256": "1f42f3467a13f77f8617024ebc4cf0676c533bee9017f1afdbe8dde9884d41e4"
+            },
+            "mobile-dark": {
+              "path": "it/recordings/transcript-expanded/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 61016,
+              "sha256": "fbeea619fd3bea83a9ad7faaa7321da44c8c5d37ba49cf0fa56177238187ee7e"
+            },
+            "desktop-light": {
+              "path": "it/recordings/transcript-expanded/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66552,
+              "sha256": "06fa8354a973e31857cbaeabab7cf04b02138156298c4bcfcd785aaf63fad44a"
+            },
+            "desktop-dark": {
+              "path": "it/recordings/transcript-expanded/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 67914,
+              "sha256": "b8351214b9a6066a39a15c5d45e98d2e904d5b877b51b53dd1a5ac13e5e6f3d6"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -11662,6 +13263,38 @@
               "height": 1800,
               "bytes": 66782,
               "sha256": "ad63c06a6be4a6217fb657eda9c6b1f83c251ad055d9d697769dbf30ebd99512"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/theming/preferences/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 10236,
+              "sha256": "134f0bfd95d28f4bf90c5c6463f95e30a17038a94e22f677c4ab96315ef4e824"
+            },
+            "mobile-dark": {
+              "path": "it/theming/preferences/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 10868,
+              "sha256": "e7468a846bff87ca5387b030ec9bb14d61fc53029d87cd8b634f779875b21ff0"
+            },
+            "desktop-light": {
+              "path": "it/theming/preferences/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72174,
+              "sha256": "24eaec09fcb9a908b99be43a92eb8ac1e7a8b8478b819d8bf1a9be5ce30f7957"
+            },
+            "desktop-dark": {
+              "path": "it/theming/preferences/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 75660,
+              "sha256": "05ff23b309857a5d0dd64215a7b6520871c7914f79c754d7c10544cbeb00243c"
             }
           }
         },
@@ -11896,6 +13529,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/theming/picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 29588,
+              "sha256": "bd76c6c0718dd9b47edfe95b5b5a2fdde19afbccf13da93550ea6558bb8e5fba"
+            },
+            "mobile-dark": {
+              "path": "it/theming/picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30474,
+              "sha256": "34819ae67c110d12f95f7770e9da017827256e9adf6b1b0d7a3613d7cb2ae541"
+            },
+            "desktop-light": {
+              "path": "it/theming/picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 77894,
+              "sha256": "86047c74e2b81dfc480c16627d6e79dfbe4efa3774acfc7ca81303539501e811"
+            },
+            "desktop-dark": {
+              "path": "it/theming/picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 83552,
+              "sha256": "afc835d6d9200b23c4b9b9938cba386c70c893c92a0d3d5c4766f93832acc312"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -12124,6 +13789,38 @@
               "height": 1800,
               "bytes": 97378,
               "sha256": "82d17f633381f93791a9021e8e46317ef6a342690322415bfc50d4b595417562"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/recording-style/preview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 37050,
+              "sha256": "fea0056f2c16b99228f6740c94c304262f595efe7581a540d8807db68160aefd"
+            },
+            "mobile-dark": {
+              "path": "it/recording-style/preview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39308,
+              "sha256": "b1c1a6c9994752d991015dcce5615cb2ac8de9a973dd80bafb1f802bd2a0a10d"
+            },
+            "desktop-light": {
+              "path": "it/recording-style/preview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 98734,
+              "sha256": "53dc7a9cce6d507d3a5bd8dcbe83625dff2bc295e34306c4fd295ca8ffcfc099"
+            },
+            "desktop-dark": {
+              "path": "it/recording-style/preview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104906,
+              "sha256": "31555a0918369a4db952f80a4f2d989d3f635a2ce1789d48c12a972720267c87"
             }
           }
         },
@@ -12358,6 +14055,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/speech/settings/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 32944,
+              "sha256": "129c186043974cee0284639159f830355e84de26900c5a9b9c818e639630f54f"
+            },
+            "mobile-dark": {
+              "path": "it/speech/settings/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 35010,
+              "sha256": "aadaa1f4a19a04262fb0dcd752317dd03cc7657dceac2721409048ec6a6c2f8c"
+            },
+            "desktop-light": {
+              "path": "it/speech/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96630,
+              "sha256": "627e889c3bacd427d11cef3dbb6bc7bb545ef713364ad3dde41312bd716bf313"
+            },
+            "desktop-dark": {
+              "path": "it/speech/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 102842,
+              "sha256": "b440d3e583e102fec68a5fb8982a88be31c99bd9401746ebeecdb87f6dbe7b9d"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -12586,6 +14315,38 @@
               "height": 1800,
               "bytes": 92502,
               "sha256": "e5e09d95b7ccfb8e547f1ae213259853eefb40f2385060ebf8f00e1a7f974342"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/speech/voice-options/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31876,
+              "sha256": "e84a2bcd027b8a4a73cf657e74481b23a2eed0b91acb04bbbd28728c08a848ad"
+            },
+            "mobile-dark": {
+              "path": "it/speech/voice-options/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 33942,
+              "sha256": "21dcf9d892c1870b77ca7e6423847bed47cdce73f3edf0255f9ab11bcf6bb3ad"
+            },
+            "desktop-light": {
+              "path": "it/speech/voice-options/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 95614,
+              "sha256": "1a301b182c1d5d781c137d2a6d30f86cf4223e6213e2b660355df5a6785c7540"
+            },
+            "desktop-dark": {
+              "path": "it/speech/voice-options/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101598,
+              "sha256": "296ea217266a346b5d5d24aaaf25d7ae2e9840b836d994fdc2cc066e5376489c"
             }
           }
         },
@@ -12820,6 +14581,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/keyboard-shortcuts/catalog/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39796,
+              "sha256": "28e7d99965450e98bf3e9c6191d4750313dd118331cb0808e16f40ac854773fc"
+            },
+            "mobile-dark": {
+              "path": "it/keyboard-shortcuts/catalog/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 41280,
+              "sha256": "53eb933f1a01cb202668f6d93caad559015682f25298b5f73328a079fe222383"
+            },
+            "desktop-light": {
+              "path": "it/keyboard-shortcuts/catalog/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110348,
+              "sha256": "675d8ae84b9f03deb90b97f3a69ed95c116178bf1065ec52b36ea3b76a41ff61"
+            },
+            "desktop-dark": {
+              "path": "it/keyboard-shortcuts/catalog/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 114712,
+              "sha256": "88da2d7b7e39556fbcfd507064c89330343c52f6103459f9684a1c882ef90554"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -13048,6 +14841,38 @@
               "height": 1800,
               "bytes": 80708,
               "sha256": "5919031da3891780865dbc9dcea5a1e127a5f026668e58475b27fe84ddc15a04"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/keyboard-shortcuts/search/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 22670,
+              "sha256": "5d79ba7854ff8a9836bc3b57f4d3d9275f5b56ff7a42ee75e5b6a7aa84fe9e08"
+            },
+            "mobile-dark": {
+              "path": "it/keyboard-shortcuts/search/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 23546,
+              "sha256": "619b302593988df91fcf913c8ae472eed9d3c31b22a2720faca9a1c4267b876e"
+            },
+            "desktop-light": {
+              "path": "it/keyboard-shortcuts/search/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 83890,
+              "sha256": "9514a349b6483ccf4df6a212e97b50ba59de346de4bb57ec916ad4b468287c3f"
+            },
+            "desktop-dark": {
+              "path": "it/keyboard-shortcuts/search/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 88376,
+              "sha256": "a70de8499412ce27d5b1e7143c99b75633e268c8f3e18c7ea131c9ab495c66c7"
             }
           }
         },
@@ -13282,6 +15107,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/keyboard-shortcuts/palette/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 36680,
+              "sha256": "9d430905aa2090fd965123b4557572e500324775ddcc2d42cb1e6ada2c945e52"
+            },
+            "mobile-dark": {
+              "path": "it/keyboard-shortcuts/palette/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 37232,
+              "sha256": "fdcb01e86ca3568640ea4a0170df93af587019c36e7824bfeddb2e83e970f52b"
+            },
+            "desktop-light": {
+              "path": "it/keyboard-shortcuts/palette/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104302,
+              "sha256": "26131c1b1d104fad39698f796967d58600130bb6f018357eb5d668a8fac28b11"
+            },
+            "desktop-dark": {
+              "path": "it/keyboard-shortcuts/palette/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110054,
+              "sha256": "f90c1cca8d23397030d274570d18bcc9f9784d8b80ff397337f1f0282231877a"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -13510,6 +15367,38 @@
               "height": 1800,
               "bytes": 173802,
               "sha256": "4bddfe1498130d37d3b8efbe76186338e2fa8bb1b76d0510bf6ae7a69db49b64"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/celebrations/controls/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 72088,
+              "sha256": "bb87bd64e61d7d7a42fc1a28350da5f045fe9835028a66b38610e3a4cbcddffa"
+            },
+            "mobile-dark": {
+              "path": "it/celebrations/controls/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 77538,
+              "sha256": "5fef93dd28b440c57f54015dfa855f46123f3fcb3e6786e703e33dbb91857a4c"
+            },
+            "desktop-light": {
+              "path": "it/celebrations/controls/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172862,
+              "sha256": "0e1997e4f8245e6e48ab585d6331d141baa18b407c71c2581d127ceb60698c8c"
+            },
+            "desktop-dark": {
+              "path": "it/celebrations/controls/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 181412,
+              "sha256": "a6cc430d4d0bfd45702a89e66a8a81c6bfb7a5f0c5500de8e2f532094cef76e1"
             }
           }
         },
@@ -13744,6 +15633,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/celebrations/styles/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 42582,
+              "sha256": "558db44e8730fc48e7df3c59f94b74f6567efd306755b9bb96831fa7496e95c6"
+            },
+            "mobile-dark": {
+              "path": "it/celebrations/styles/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 45700,
+              "sha256": "a65fb4e64718e87c7fce4f31ecc4b772d25b95113c2199660b36af43dd0e9308"
+            },
+            "desktop-light": {
+              "path": "it/celebrations/styles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169448,
+              "sha256": "9c32de9725a85aeeff31938fb085f92daced4bbf6cee634ccf16c15f227382df"
+            },
+            "desktop-dark": {
+              "path": "it/celebrations/styles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 177872,
+              "sha256": "fa9e6d1ab2286a289b75a57b2d31cb169c24ee0a9b28cb9459f7f7bc08b9c1c1"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -13972,6 +15893,38 @@
               "height": 1800,
               "bytes": 68724,
               "sha256": "53052009a3e98932dbd8a1dfe66cd1f272c448d19b3ef71d88fd3642ee5f82dc"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/celebrations/playground/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 40722,
+              "sha256": "5e647e33048f39cdd4e59fef9dcde2a308ca9798f35b93a8088bce86238468e6"
+            },
+            "mobile-dark": {
+              "path": "it/celebrations/playground/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 43320,
+              "sha256": "2a18a71077eeeff0bfd50b550a3276690aa55acc3f0abb8fd38bfd1b49f0eba8"
+            },
+            "desktop-light": {
+              "path": "it/celebrations/playground/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 67562,
+              "sha256": "151893b66dace72c1ab89bd3fa4d357c60f57e95538662f8437e883638370b59"
+            },
+            "desktop-dark": {
+              "path": "it/celebrations/playground/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 70842,
+              "sha256": "db394111be555bf764c372c2be42da482d0ea3e8c1042e54197e448e06e85297"
             }
           }
         },
@@ -14206,6 +16159,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/list/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 66026,
+              "sha256": "d24eb0bf8fbbcfb3ee429bbf152aa4dd3580cf9007c76c1dc85d391583419e67"
+            },
+            "mobile-dark": {
+              "path": "it/projects/list/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 68538,
+              "sha256": "8d266f725c79bb751e0e5934d1e1d806368342daca16ec6ef1c44fb3b8ab437e"
+            },
+            "desktop-light": {
+              "path": "it/projects/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 80410,
+              "sha256": "709b7b6e96090ed8f01e4e8abf425a733b34e47343aca0037a63df40bd158f00"
+            },
+            "desktop-dark": {
+              "path": "it/projects/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 83470,
+              "sha256": "e7698f53979b6ca2540b13dba24f67eff75063d592975c8ef4a2ffe877cb6b6d"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -14434,6 +16419,38 @@
               "height": 1800,
               "bytes": 170982,
               "sha256": "2ca63f273268737501fbf15dd3dd99eb3214976ee570dc2b2aeba1f7bd76cf3c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 90600,
+              "sha256": "23642e0762dc822b5f45bb6a39694ad9836c09c1dac5025236c988decadf0230"
+            },
+            "mobile-dark": {
+              "path": "it/projects/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 97128,
+              "sha256": "ed79377c6e997a36d0a119dffae2f22212d45ea1b3e5947844240be3030990b0"
+            },
+            "desktop-light": {
+              "path": "it/projects/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 162028,
+              "sha256": "d22358206262817f64a14358768704bcba9cbea013f3b03cc6413d70f405516f"
+            },
+            "desktop-dark": {
+              "path": "it/projects/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172218,
+              "sha256": "e3f923d667be64c2f249f075c37f197dcc82b2037e122ee97e3cf6ea74f89c34"
             }
           }
         },
@@ -14668,6 +16685,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/tasks/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 87658,
+              "sha256": "bf1552ebd5211959a2d262f8ea0364f99780e14c0b0273cd58f2319fb7b59bd8"
+            },
+            "mobile-dark": {
+              "path": "it/projects/tasks/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 93928,
+              "sha256": "99d631ed5deef1f7111a7c9f8e824909a90295641d5c21585acbf854c776d33b"
+            },
+            "desktop-light": {
+              "path": "it/projects/tasks/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 162028,
+              "sha256": "d22358206262817f64a14358768704bcba9cbea013f3b03cc6413d70f405516f"
+            },
+            "desktop-dark": {
+              "path": "it/projects/tasks/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172218,
+              "sha256": "e3f923d667be64c2f249f075c37f197dcc82b2037e122ee97e3cf6ea74f89c34"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -14896,6 +16945,38 @@
               "height": 1800,
               "bytes": 60120,
               "sha256": "264ab0f625be9e087ad8deb0fa095c5f1bec547983c25eaee2c677354fa942cc"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 48362,
+              "sha256": "df7a6c4d9aa0e6d8504834f544e3671a2be34416555344d18aa3fccae37036ff"
+            },
+            "mobile-dark": {
+              "path": "it/projects/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 42656,
+              "sha256": "470d25479be0fd2b9c7316ff1c6d5a14fd48f23ff41a3f0a59a77d24253450c1"
+            },
+            "desktop-light": {
+              "path": "it/projects/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 69718,
+              "sha256": "9ec6cee1d757ca139e67645b005cd7843fd788dbddd2e91aeefe913fe6c270c4"
+            },
+            "desktop-dark": {
+              "path": "it/projects/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 59836,
+              "sha256": "295932a6e6ed11fb5d56649f3dfb3566b0aa340b7dfff9f9d943827ef7c1368e"
             }
           }
         },
@@ -15130,6 +17211,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/create/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 57554,
+              "sha256": "0c7ec560c266e4b60f4ae87208609bc3a01016300154b216296bbf1aa80c24c7"
+            },
+            "mobile-dark": {
+              "path": "it/projects/create/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52386,
+              "sha256": "fd3868671ad3e7619e515c25e8f9bde2c8ede5eaf4d1fac6668a2aba45a0d259"
+            },
+            "desktop-light": {
+              "path": "it/projects/create/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 78822,
+              "sha256": "0998b5a5f06631b408b29e6939ba83e2716e0b8f6365019df6bbb9f58adca16a"
+            },
+            "desktop-dark": {
+              "path": "it/projects/create/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 70496,
+              "sha256": "73c093cceb457a6b8a3d2dce1d60758562921af7678dfc393e342bd56213fb8b"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -15358,6 +17471,38 @@
               "height": 1800,
               "bytes": 52826,
               "sha256": "bbf653c9d582fe237080574164baa252b500857549db1ba716a95c38adb98332"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/projects/editor/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 50250,
+              "sha256": "893860d81ebd31d1444548639516e278bf4e491d7900de8812e2a5e735c23804"
+            },
+            "mobile-dark": {
+              "path": "it/projects/editor/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 48486,
+              "sha256": "41c490387914015869fe0b35514e5ca9dcda219729bae53ae313d41bf662b335"
+            },
+            "desktop-light": {
+              "path": "it/projects/editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 60618,
+              "sha256": "b8a95249006f22a9c1caf09513617101a0f0181b76598825ca2f510a4558dc8c"
+            },
+            "desktop-dark": {
+              "path": "it/projects/editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 57296,
+              "sha256": "bcab9ca33d617f957dd58b2d8ed0313f888563aaaeed88db163edcc2b628e53d"
             }
           }
         },
@@ -15592,6 +17737,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/events/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 152718,
+              "sha256": "1081e3978da78f5cdd50dbb5eb7318c74b1d612a349a3067e22cb6e06b20dd5c"
+            },
+            "mobile-dark": {
+              "path": "it/events/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 153840,
+              "sha256": "072bc6390b99e209441cbea4be01db921b1beb84e9ea6678ec78e7d0e05fe829"
+            },
+            "desktop-light": {
+              "path": "it/events/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 282490,
+              "sha256": "56afcb91858191ed32a68dfbf7290dc16ed2e6feb421b30eee9556df6a4f2707"
+            },
+            "desktop-dark": {
+              "path": "it/events/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 281596,
+              "sha256": "696b66f8868e89b2c1ad370c025b81f411d6a28475cc2fc8abf10e27ce576eb0"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -15820,6 +17997,38 @@
               "height": 1800,
               "bytes": 316538,
               "sha256": "7beab3bc8b955eebe4cfa42c1af9efb020a90026cf64e739552644547aadb0e7"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/events/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 157804,
+              "sha256": "3a3cabec7693f2ca86b91b15c6570876fd9406b894c28834789a17418d4bce05"
+            },
+            "mobile-dark": {
+              "path": "it/events/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 163124,
+              "sha256": "5711b22616919252dd95bbf1d616a5dcbbf6df9ddac7c50b6f434f2c31061f93"
+            },
+            "desktop-light": {
+              "path": "it/events/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 315914,
+              "sha256": "7c59a6c8193719c4fd85204da4a0d9915c9987956557c6fc343cb1f8541580f7"
+            },
+            "desktop-dark": {
+              "path": "it/events/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 316508,
+              "sha256": "fd382c9a1a86b2f05bc004f1eba97524f54034be8860b2f51eb0ae88a2e342ea"
             }
           }
         },
@@ -16054,6 +18263,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/events/timeline/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 151678,
+              "sha256": "351f076528fda8f0693584bd0888d9e756a234eb774a23e11ce81263c3e8c7e3"
+            },
+            "mobile-dark": {
+              "path": "it/events/timeline/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 154828,
+              "sha256": "3fa0cfd3c1e742f4d6718c3eecc2888d17abeba543d20ca7758a18cbc0012c66"
+            },
+            "desktop-light": {
+              "path": "it/events/timeline/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 292000,
+              "sha256": "df6fb815d8c71629a84e4f78d54d3abb4f579e404063597d6a358be4b4c94659"
+            },
+            "desktop-dark": {
+              "path": "it/events/timeline/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 296092,
+              "sha256": "f3d99332936fb0d205af15926ba47909fe92ddf67a84319debfa0383982ce073"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -16282,6 +18523,38 @@
               "height": 1800,
               "bytes": 117600,
               "sha256": "a6bebf677d4b20ee436a3d314a355ebf3a33f7ce7a70db143fdf2a354322c96a"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 87490,
+              "sha256": "45342d5c29c668b4c864f6964d31a7d1730db8446940867b8b49009e3ee4165d"
+            },
+            "mobile-dark": {
+              "path": "it/journal/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 91602,
+              "sha256": "b9b8b0bc8728fa530a4d2e5985ffa948b9c18948771f9950a45adb822695ca75"
+            },
+            "desktop-light": {
+              "path": "it/journal/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 105538,
+              "sha256": "8919977fd03c409261bd47a252e00b672665771bddc7c605ee971e7cff8ca928"
+            },
+            "desktop-dark": {
+              "path": "it/journal/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110104,
+              "sha256": "6f4dd064983aba7e73d2be541661f96a39b93fabec06e732562fa8908b2f7cc1"
             }
           }
         },
@@ -16516,6 +18789,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 66838,
+              "sha256": "4830b8417144a96f07b25ff6eec20cda0a0fa80a34cdbc8d7ec93f39c8f7b1bf"
+            },
+            "mobile-dark": {
+              "path": "it/journal/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 63354,
+              "sha256": "8888bdcc5b7158f5517b95258b898c0bfc3248f4c3fb95a79087617b62bb630a"
+            },
+            "desktop-light": {
+              "path": "it/journal/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 100824,
+              "sha256": "2956b9957439aae4b26ac9078f7bcc73fd059479fe706c35957045e74c2c7be0"
+            },
+            "desktop-dark": {
+              "path": "it/journal/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90502,
+              "sha256": "04a042e789c6ff1dea5848e2323508db8c0a96634da14b25e2650fa5548644ab"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -16744,6 +19049,38 @@
               "height": 1800,
               "bytes": 79946,
               "sha256": "e2760c092f828a3e52d61df43f804bdb507c7aec8f949ce0006e4fa95a1ddc59"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/create/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 55732,
+              "sha256": "ae702de43f04acfe5e162d9704b4a3b71c75aeca9aa10a22789f79d8239beb2d"
+            },
+            "mobile-dark": {
+              "path": "it/journal/create/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 49386,
+              "sha256": "06373548a8d504510b502f6bfb9b7537ee4e1c773b58b8bb3170af6b82e97523"
+            },
+            "desktop-light": {
+              "path": "it/journal/create/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 86438,
+              "sha256": "6f3b5f228436ebae8db031b3bbf9658d34008141b69ebc712e6677079d6aa7dc"
+            },
+            "desktop-dark": {
+              "path": "it/journal/create/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 74942,
+              "sha256": "aaedb3e8587ac271782232d43d8f3e1c77b0204c9ad51092184703984371b129"
             }
           }
         },
@@ -16978,6 +19315,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73682,
+              "sha256": "62a74f0fc72d58428e9f671c1fffb8037f0ac046ba3dd0654eaf2208a7f84b4d"
+            },
+            "mobile-dark": {
+              "path": "it/journal/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 77968,
+              "sha256": "668353bd1756725f703a16c55fd1e1af0adeab49a864abdc42dcb030341f614b"
+            },
+            "desktop-light": {
+              "path": "it/journal/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 262158,
+              "sha256": "b1565beaf5ab9269cc5e6cc4586d89d6bc30adb1fcc77a9cab8c91c602469cfc"
+            },
+            "desktop-dark": {
+              "path": "it/journal/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 265160,
+              "sha256": "2224e5017255756d70e9e5ba394bc9a2b0f1a82ff64e2d15b948c818c496aa26"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -17206,6 +19575,38 @@
               "height": 1800,
               "bytes": 117512,
               "sha256": "d3f546d51f6bd7493fe70d568d13cc920658b29ab21575c32dabe252982fdfa8"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/activity/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 55364,
+              "sha256": "366ff19cab3da2d34de74ef8fd35fa0875c7e1d9faa9106cf10eac8391c0d9d4"
+            },
+            "mobile-dark": {
+              "path": "it/journal/activity/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 59194,
+              "sha256": "7412902ca68fe2a21805dce998332b9a4b95c02784d11a3870f96e19aca2fa8b"
+            },
+            "desktop-light": {
+              "path": "it/journal/activity/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112034,
+              "sha256": "a8726a16541921eb85e38b1f6c1a8ddb5d817b8da0f464021124370eec18c970"
+            },
+            "desktop-dark": {
+              "path": "it/journal/activity/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 118194,
+              "sha256": "83fec07409a3a5113ba33a42be476df1c3ac0bbbdb2bcdabb2d16675dfe0a081"
             }
           }
         },
@@ -17440,6 +19841,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/date-time/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39766,
+              "sha256": "808e76b12729df2524097eea7b81574d24dc029077f4546a8565c34c9e418372"
+            },
+            "mobile-dark": {
+              "path": "it/journal/date-time/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 40310,
+              "sha256": "f36ce96b6b032cfdd891312b1dfa43b067808a325bb0bb60df61f5a3b0d03c58"
+            },
+            "desktop-light": {
+              "path": "it/journal/date-time/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 163410,
+              "sha256": "9d4924789b54cf9451ea618ce96df5638c6ac478e726fd683cd0cbae837f1231"
+            },
+            "desktop-dark": {
+              "path": "it/journal/date-time/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133026,
+              "sha256": "5b2567b9998172438cfb33176976fe9dde7ede675e3b07c4120110ea4a619921"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -17668,6 +20101,38 @@
               "height": 1800,
               "bytes": 131748,
               "sha256": "9e991599a3200eaa514574ab0551ecf96b69c0735e5fd6140075849dc36df3a1"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/date-picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39608,
+              "sha256": "a61d667e8e7b9dc156345a173fc39f6a6ebf3b708ffb0c86c95e612847b2454c"
+            },
+            "mobile-dark": {
+              "path": "it/journal/date-picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39138,
+              "sha256": "0fb611813f841df050ef7df6073eac0a68c43dd923d92393aeb364bbcf0a06c5"
+            },
+            "desktop-light": {
+              "path": "it/journal/date-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 163542,
+              "sha256": "54813223370d73cce02d8d9960d1c5694d9c217bb1a0d51cce04decf6376a5bd"
+            },
+            "desktop-dark": {
+              "path": "it/journal/date-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 130876,
+              "sha256": "51cad3e5558bf9dad4168418fcd5d3835e4af0a7f2a2835102d966c84e6599a2"
             }
           }
         },
@@ -17902,6 +20367,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/journal/linked-filter/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52786,
+              "sha256": "b7f797c745021ab302720438b2e7f0efbd941fc84df1b4b849d44508f3034bf3"
+            },
+            "mobile-dark": {
+              "path": "it/journal/linked-filter/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 50088,
+              "sha256": "29230676039ebc36a4824bcf0e4b05c8e8e9ddf5b96dca69f67365cd92e367aa"
+            },
+            "desktop-light": {
+              "path": "it/journal/linked-filter/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 210584,
+              "sha256": "bcadc03fe37020967b2c6316749c80978beef8e9c7c344e48333614ee35a9ef1"
+            },
+            "desktop-dark": {
+              "path": "it/journal/linked-filter/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 159032,
+              "sha256": "67c4ed13e580bebf6d89d9fec1f6cc1542f00c69f30bf39e5cc043b73bf36f6b"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -18130,6 +20627,38 @@
               "height": 1800,
               "bytes": 62768,
               "sha256": "68dd5b704c170f1b9a6f3c0357f88f333dbbd1b8ca475e0b5397eed9559518e8"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/time-tracking/session-rating/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52636,
+              "sha256": "f91566970f8f7f556ced74a3ea1d3fbed06e7305eb9c17055ec9a70a769bd7da"
+            },
+            "mobile-dark": {
+              "path": "it/time-tracking/session-rating/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 54958,
+              "sha256": "5f800990c3de995de6a2899aa102ed42ba2029e953ad66c125400b0edc941725"
+            },
+            "desktop-light": {
+              "path": "it/time-tracking/session-rating/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 60564,
+              "sha256": "82e8abad69b0176d2d274e969449bd46f64e8f0ab95a432729c1c4ed01a8ed4f"
+            },
+            "desktop-dark": {
+              "path": "it/time-tracking/session-rating/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62940,
+              "sha256": "ba9453baa7eb8ece5957827d09ac56fe0c13309550a3c5dd92f57957caaa4efb"
             }
           }
         },
@@ -18364,6 +20893,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/time-analysis/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 46054,
+              "sha256": "17441b17b675f97f77cf27555356927592e0e9f7370a6e2a0ef96ad2923b3f39"
+            },
+            "mobile-dark": {
+              "path": "it/time-analysis/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 47388,
+              "sha256": "b8b582e353791316270365a6a0b17d206d041785bcb73d915c2e7657e3599b12"
+            },
+            "desktop-light": {
+              "path": "it/time-analysis/overview/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 93898,
+              "sha256": "9529ed611221c298c723848d42791b399bad0acb4761f3e1d9f372b73e6d56ca"
+            },
+            "desktop-dark": {
+              "path": "it/time-analysis/overview/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 95932,
+              "sha256": "7d1c77a2a2390312b32a64a3156e5b6e03581ed4b2ba27665b93cd07b1e53467"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -18592,6 +21153,38 @@
               "height": 1800,
               "bytes": 103768,
               "sha256": "215a8c10b2b8d02db1d06f8447f17d9cf56862561fdb4f2e843cffbe0cc48c12"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/time-analysis/compare/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 56990,
+              "sha256": "f220a9881766c487635345afd00925193e92d4c4654af7e4b5b333a3bc73188d"
+            },
+            "mobile-dark": {
+              "path": "it/time-analysis/compare/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 59108,
+              "sha256": "34499edcda5a344c994dd34d3d136916e5c417f5ec0516822949d4e3e829931a"
+            },
+            "desktop-light": {
+              "path": "it/time-analysis/compare/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 103196,
+              "sha256": "1cba6bc4a3f5db744c108e76a814d3ba78f6a96abab8dff1350e41ced20a2cdb"
+            },
+            "desktop-dark": {
+              "path": "it/time-analysis/compare/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 105814,
+              "sha256": "f8eab6aa0d6e17d4f562d86753b772045a30e55bd16528051ca976c0006bf4d5"
             }
           }
         },
@@ -18826,6 +21419,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/time-analysis/running-total/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 58428,
+              "sha256": "41aad4b093abeeced1f0819f763f0fa55db7ad3032c73b0ca71c48c2183985e7"
+            },
+            "mobile-dark": {
+              "path": "it/time-analysis/running-total/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 60616,
+              "sha256": "9b2e5dcfbbe556f6a9424d696a297d03569aa560e593fd19dd693837b9750b85"
+            },
+            "desktop-light": {
+              "path": "it/time-analysis/running-total/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 116100,
+              "sha256": "990b0b3d827f5e7c12d8d5c1b5a5c17b24e3a465eb42b8550e29f29038badd50"
+            },
+            "desktop-dark": {
+              "path": "it/time-analysis/running-total/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 119364,
+              "sha256": "099c1909837c0987c77d21d1f0edd244fc3585f2869dc74a04b49e3211e0e0b0"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -19054,6 +21679,38 @@
               "height": 1800,
               "bytes": 92486,
               "sha256": "c51cfab5490e49a23e9ab8e2bf3b308eef3f288078299bcfaed6ac49bdaf3a5d"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/hub/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45516,
+              "sha256": "1e7f30d1ceffc35c2ec26f9b57f57906dcc714aae70bf5e2aa77edce1a94bc1d"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/hub/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48652,
+              "sha256": "c78eebf71f7680383a3107b93c5d2be755be54a8ba05dcbab9c0967be84e6425"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/hub/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 93436,
+              "sha256": "9eee1f242b8c8f8b8171cfddbcacc18f04ea476296b9c1425321934d5e11ad3c"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/hub/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99164,
+              "sha256": "245244750586ad73a49c932f6d67eadb7e11b283e919261d0f9d3e77aff6c5a3"
             }
           }
         },
@@ -19288,6 +21945,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/flags/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 68596,
+              "sha256": "898c22995c8f04cb14ef32d3a20b5ae06dc350d89ef7bfe2481eae3800b7aedd"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/flags/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 74466,
+              "sha256": "7c1651fe5710ce49756fcb5d12a92b8fecbac1ee95aed81fa6568f7a9d7f3e50"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/flags/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 221178,
+              "sha256": "e2e5e824afabcec478e1490ea90ae2384e14e7014dd3b5fc87fb421cc07db3ee"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/flags/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 235722,
+              "sha256": "58ff9157cceb5a2798a8efb579efbfed0e60814af7ca292666dd177742019afd"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -19516,6 +22205,38 @@
               "height": 1800,
               "bytes": 123482,
               "sha256": "70bbd8e916045088dccc070f9816b8abe34dcdef807fd6b03ca4d10bd99e8905"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/logging/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 36020,
+              "sha256": "c8e5cdeb93b9ab662400b3703289a493ea4ee57388661a04a831e00de6d9ecbf"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/logging/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 37842,
+              "sha256": "be29687300d17ebd72911e9419954abfff1c1d076e844603cb3a714cec09c714"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/logging/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122684,
+              "sha256": "dd3b0133c16efcaca759f39f6efddd97fc72612029c87224c36ab8a1759e48e4"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/logging/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128594,
+              "sha256": "048961324bdba9de9c3e7972a93944968983117bac1f46ee2b46dc0ee28f05d1"
             }
           }
         },
@@ -19750,6 +22471,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/health-import/overview/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33326,
+              "sha256": "50117e3281e448027b45f7936def3143b9fc802bae582ac6a5762cfa3538fb7f"
+            },
+            "mobile-dark": {
+              "path": "it/health-import/overview/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 34058,
+              "sha256": "66dda295807686b73404e4fe35d573e58cf1639d4c728ab1cd177f14e58b932b"
+            },
+            "desktop-light": {
+              "path": "it/health-import/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 93436,
+              "sha256": "9eee1f242b8c8f8b8171cfddbcacc18f04ea476296b9c1425321934d5e11ad3c"
+            },
+            "desktop-dark": {
+              "path": "it/health-import/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99164,
+              "sha256": "245244750586ad73a49c932f6d67eadb7e11b283e919261d0f9d3e77aff6c5a3"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -19978,6 +22731,38 @@
               "height": 1800,
               "bytes": 192766,
               "sha256": "774b61496da26eff5a5ca7f584b45b71a8844b6a0b6fd0caf81c866c2d80f8c0"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/maintenance/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 70706,
+              "sha256": "85ac934cfdb22374d46e33a7a84e26a529465272b080e2312aa9c84b7d3bedad"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/maintenance/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 74674,
+              "sha256": "6430c546b3d51644d63d6d94a4faee45431986598a96f82341555cec0bcd9381"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/maintenance/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172262,
+              "sha256": "33e1af249a0982471a24b398d5e1a112bda6222150c52ad33c4aea18ce7c49f1"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/maintenance/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 181954,
+              "sha256": "204f83a1b005c9a2d45053dbfb43fb9aba06eb9353abf631cfbf59d38a274177"
             }
           }
         },
@@ -20212,6 +22997,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/onboarding-metrics/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 31894,
+              "sha256": "890e810c0cad730a3589e3399b442891547b5308e330634b62e8008dd643e390"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/onboarding-metrics/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 34344,
+              "sha256": "add3cb3556c203c0f1e7d7e3b450f05b67cd65795ec1b11ecc9526a293506264"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/onboarding-metrics/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 116898,
+              "sha256": "dc5a0303f850ecad24fffa992b26c7ab543c9e266306c23e7a2dd1fe5a7970ba"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/onboarding-metrics/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 123798,
+              "sha256": "f2aa4850194f7de4c517d7d9a3dc5fdf3b4152a45d30d4308411696f2cad0996"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -20440,6 +23257,38 @@
               "height": 1800,
               "bytes": 113482,
               "sha256": "719c358066fc1499442e302d19a91da289064d0f08a3801ba6ff0caf3cca0963"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/advanced-settings/about/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33970,
+              "sha256": "0ccf8dc60a010c6c66e9a68212978dc8f5df1580b4cb893200a73e41614ea77d"
+            },
+            "mobile-dark": {
+              "path": "it/advanced-settings/about/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 34314,
+              "sha256": "9ba4ce985d3884ea35158af3aef4cda0ccd7fb4a7618d63259d35d3e35f24fb7"
+            },
+            "desktop-light": {
+              "path": "it/advanced-settings/about/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 114340,
+              "sha256": "a1f23caf3265c577d2bbba22e5468ff6d545f8d6feac9ce195f4f403d7e571c0"
+            },
+            "desktop-dark": {
+              "path": "it/advanced-settings/about/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 118868,
+              "sha256": "2b7d0e0d2d2b9d40101b0e7972429b2e6c7122dffa7fedb5e6a6cc4062699c99"
             }
           }
         },
@@ -20674,6 +23523,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/settings/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 12784,
+              "sha256": "7b0a5c8cba02795488b48d581151e83a80e74a6782648cecafe8c500ed3108b9"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/settings/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 13628,
+              "sha256": "c70a55a8b7f8f4ad311281f93f0effa2cee96b2cb6665d371a634f47acb71fe0"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 77898,
+              "sha256": "57ca44fe796f66deaa502a145d6575e27e5c0f791465a603b8712a93c52eea90"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 81748,
+              "sha256": "de93d430001414af351f4c4f376bb0208e6ad3c023e3604e4fe614391be3448f"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -20902,6 +23783,38 @@
               "height": 1800,
               "bytes": 88516,
               "sha256": "8f0cfca816bae5c4d28cf1849be58218643a8fbafd2c51fdc0c02c7c18ac46ee"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/welcome/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42186,
+              "sha256": "3b6f9ebd0609f75e057be8b735544789194f3bb3b7bf56d086cf6b1282d3a42b"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/welcome/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56704,
+              "sha256": "d5082f60dbd17be23c705e1c2b7cae99a20fd50ff6f4e4a82efd10d9fc25c132"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/welcome/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 76706,
+              "sha256": "623decb4575836f24ebc7da994871284215695ce624976ab62889f0edf45b1f8"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/welcome/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 95730,
+              "sha256": "693ef2e6b3b45c22e9e957241b502ac59c37d4c4b21491f108a7abad5db6aa7d"
             }
           }
         },
@@ -21136,6 +24049,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/providers/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 38304,
+              "sha256": "8c128032965b08339ab9990647d79b2c40db7062e5b08d8ed73dc93c6530043c"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/providers/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 40464,
+              "sha256": "aa1bfa89b8351f6f9f1b199b6e98821d682a163b6c676418d6ec5727b2e862fb"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/providers/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 85014,
+              "sha256": "dddb93658001a1e5199e556babefb22ebb3e9966de3eb1603c7ec2e0bbfa831b"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/providers/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 89714,
+              "sha256": "4bd72caa347da3645ce60e24b4431b76899e546b5ade139135ce68eb42378f80"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -21364,6 +24309,38 @@
               "height": 1800,
               "bytes": 63456,
               "sha256": "8411587531d8d9c411b07a9a33a59fd186611cb5182a35a22ace3d9e95eaffe9"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/api-key/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47428,
+              "sha256": "640d51ed7271513f1d09afffd86a1838a18d6819481385d3594b78ff9ce5cf06"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/api-key/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 50618,
+              "sha256": "b263f1de59e6684ad9ae16548d5a51c01b99c63aae419adae4a3c3ed1e193d5f"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/api-key/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66544,
+              "sha256": "c5c0b785f6854ecdf89b1a29fc6ab13439478d884b1e7b39d3c9dc4f4aac4870"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/api-key/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 70510,
+              "sha256": "71e2e41cdd32576acb4f30faea634df9ee8c27e87013b6da61b27c43b01cf1e6"
             }
           }
         },
@@ -21598,6 +24575,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/success/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49100,
+              "sha256": "fb28b15ba4587947bab475156250f14cd1cf4407e37adc936a21c7a6e96e52eb"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/success/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 52416,
+              "sha256": "e34afc8d0e85c8fe256fad014242ea7b6c5c36b9610cb7d64a327fc174c963ea"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/success/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68186,
+              "sha256": "43da3393f46bc684ce2edaeed6eee730ff4582714924afe422f9e6b1b50b39ea"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/success/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72614,
+              "sha256": "515d7b15b9ddeb2b4a0e6a9cca81395940b58b3decd2c12a9a626ba672eaa125"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -21826,6 +24835,38 @@
               "height": 1800,
               "bytes": 92388,
               "sha256": "cd1f0ef5397e67aafba2503af7564ead3c86ef19472a9f193522f9c87cec0121"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/recording-style/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53078,
+              "sha256": "4ffe142cd6d4392bbdc71107fa14e04f2781a329a98a06fa13162418c5f22c0c"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/recording-style/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54858,
+              "sha256": "6d1859fba99b2cc4c05212f78b26aa350d0e691b2351988a4f80cc9edfd38e8f"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/recording-style/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 93026,
+              "sha256": "615b56a98b0aff5c36e3bd6606d7c1751fd29f0fe0d1f0bbc452af91a9866051"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/recording-style/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 98312,
+              "sha256": "1f7de53a569aa7cb3d75eeb44fa9d62031a34cba36975d287ca223928a9929c8"
             }
           }
         },
@@ -22060,6 +25101,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/categories/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 62624,
+              "sha256": "63d9a7c93cfd49cecbacba117fae2cf30b0c7f96614ae202814fa63cd7026e27"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/categories/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 67046,
+              "sha256": "5ef7e37a8eee4cf33c46b309d4f11bc806587cbd7655855aa6d7ab97436e2218"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/categories/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 85942,
+              "sha256": "bbdbdc150c8ba78d926f2ab6d73f41b3c7f64b218c08afdda0d0d92b36e3a101"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/categories/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91846,
+              "sha256": "2c993bb3fd1316416f634bd858f81f288bd5ed87d2b6c808a3174f3b74954f5a"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -22288,6 +25361,38 @@
               "height": 1800,
               "bytes": 80190,
               "sha256": "c2d1a5f9dd9c34a4f9c5a516718831cc24072379ebe3c7fdc6a943eabaa66f13"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/first-task/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54130,
+              "sha256": "26d76263ca929097ee356065c09cc376e09acd16c376fdbf755ef4d71806c3f4"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/first-task/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56270,
+              "sha256": "dc6d23c6ed41a05a7dada1f10b88deda4ec6b1be82d524c25ec795c0931614fe"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/first-task/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84200,
+              "sha256": "04e3be5813c7f64b435c2e2d551dd8b0a46afa6dfd3d3a0e82533db712cfdd04"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/first-task/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 88290,
+              "sha256": "5b9d719160139002cc9fa64eeb99e80dd2e36923f6848f80dea0bb6028dbe902"
             }
           }
         },
@@ -22522,6 +25627,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/onboarding/task-created/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 55322,
+              "sha256": "3da029e5c29edfb08dce1172de0f34412f37461d005b46206d1f8e1ee1dc5b6f"
+            },
+            "mobile-dark": {
+              "path": "it/onboarding/task-created/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 59940,
+              "sha256": "d8465d981ca4e7a23a81c0509ca8f142ba9f895b441ec090ed370eacccf77c57"
+            },
+            "desktop-light": {
+              "path": "it/onboarding/task-created/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64972,
+              "sha256": "ced1974e5c1915d3a5ae20f7ae6477241b7774865516910e951d9df20f42dffd"
+            },
+            "desktop-dark": {
+              "path": "it/onboarding/task-created/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68578,
+              "sha256": "09f7ced0ca86d016edb5b3b686faa0879fe210ee6a723797f47f70e9cfb5ad35"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -22750,6 +25887,38 @@
               "height": 1800,
               "bytes": 174600,
               "sha256": "8421fac7d2cf953a9a77fdb11ab8013ba85293d6eb2114c264e976e42efdad4f"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/whats-new/latest/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 115942,
+              "sha256": "956f5d37aeee92edbf3f04a6e1d997154e8e80af7ca3b2ca952432568272696c"
+            },
+            "mobile-dark": {
+              "path": "it/whats-new/latest/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 118202,
+              "sha256": "4763d9b842a5d183a5386f34199de242ee6c828d05c34175c1e63bb238a697e0"
+            },
+            "desktop-light": {
+              "path": "it/whats-new/latest/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 184952,
+              "sha256": "7ef5e4caea4da555744c0e25a632dddf27998d6226fc5a6813b385114d371e48"
+            },
+            "desktop-dark": {
+              "path": "it/whats-new/latest/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 179338,
+              "sha256": "16c8b0b9a0216a7f2478f1563f41380e3ab31c0cb77bfbd0469eb545b044545f"
             }
           }
         },
@@ -22984,6 +26153,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/whats-new/past-release/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 121612,
+              "sha256": "46c8a15ea9b28b661bcd9e6c596c5961e5b1e9aaccf46298015c99bc2e48d445"
+            },
+            "mobile-dark": {
+              "path": "it/whats-new/past-release/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 124108,
+              "sha256": "23a91a467c8def54712d3e206cce1548e8657d5771fcf125a1ea6458e6479b9c"
+            },
+            "desktop-light": {
+              "path": "it/whats-new/past-release/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 197490,
+              "sha256": "bbf6965f89a5fc9138daca36c46089d56ceaa68f62e4eed3b1c151bc1b7e0ddd"
+            },
+            "desktop-dark": {
+              "path": "it/whats-new/past-release/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 192446,
+              "sha256": "47da2a3f19c0897baac0a0f54bed0fdd6c85df1859a57f6960b9eebe2ee1a2be"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -23212,6 +26413,38 @@
               "height": 1800,
               "bytes": 139968,
               "sha256": "5f035a4daf2cf6ec5e1d5da19f32053b62ca7a1b4b53d5eb25c5bfa17e230c8d"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/providers/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 61234,
+              "sha256": "26d3fbb1782c350e253879f2e3835c690bc27054e824128d9e0650559dc158e6"
+            },
+            "mobile-dark": {
+              "path": "it/ai/providers/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 64734,
+              "sha256": "a7c7a134a81b7988884f5d2c0c35875fb2f6b9937b23687a2e0afa922df8a517"
+            },
+            "desktop-light": {
+              "path": "it/ai/providers/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133078,
+              "sha256": "eac6f43e93854b32759ce4ff7f8e87f6966c75e4a3e86fc342c0df5d87fe8036"
+            },
+            "desktop-dark": {
+              "path": "it/ai/providers/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 141690,
+              "sha256": "a650cb55b75fe84111400bda132f00c98ca3c315758067127a5456d963c4e12c"
             }
           }
         },
@@ -23446,6 +26679,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/provider-detail/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 87858,
+              "sha256": "05393c18a47ae3623b180810d5bf94604302a09be16f89917e12e106853dae12"
+            },
+            "mobile-dark": {
+              "path": "it/ai/provider-detail/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 91758,
+              "sha256": "5955b8fbbac0cfe5c983986da046350fa07cfd0788491ef174a36fc74790bd75"
+            },
+            "desktop-light": {
+              "path": "it/ai/provider-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 153500,
+              "sha256": "528c31df1b705e7dc559ba0acb9fbc0cbf0e75c72477fc5a0bbd69edee62bacd"
+            },
+            "desktop-dark": {
+              "path": "it/ai/provider-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160948,
+              "sha256": "188da36a9e3cc47eb17e4133381cd92828e37bc47e3254767d51535e18a4b1bf"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -23674,6 +26939,38 @@
               "height": 1800,
               "bytes": 67612,
               "sha256": "412be343729ed15ca1a5e12c68b08dd12602c33490e77e945cbdbd0885fc2880"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/provider-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 57572,
+              "sha256": "d958d26e527d3e282bd44ec9982342896c6ee4dd8ab00ce4edf1d163c4836083"
+            },
+            "mobile-dark": {
+              "path": "it/ai/provider-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 58870,
+              "sha256": "84a0a1629f2425fe5733bb2448d937b02b94c768fd672e0d5665511ca1e84e4e"
+            },
+            "desktop-light": {
+              "path": "it/ai/provider-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64670,
+              "sha256": "933a74baadc35890144d2863992609facb632fb3d534a9428b9ae0219000bc67"
+            },
+            "desktop-dark": {
+              "path": "it/ai/provider-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64688,
+              "sha256": "1322a8e4c32c85148a3e73f59fad15ff1e5acefc2d0fcd4eb135607534a00750"
             }
           }
         },
@@ -23908,6 +27205,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/models/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 90336,
+              "sha256": "4227fa961384a76cb2993438581fe8dda8a1b5638d0ec2a885d7d88ba08a1894"
+            },
+            "mobile-dark": {
+              "path": "it/ai/models/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 96028,
+              "sha256": "da81569f36dddcb86026de14e207dcaeb4c1f71a7b055ec8f3de56cc4a3263fb"
+            },
+            "desktop-light": {
+              "path": "it/ai/models/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169764,
+              "sha256": "dc69bd653a380ca3cad50fcbb75536ae73db64a024ebbe6620e275edac2b87ce"
+            },
+            "desktop-dark": {
+              "path": "it/ai/models/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 179052,
+              "sha256": "d292820abca27f750503cb152c9dd69fd3d67c02c749312fc5ea5bc3b980129e"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -24136,6 +27465,38 @@
               "height": 1800,
               "bytes": 134286,
               "sha256": "9c55bd522cbe1df7909179a8b41164a38aec66b94ea18f6d62924aa2367c0f10"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/model-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62354,
+              "sha256": "d01cefdc6fd3f399d0cc46d454219a1948a750d7dd9a1820be5e50d800f65aa4"
+            },
+            "mobile-dark": {
+              "path": "it/ai/model-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 64614,
+              "sha256": "27d4de4665ba08b49b7a21ef517d9bd907e2b93c0bc3c309bc807f3b8a572c31"
+            },
+            "desktop-light": {
+              "path": "it/ai/model-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 131280,
+              "sha256": "3506daf0acc79aa3d2b83eaea8502246fee87c7abff7f40f71f391dda0ec11ba"
+            },
+            "desktop-dark": {
+              "path": "it/ai/model-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137410,
+              "sha256": "4c3941a354e3aed690a9165d65795210bdb02ec8e04ef0d780330faf836b98c3"
             }
           }
         },
@@ -24370,6 +27731,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/profiles/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 98528,
+              "sha256": "3651848e98fca51a905ecd47baf626cb0cd6f2c5b44df4df6f2cb80fc3a90a9a"
+            },
+            "mobile-dark": {
+              "path": "it/ai/profiles/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 104474,
+              "sha256": "31f0efa3c1348211a30dd96c913e6b8b191837bd85a914773f2c365ccc9be36c"
+            },
+            "desktop-light": {
+              "path": "it/ai/profiles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169436,
+              "sha256": "9caaeacd1d0bae25b70cc3ff0202fea55e2eddfffc78554caf3077fce8399630"
+            },
+            "desktop-dark": {
+              "path": "it/ai/profiles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 180314,
+              "sha256": "78bf6e41125f0183f801f6c587e7f09761901ff75e1f59006796e96a88f1f42d"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -24598,6 +27991,38 @@
               "height": 1800,
               "bytes": 167006,
               "sha256": "dbeea4a610f12b641d93f5fd9fbc11c8af1f435128c3e4a620ef26c52f379c02"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/profile-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 97316,
+              "sha256": "4d4f32a10db026a457928d8980b84623191c0d12136098ee5326fd4e4518be84"
+            },
+            "mobile-dark": {
+              "path": "it/ai/profile-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 99748,
+              "sha256": "cce7d630b6708c74d570093cb86fac594bdea250541ee005de6b19b0a119dc9a"
+            },
+            "desktop-light": {
+              "path": "it/ai/profile-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 153414,
+              "sha256": "76526c68b253f367626b24c30bfc202f63bee75d24778db12ed4ecbec164de1e"
+            },
+            "desktop-dark": {
+              "path": "it/ai/profile-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 162196,
+              "sha256": "b81e4aa2893f6d63b535ba8ead87bff3dd8f3b3a3fe35c03bf61cbcdb60e537f"
             }
           }
         },
@@ -24832,6 +28257,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/model-picker/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 54250,
+              "sha256": "55f09db7b25e73d3cad0c6e607d380723b32df59312761bc903eb4e3eba96b8d"
+            },
+            "mobile-dark": {
+              "path": "it/ai/model-picker/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 48508,
+              "sha256": "d4493ce5b8c410cfbed131607d7668443b603f3e8acdada9abcc554718bef16f"
+            },
+            "desktop-light": {
+              "path": "it/ai/model-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 127134,
+              "sha256": "a83961581c8c37375ba747e424c3961a4912dde4319d9dc4c8754964f9251b2d"
+            },
+            "desktop-dark": {
+              "path": "it/ai/model-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112004,
+              "sha256": "b44548b13b4e2155b5f522a71767fc3e0af273ef9f2fe71de9f89f2fe3247da7"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -25060,6 +28517,38 @@
               "height": 1800,
               "bytes": 87666,
               "sha256": "07a184f90ff2f32cb0ed7ed13ec16b7ddab19313cc78bdb568e3e0c04f77985c"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/profile-picker/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 67686,
+              "sha256": "9a9b96bd6f81dbd7e3eddfb351fc6f2bf2453feefe4f1eea39c16139d79168c8"
+            },
+            "mobile-dark": {
+              "path": "it/ai/profile-picker/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 68336,
+              "sha256": "235ef22f021cee60a01fe7d04890baeabc11f12374bfbd8452895fc5ac0c345d"
+            },
+            "desktop-light": {
+              "path": "it/ai/profile-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90026,
+              "sha256": "4df9438d9ba9470df7742c1a191ec6af5ffbbd97ed267131cf84b89828626210"
+            },
+            "desktop-dark": {
+              "path": "it/ai/profile-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84324,
+              "sha256": "1eee8baef2b8348938b439faf303e2f9db9d07f61f765059d6ef05ed7acf3eef"
             }
           }
         },
@@ -25294,6 +28783,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/legacy-profiles/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 45524,
+              "sha256": "eb072ad0ca9590d987a7bf4a3a520c5cfcaef193831cb190b1d19ca09502f11f"
+            },
+            "mobile-dark": {
+              "path": "it/ai/legacy-profiles/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 48196,
+              "sha256": "e4076aee90e0e6902680d1599cfffecc620ef809d4c4d47750c6d10b22c8b605"
+            },
+            "desktop-light": {
+              "path": "it/ai/legacy-profiles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 53266,
+              "sha256": "5ddfff06abb1885d7b789ab54b4c3dd41a764009408097f22ec40ea6cf96d440"
+            },
+            "desktop-dark": {
+              "path": "it/ai/legacy-profiles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 55232,
+              "sha256": "b82451fc79092185f038694f8e6f15b4db16cf31e7c2127588d9dfffa4ad577c"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -25522,6 +29043,38 @@
               "height": 1800,
               "bytes": 134592,
               "sha256": "09dc15f2927208fcce6760834d2f0f3166e0c50ff8e6b6b59b494d0ab50381b9"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/skills/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 56908,
+              "sha256": "b38a5e0987e88b74aa5ad471ac8598380dacb6609fa376e05fa9f7b591fc41d7"
+            },
+            "mobile-dark": {
+              "path": "it/ai/skills/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 45560,
+              "sha256": "5c007a62092af1caf16920b62d76d31b86b8f86f6c0a41bcb917157c4cf05686"
+            },
+            "desktop-light": {
+              "path": "it/ai/skills/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 181370,
+              "sha256": "73931bc67ca71a4367eea6b7ff6b6c6e801dbec4235b0ca16559617a4aab3b03"
+            },
+            "desktop-dark": {
+              "path": "it/ai/skills/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 132646,
+              "sha256": "b2852ec38e53d887a0fbf2d84dd9bdf68f552a63fd62e3028510de606708cc71"
             }
           }
         },
@@ -25756,6 +29309,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/ai/usage/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 46208,
+              "sha256": "6d8c11c054d23de29efcdc3c14857d4ade5805d4ae5ad4593875e0cc0faee41f"
+            },
+            "mobile-dark": {
+              "path": "it/ai/usage/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 48264,
+              "sha256": "22ed853e68da944af1881efef8c1df41c6669210b94f82ab456a52dc7e022f2f"
+            },
+            "desktop-light": {
+              "path": "it/ai/usage/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 145064,
+              "sha256": "43d222b8d16ac6bd3d907e449d96cd8448065e0899cd215348b819abcae7c51f"
+            },
+            "desktop-dark": {
+              "path": "it/ai/usage/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 152850,
+              "sha256": "4f133d45b713314712abf75e0d0e10a2075d07c426e55a3fd041c627a626593f"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -25984,6 +29569,38 @@
               "height": 1800,
               "bytes": 132050,
               "sha256": "12687c44e8893716afd99b51b7876a43162876534a853459e1c0aedb698c5857"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/stats/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 51968,
+              "sha256": "51a035ed2c372b5ece7fa5cdf02227cf1cfcd485857be9a2192d0f37f4cd1824"
+            },
+            "mobile-dark": {
+              "path": "it/agents/stats/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 54510,
+              "sha256": "51a416d8a47ab4e8fb41d4fd653e8fbbaf957f5b66517f719802c79684a6ccdb"
+            },
+            "desktop-light": {
+              "path": "it/agents/stats/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 125486,
+              "sha256": "d571347aef0ac9433a4aa48c97b369ef01c036a5d0ea6a5a3a2b2b262b9438e2"
+            },
+            "desktop-dark": {
+              "path": "it/agents/stats/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 131564,
+              "sha256": "340c3779c56d0828fb2554d645f51d177761aeb58e3cbd3cb80641cb49f4333e"
             }
           }
         },
@@ -26218,6 +29835,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/templates/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 55626,
+              "sha256": "f65ccd2ecb0ddf571c3af135a135931b1fc6c267548d38f26061182bf837bdee"
+            },
+            "mobile-dark": {
+              "path": "it/agents/templates/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 58360,
+              "sha256": "8f502c4611cc02a2a8b14325cfcd9ea2383b492cb827dd952fcbb77382ea6ec8"
+            },
+            "desktop-light": {
+              "path": "it/agents/templates/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 125872,
+              "sha256": "9ac23c697005e9a9ad137b7ae5dc323d4eeb5597ccd52598215a6815b9db21c5"
+            },
+            "desktop-dark": {
+              "path": "it/agents/templates/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133184,
+              "sha256": "f4cba76dce247dbab6854c4923b20b2312f33f2877c9347b387d9ea80b0a79f5"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -26446,6 +30095,38 @@
               "height": 1800,
               "bytes": 134566,
               "sha256": "d6f3860927c1a5c04e22edaaa91e540d75bf9d37d06dad209e7f171a621bda63"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/instances/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 66576,
+              "sha256": "63e5a67c26aed10424a4bda6e5d6a2c8742c099149a9b40487ce5ee2c7c88cd6"
+            },
+            "mobile-dark": {
+              "path": "it/agents/instances/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 70380,
+              "sha256": "8998b24f344ebdf65f4449e2e4e6fb7697d1b19dd5f56b35b5a8adb49cb1e8b0"
+            },
+            "desktop-light": {
+              "path": "it/agents/instances/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 129870,
+              "sha256": "b1a82dc7324c05158da621070ac53caea8fa16480caa897e4f691c8084b2318c"
+            },
+            "desktop-dark": {
+              "path": "it/agents/instances/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137750,
+              "sha256": "91fe4eae3111095e2d9f1e9baac525f5c8adde229fd6ced75221b9ade6ed8bdb"
             }
           }
         },
@@ -26680,6 +30361,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/souls/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 24820,
+              "sha256": "5c9ab797069bd47694d95bd12078d781a4239b07eb407cdf5af37362f5e7b0bb"
+            },
+            "mobile-dark": {
+              "path": "it/agents/souls/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 25846,
+              "sha256": "7b248c4214ab635cf5a24fbfb558e18ef9bd00597e5015f025b63d169a7d4547"
+            },
+            "desktop-light": {
+              "path": "it/agents/souls/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91210,
+              "sha256": "d64f8c7c860658cd67aa561738165d4482de7025cec3ebf69f987aaeda4aab51"
+            },
+            "desktop-dark": {
+              "path": "it/agents/souls/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96940,
+              "sha256": "1bc838e5d53ff41b8431b7fbb58544d8fec328b6953465d16417811e3c492d95"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -26908,6 +30621,38 @@
               "height": 1800,
               "bytes": 145336,
               "sha256": "8902d15ce5a82d77967458cc8a702a48dd7eebb9b41d9cc798a16d8e2b8fa139"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/pending-wakes/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 63734,
+              "sha256": "727f257a60b61d3f54c8bad9345a92e5508051a4b7917e77226c24d3a034045f"
+            },
+            "mobile-dark": {
+              "path": "it/agents/pending-wakes/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 66958,
+              "sha256": "e021b95afbec80dbd5d28507fc08277c1684b2d257b39bf1de476c3305b741bc"
+            },
+            "desktop-light": {
+              "path": "it/agents/pending-wakes/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 139958,
+              "sha256": "2f0f4ce9af2a2c1c2e86a34c0f051ba2925155f22b373652d6ec310a56fc870b"
+            },
+            "desktop-dark": {
+              "path": "it/agents/pending-wakes/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 148834,
+              "sha256": "390b76e7a766425ce12cc2e5272660a7c399d39cd32463fabb6801cdcbc92138"
             }
           }
         },
@@ -27142,6 +30887,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/template-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62952,
+              "sha256": "a39f9b398f70dfe355bc19083da2b89cf267d546f85b1ff6d19a55cac7a5eb1b"
+            },
+            "mobile-dark": {
+              "path": "it/agents/template-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62536,
+              "sha256": "2cf92f6877311a2fe0ac3d5b4a18adad64e037ca25e77b8fbdb405b593fc3ae8"
+            },
+            "desktop-light": {
+              "path": "it/agents/template-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 142508,
+              "sha256": "d954c0a17689f02edfdebf9b65ac4b5b2928abdcffb02fe9ffb620c224d2856e"
+            },
+            "desktop-dark": {
+              "path": "it/agents/template-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 146624,
+              "sha256": "ab9d91d5e9035c8939bb6965cb499f44ebb0f7b1b859b17e078743aa6dc65e12"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -27370,6 +31147,38 @@
               "height": 1800,
               "bytes": 96350,
               "sha256": "74b066a9c7b17678068ae9b69e95ec4e15adde76b1d0fafa3467f979e1fbfa9a"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/template-review/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 63808,
+              "sha256": "d504c216d47d989d8528f4f72b05015f59a6603d5e672c7547bf36b1054d2f48"
+            },
+            "mobile-dark": {
+              "path": "it/agents/template-review/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 66246,
+              "sha256": "ecbf651b015e9041c4b513febbfc0ddbe02eb07de00047bb72d3dfbf98353b4f"
+            },
+            "desktop-light": {
+              "path": "it/agents/template-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 83052,
+              "sha256": "197ecb5fecc7b1d5ca713290c2420573dec76c7d4c6474e873677df69b45c67c"
+            },
+            "desktop-dark": {
+              "path": "it/agents/template-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 87096,
+              "sha256": "7a83e34fa40eb8b86e3bcbbbd1d0e9d6f8c152ca0b873d9c906d7a686c08fda5"
             }
           }
         },
@@ -27604,6 +31413,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/soul-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 64502,
+              "sha256": "6f7363fcdec30bdd9c79c84245f53fca82f8ad72d75d2c860e6e8cbbbaaeed80"
+            },
+            "mobile-dark": {
+              "path": "it/agents/soul-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62836,
+              "sha256": "2ec0af3bfea5cdab3e6d0df6cf1282d0426285a608305b63f9ccc7411fc27691"
+            },
+            "desktop-light": {
+              "path": "it/agents/soul-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 139172,
+              "sha256": "d1f0482a4263a68a15950ae34b9d6cc3e719e06ab3c2506529d446b9de872bc1"
+            },
+            "desktop-dark": {
+              "path": "it/agents/soul-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 143472,
+              "sha256": "6ae21e0fc6372ab8c0655e6ba017b08a305472d6ab1b0e50c3d5c0a874ded4bf"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -27832,6 +31673,38 @@
               "height": 1800,
               "bytes": 86816,
               "sha256": "9eb30a3b432f413944c9df412e04bf0c642a58881cb2d81a36bcca33ded94bcf"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/soul-review/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 75412,
+              "sha256": "a2aed3fd5dbbff00c3262dbad044e1949b9d0eb9f2e285cef70b5c971dfd147f"
+            },
+            "mobile-dark": {
+              "path": "it/agents/soul-review/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 80568,
+              "sha256": "0cd5b20989c4ff9ae4bcd8c4bf8d3f094e8b92901f5781d06d723573da41de79"
+            },
+            "desktop-light": {
+              "path": "it/agents/soul-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 82226,
+              "sha256": "2deb17c4ea685b7c24c788df8c4263a6a29cad3de3c0a80febb02d70757c0f60"
+            },
+            "desktop-dark": {
+              "path": "it/agents/soul-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 88460,
+              "sha256": "f2bfa06e2f3e30f6cd3f6454eadba2a465fd7d68719714cad12fb6a0774f73f1"
             }
           }
         },
@@ -28066,6 +31939,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/agents/instance-detail/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 89978,
+              "sha256": "70a96174ed69a691c9e96c8434389dc13f87be567f155b6f803e436a08ee2d9a"
+            },
+            "mobile-dark": {
+              "path": "it/agents/instance-detail/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 95654,
+              "sha256": "04c61c20d14ef73e22cdfeb98f59afa0a549b1245cfb74e6c650f54aa7b5879e"
+            },
+            "desktop-light": {
+              "path": "it/agents/instance-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 157200,
+              "sha256": "2a34aa0ad17bc9961f31f266aff3e1750290ad99f87ea936100ffa0fc6516469"
+            },
+            "desktop-dark": {
+              "path": "it/agents/instance-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 166932,
+              "sha256": "3686cc3c624414793738ea498f66d8a33779c6977653f8cd97aeb1068868166e"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -28294,6 +32199,38 @@
               "height": 1800,
               "bytes": 104616,
               "sha256": "2c3b57df5708816b63da928d29830671b4e0144e4e44d6982996255fba8c8c7b"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/hub/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56472,
+              "sha256": "d51c424d054d5f915c4b658a8b011a4fe2e3a2cb15e7b638aaa8358129a99986"
+            },
+            "mobile-dark": {
+              "path": "it/sync/hub/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 60636,
+              "sha256": "511807e33d6f27d25018088dd68abc73e2c48899580b57df4d0f107bc6d82679"
+            },
+            "desktop-light": {
+              "path": "it/sync/hub/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 100968,
+              "sha256": "6de291fc3dc40ee68ce133f1ed3909659b72fcabc00f6dc6056510b9ea22894d"
+            },
+            "desktop-dark": {
+              "path": "it/sync/hub/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 106644,
+              "sha256": "b92c3a799f99797d299699f4e8e0c0fb591fba67f2150822a9c8c5297b3a5393"
             }
           }
         },
@@ -28528,6 +32465,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/provisioned/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 43698,
+              "sha256": "217be307fc91a30265b6174cef3077587382c7dbc25824a2170735ce7841cd53"
+            },
+            "mobile-dark": {
+              "path": "it/sync/provisioned/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 43976,
+              "sha256": "f453c088bd42f29b1fc9dc604f9fdd5031489cf48dad80a1d038aa6f78c4cb55"
+            },
+            "desktop-light": {
+              "path": "it/sync/provisioned/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 109562,
+              "sha256": "b4bacc1ee8219c04632d6eb8788c14d3f2ab2d148475599e56b2cc1edc59c504"
+            },
+            "desktop-dark": {
+              "path": "it/sync/provisioned/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101090,
+              "sha256": "4b4ca3cc344b7c69239bf39ee841f1584433e4f546d994ac95c512eada939337"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -28756,6 +32725,38 @@
               "height": 1800,
               "bytes": 99978,
               "sha256": "4b2ce8f88acaa1288d542c91288e379e321eaec1ccb3153859c2963b6e923f90"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/status/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 34440,
+              "sha256": "15582075c35eb6a4bc65b8056979902d79c7d72bf5886ee8890abf98ae447939"
+            },
+            "mobile-dark": {
+              "path": "it/sync/status/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33734,
+              "sha256": "d1b840152b57af80483ca9dd4cc063bad2d8877207ba73c37ad363291c7eda17"
+            },
+            "desktop-light": {
+              "path": "it/sync/status/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 109702,
+              "sha256": "c6d402d5ff5ac41f5394f0b7f6b2eeb3d4365976fee7b195b9c348f2b39c6403"
+            },
+            "desktop-dark": {
+              "path": "it/sync/status/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101428,
+              "sha256": "cf3945e78a8cc148be7c2d7fe27546c6a2650c36be507c4776ffb873f79cfb37"
             }
           }
         },
@@ -28990,6 +32991,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/verification/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 61440,
+              "sha256": "5bbe4d6bac9d6fe3d50f75fa171ad089c8ad2b5a0a88ac3cbbbd21f860d58376"
+            },
+            "mobile-dark": {
+              "path": "it/sync/verification/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 60534,
+              "sha256": "e2a016dcaa326b4360d18de48485175d5bd4a54e0be44ac04897f89c02d9d8a9"
+            },
+            "desktop-light": {
+              "path": "it/sync/verification/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107218,
+              "sha256": "91fbc7ed9e83b6e4af36ec494d4a97afd5f9a9220f747cb502cb850ebcdaa568"
+            },
+            "desktop-dark": {
+              "path": "it/sync/verification/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 92078,
+              "sha256": "c452b881ca3f1a38e8917ceb423c7bd4b528ef09ccf87a61f9d25087707762fc"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -29218,6 +33251,38 @@
               "height": 1800,
               "bytes": 142866,
               "sha256": "055b37f7128ad9cd5f4eb814140c3ed435e09e414ac7c15ea005032714ac438f"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/node-profile/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49700,
+              "sha256": "e62ac5448097e4140b9020ba8791ef2fb93806494d27c25a6c48f1bf4670d8f3"
+            },
+            "mobile-dark": {
+              "path": "it/sync/node-profile/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 52414,
+              "sha256": "da2c6d78fe4db3c27e393a51556af7623b18572169aa79728dcaae1bf57abcd3"
+            },
+            "desktop-light": {
+              "path": "it/sync/node-profile/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137572,
+              "sha256": "6bc6ac31b4a9fb0ecb23d2f034ee7115b507047b438685711cde16669bc0e593"
+            },
+            "desktop-dark": {
+              "path": "it/sync/node-profile/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 145462,
+              "sha256": "776e4a6cbf13785f0129421320cd13d9e9ec80ab35a002448b4363bebcc92b60"
             }
           }
         },
@@ -29452,6 +33517,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/backfill/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45928,
+              "sha256": "8d4593bb7c5bfa4a9a0a1b4ee0bc64401e40b8c9ee4b748c3c3fb272c7348a7e"
+            },
+            "mobile-dark": {
+              "path": "it/sync/backfill/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48750,
+              "sha256": "acce964815c170c6ca4fd0625a551e2848be0cac8a71277df6e66d3980582989"
+            },
+            "desktop-light": {
+              "path": "it/sync/backfill/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 149224,
+              "sha256": "d0f758b60a8e28ef4f524803b594c8bfcdc492259ba51656b1aa10c8d4925c15"
+            },
+            "desktop-dark": {
+              "path": "it/sync/backfill/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 154712,
+              "sha256": "136f6799d235f7dd7c0ccf5e6e94debe2a13f04bb479b634feef9f28e1ba4af6"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -29680,6 +33777,38 @@
               "height": 1800,
               "bytes": 165128,
               "sha256": "f3e263e5fcc7ea8ae500d6d8eeed1e99b6a54c820099edff4d2011288bed8b6d"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/stats/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44286,
+              "sha256": "f7a05b2d1944c69d8043de0e7baf4831954c5becbf01895b65e2129a5785bf96"
+            },
+            "mobile-dark": {
+              "path": "it/sync/stats/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45998,
+              "sha256": "2a67557c5cbceb2cc6c245d0b2ba6d1433df608ae1a42de19ab5f7b8b5f38686"
+            },
+            "desktop-light": {
+              "path": "it/sync/stats/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160052,
+              "sha256": "c0e1e2268a1a9ae478ce5a1b32da855334117ccd59d5eadb818a683507dcb6f3"
+            },
+            "desktop-dark": {
+              "path": "it/sync/stats/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 166888,
+              "sha256": "b7e7a0472a4c5182bbad47070a173e4dc7613a64647348a4ad8b8ecb90ec17d6"
             }
           }
         },
@@ -29914,6 +34043,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/outbox/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44192,
+              "sha256": "c49467eabf648d976d0db6f56b6ac71b941c70fcef07224d94da9e565dcb97bd"
+            },
+            "mobile-dark": {
+              "path": "it/sync/outbox/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44148,
+              "sha256": "678a93b9bcd44bcbd1c502f8759f5f2ac5c8c3eb74e6c43af8225ef0468fe190"
+            },
+            "desktop-light": {
+              "path": "it/sync/outbox/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 131010,
+              "sha256": "f27544524015216c08f75df44f80cd8cca7cf0fa0664dae0d74b4e6b93f34c8c"
+            },
+            "desktop-dark": {
+              "path": "it/sync/outbox/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136394,
+              "sha256": "c75370346c7043178abd1d5b4297aa8d79ef72115d5cbb5bae82ad9daa465175"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -30142,6 +34303,38 @@
               "height": 1800,
               "bytes": 123422,
               "sha256": "cb129c51e45e823bbac63d79cfd4d4c16d439ac91cb339dc22cdc4ae30a3f7ac"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/conflicts/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 26872,
+              "sha256": "51301ebf5d5c03e8edac0dde6e0dd1620685c7d9a1badb2cc4466d873b17ac08"
+            },
+            "mobile-dark": {
+              "path": "it/sync/conflicts/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 28096,
+              "sha256": "b20334a3353201cbf2f03474b6f55554abf719c4bb8d50737a30a74fd6c7a596"
+            },
+            "desktop-light": {
+              "path": "it/sync/conflicts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 119346,
+              "sha256": "e69dba82fb0b92697b5554ff79001711d1b89bfffe05d608ec3c3f79a31cddb0"
+            },
+            "desktop-dark": {
+              "path": "it/sync/conflicts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 124172,
+              "sha256": "8456c596632a76277ef7b3d8f10671f9984683cc2646a3cb7be8f155a14cecf8"
             }
           }
         },
@@ -30376,6 +34569,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/conflict-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 106924,
+              "sha256": "ac6eb1a8541bca8fa8ac847228612b796c2d22481ad248d8ab03348ac26abecf"
+            },
+            "mobile-dark": {
+              "path": "it/sync/conflict-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 106510,
+              "sha256": "5890b3c0d5e7952dcc51a04867c4d263057e526e67ba46be6e7a198f364ac1c6"
+            },
+            "desktop-light": {
+              "path": "it/sync/conflict-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 199942,
+              "sha256": "1cf7a8649333b476a4d320d2d17043f87bb037cc55a00f98e3124cff5a27287c"
+            },
+            "desktop-dark": {
+              "path": "it/sync/conflict-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 205566,
+              "sha256": "b229902702fc277a347ebf1dbd9c9120a98b09287323fc77785d2a0a0d4da11b"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -30607,6 +34832,38 @@
             }
           }
         },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/conflict-combine/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 29908,
+              "sha256": "19346da2de8d7cf0d864bc9af8944ff34f88cffde9d682de12219e8b5f2733a4"
+            },
+            "mobile-dark": {
+              "path": "it/sync/conflict-combine/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 31076,
+              "sha256": "0d76d6fad89ebb841e03ad93698b947ffc374bf53f51b555e277e9a622e3f253"
+            },
+            "desktop-light": {
+              "path": "it/sync/conflict-combine/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 130352,
+              "sha256": "85bd002f832e6cea0672b07a1ebae80a607a0a55867e70b9a9a3825dad1d0bbd"
+            },
+            "desktop-dark": {
+              "path": "it/sync/conflict-combine/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136860,
+              "sha256": "fae4c9b52d98aba8183ea8638c4dcf50095a7c30eeac54b68d047b25ec090c5a"
+            }
+          }
+        },
         "es": {
           "variants": {
             "mobile-light": {
@@ -30835,6 +35092,38 @@
               "height": 1800,
               "bytes": 158470,
               "sha256": "f2e058f56a4b1405a14e10194a159d248d65cee3d3a9af55fe08e6129232ddc2"
+            }
+          }
+        },
+        "it": {
+          "variants": {
+            "mobile-light": {
+              "path": "it/sync/maintenance/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 40456,
+              "sha256": "a3aeab26a50fd0e809076e94a158eb80c8cc3f83f1968f89f7197796e732b9c3"
+            },
+            "mobile-dark": {
+              "path": "it/sync/maintenance/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42784,
+              "sha256": "0673110c5d6d1e79b7b23f84eb89843403a025abc8a1d303c4f2560fec4dd5f1"
+            },
+            "desktop-light": {
+              "path": "it/sync/maintenance/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 134096,
+              "sha256": "f86da5bc58cf31b12ea7e767e65190bda5d8d3085a8d64a652dba11047a091d2"
+            },
+            "desktop-dark": {
+              "path": "it/sync/maintenance/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 141304,
+              "sha256": "fda41198e6988f5e275450af9ae088034dff52a79b6a2445d9e669b2a283982d"
             }
           }
         },
