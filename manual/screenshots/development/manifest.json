@@ -9,11 +9,12 @@
     "it",
     "es",
     "cs",
+    "nl",
     "ro",
     "pt"
   ],
-  "generatedAt": "2026-07-18T03:42:38+02:00",
-  "appCommit": "91244dd4129eaab003849595cbae84be93bf1509",
+  "generatedAt": "2026-07-18T09:17:07+02:00",
+  "appCommit": "4f11549458198abebf12ddd65a67250b916e7680",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -209,6 +210,38 @@
               "height": 1800,
               "bytes": 90962,
               "sha256": "08c3022ded14bbead74a3a83619fe6c35fe5d1a629fcb1491b70835a74791ae0"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/agenda/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54304,
+              "sha256": "524acf65fcf8548eb2a8641cc57d998be697f3fd17c8e00176b8112d080b97b8"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/agenda/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56794,
+              "sha256": "55ffed2d54606765f9e89430141c506bac37ce7ad59945b20c6dc7e3576a9d15"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/agenda/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 89814,
+              "sha256": "510204338a5d0c7af49eaed4a5de08c6b1b2d75c4d15f160065a1a93667101ba"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/agenda/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 92950,
+              "sha256": "6c8880b904f318431a1ea705a5c01d17d48c1fe7d8096b41ac6c5dd3ed48579d"
             }
           }
         },
@@ -475,6 +508,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/capture-review/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 59140,
+              "sha256": "21ab0e7fc5a153eba0aff7bd891fc28390da1fdfdfc5d55c452fea65b5e1431a"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/capture-review/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 62454,
+              "sha256": "d5d23aa004e72d89922fe3025b8ea83218cdc33fd2a25a4fc8ebc29d48eaabc9"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/capture-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 94430,
+              "sha256": "0b7fa053646a386544c4c3c3431f7d729335e55ccbe5e6d458381740c6f45e3a"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/capture-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99598,
+              "sha256": "63c9beb2e9768907b5611fd0ba5e76e36216888c3c2e552acc51aef78bb3a069"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -735,6 +800,38 @@
               "height": 1800,
               "bytes": 95078,
               "sha256": "53e1988ffcff5939e1cd1bf68171b33631ea2d949da60487265bb920b6dc544d"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/reconcile/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 57396,
+              "sha256": "5f36773d6c90a0d04ac8ba7eeef9d001a24480c365311915fdc06ee572849224"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/reconcile/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 60334,
+              "sha256": "093f3432ff183676884ffcd0eaa99f0143623e2c2e84e4d7ae3bd63f2961ba17"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/reconcile/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91740,
+              "sha256": "d3180f5a543c3cc0f3d59d910edea714dacade1c07d9decb4c5c6c341424d8e0"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/reconcile/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96620,
+              "sha256": "5a9d5f2a04ea374ef6333d2639329324520c1fb6521c3c3d63202280de8e6d25"
             }
           }
         },
@@ -1001,6 +1098,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/timeline/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 66570,
+              "sha256": "822834b7a1505f741478cbbd02e5598f66cd329120f0d6d03478a2bbf033eba2"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/timeline/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 71538,
+              "sha256": "d447b32d82fc4437786762db39a83f3f694886c62bf806fa8a58d0d9b587f4d0"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/timeline/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 151684,
+              "sha256": "50d2b7c1f467226892e146538013c40e5e06f3399b7c4e608e2376c5a14d3239"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/timeline/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 159054,
+              "sha256": "9fa290d592a8874c1694c321d3e9dd3a40c7e7191a6134ecfdfb5a42aa64808c"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -1261,6 +1390,38 @@
               "height": 1800,
               "bytes": 118090,
               "sha256": "43e15a7d4aff9403dae608f8179634c74c97505a5e3dc80844d1c559cecb7a79"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/arrange/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 66716,
+              "sha256": "8fc8713c26a26f0e883e5f094ec009d560b3e1f813abdec4569e0b916bbb3bea"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/arrange/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 71668,
+              "sha256": "cfdac78a401ef9785520e63a3015eb0d04d14b046ced41318d414836059e314e"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/arrange/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112494,
+              "sha256": "407cb369c97ce5595b82e0c9ae837401b40ecfee2f9cabf58b27283963484d49"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/arrange/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 118140,
+              "sha256": "29c3e7429e3af353c7b49a58cecd5c666a265ce50f7f74f198c341895ddcef4e"
             }
           }
         },
@@ -1527,6 +1688,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/settings/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 68514,
+              "sha256": "af467980faa9e2463054c8a8a8bb734fe82378c337e912b0282c0741a76517df"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/settings/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73770,
+              "sha256": "4f5f385dc0fe8354126c85501ab8aacf0d7f01dc608056764048aba3ebe75c1e"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128216,
+              "sha256": "409097d33ff8664b69e1cb678c8ca133ebdfc76386b0c598b0fb33b29b93fb5f"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136654,
+              "sha256": "241b9c0e63f7afac7ac09199d2f089485ff79ebe096f5e2dce3a67fcb7ed93e5"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -1787,6 +1980,38 @@
               "height": 1800,
               "bytes": 166538,
               "sha256": "6fcb51163a697bd420e005e0a6426b5b53af64ce7898f41c8735a2d29c27df55"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/refine/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 70510,
+              "sha256": "9476ee364206f29c659ac46ef974b899640e0beec390173584df109037ba7b8c"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/refine/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 74342,
+              "sha256": "f31ec692275b71d85cc8ff26ff139a343198e923b3839c7ccc17389922696777"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/refine/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 167038,
+              "sha256": "094591e7c19e95909b741f7a3381d9cc5e46432624a35fbc8bf0d21823c351b9"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/refine/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 174320,
+              "sha256": "018903f4e7be52ae13d7ddc9b646a1bebf214a275ed93f1c5d6acd39f0141fb5"
             }
           }
         },
@@ -2053,6 +2278,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/commit/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 58094,
+              "sha256": "803aca8e3790edb14c7df33728111e49db4284827c3e83d02176955801a5cfa0"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/commit/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 61008,
+              "sha256": "4ffd31ef581f77345bd832b9ad5b05d76d433f97d97949db5db4168503ed2fcc"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/commit/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 106952,
+              "sha256": "ced43d481201d82b168803d39b182cf367f0ce9bf99dd0a9440b115108be07db"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/commit/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 110128,
+              "sha256": "afc2519e63d3677c1c3ae32fa220c578d94bbaaec34e46aaec92fda562b89a65"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -2313,6 +2570,38 @@
               "height": 1800,
               "bytes": 82348,
               "sha256": "063d9aa8f43598ddb67cc8c5058c5b74c03226e538c348a51984fc65571f979a"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/block-editor/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44908,
+              "sha256": "95f0a4e4bc48c434e420a4a6ab4c7c89ded32e35ccf5d9863c0ecfcb2d709888"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/block-editor/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44932,
+              "sha256": "6beb784823c7d0c79f5f0923bc5347ed4b70393a312f2fa4eb21d2babaafcef2"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/block-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 97198,
+              "sha256": "a4563347038f2e1ff701941dddea09b2981bf26c35fff81f4345f27bd3c17e82"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/block-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 87294,
+              "sha256": "baa0e0a6aefc526925079ba754829f65b56770d570bd0299454820880cddac41"
             }
           }
         },
@@ -2579,6 +2868,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/daily-os/shutdown/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 60828,
+              "sha256": "ed1c8bac4f7e9a8ebf8b01f43dc0b05cf00237a040846b36e1891d8e421d08de"
+            },
+            "mobile-dark": {
+              "path": "nl/daily-os/shutdown/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 63608,
+              "sha256": "0523610996f61ff7e59a17c876f3d495c7c4a2287aa440d0e4d15a3a8073f673"
+            },
+            "desktop-light": {
+              "path": "nl/daily-os/shutdown/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 151992,
+              "sha256": "086969bc28e331d96488b90e81252e6a105a6ee62c60efb84c340e09f444a9c5"
+            },
+            "desktop-dark": {
+              "path": "nl/daily-os/shutdown/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160078,
+              "sha256": "ce15ca6ca4495b1e989bc0c56980a4ad896cecf5baa82bcf2673477c8ea577ee"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -2839,6 +3160,38 @@
               "height": 1800,
               "bytes": 69340,
               "sha256": "ad1a7fd77c18af8f37c11111b67a8ad4aa425b38fdb47cd5335656cc26f15162"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/settings/home/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 65442,
+              "sha256": "cc8bbc93c53320425e87e0a53afb168a32cdd2902c8a4dee7f5906c3ba193156"
+            },
+            "mobile-dark": {
+              "path": "nl/settings/home/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 70030,
+              "sha256": "f5656bbffd5b7891e198358e4d9f7fa94f6c99d4b8dc187dabb85f9bb94cabe4"
+            },
+            "desktop-light": {
+              "path": "nl/settings/home/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 69926,
+              "sha256": "cc49a09c97086979ae55c89dc9fb019dfb06e8d3e79efb07aea7983b68178be0"
+            },
+            "desktop-dark": {
+              "path": "nl/settings/home/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 74428,
+              "sha256": "e61693370f663620b0ecf665f167d72937ae83632ba61083000bbc6a68ab5bd6"
             }
           }
         },
@@ -3105,6 +3458,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/settings/definitions/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 26084,
+              "sha256": "34dbbfe0ede437f1db11d6882d960e5e365e6682f90fe7f643420d20994f8801"
+            },
+            "mobile-dark": {
+              "path": "nl/settings/definitions/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 27860,
+              "sha256": "4b1f28bf14b7ab8ebdef7c0b5f47f323c941ac6fbb2f826e70065b9a567182f1"
+            },
+            "desktop-light": {
+              "path": "nl/settings/definitions/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84372,
+              "sha256": "9a1e3c5c9551280a5674a54862cb9de3c2bcf041bffa27cc0f56d3a62536049b"
+            },
+            "desktop-dark": {
+              "path": "nl/settings/definitions/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90038,
+              "sha256": "87265a602fa44647179e73e8b3a5192ab940c848b8e431c6a49c20f48453c5c5"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -3365,6 +3750,38 @@
               "height": 1800,
               "bytes": 325288,
               "sha256": "bb6483e6cd3b59e96d77843a688a8125f5f1848f2ffdcbca4a98c657cdbb2c47"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/workspace/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 106094,
+              "sha256": "d2ea69ade311f675395824ae5b2111174b6f255ad5b29a631108370acb8d3103"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/workspace/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 109006,
+              "sha256": "a7fbcac3309d5212667028c0033c00748705dca44c46fb9b028e393994d19d4a"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/workspace/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 328188,
+              "sha256": "39fc135e37ab4102b249497b86d0a200f8dd7c91ae3d26d0326e3ccd63a256f4"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/workspace/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 329358,
+              "sha256": "a31cd3d55899854a9047cf9516857c2f35efd097a9304df9f8775bcb5ad0162b"
             }
           }
         },
@@ -3631,6 +4048,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 122858,
+              "sha256": "d29af0bb64290c838dc77f8b53799fdc90aa94e4b0597d61f1ee05bc3e0a83bd"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 126520,
+              "sha256": "d7addb5f49dff2c2f7dd987e22cd93781e53cd6c7c8b1e4b1290dc7c05cd0466"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 294884,
+              "sha256": "714a6fc528f93e8e4e638a070ec5f641a7f9d373fe6965c5ff358d1fc592b69b"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 295058,
+              "sha256": "fe67772296630e7b1cf917a0dc1f0b07ea8b63e69e2f7dc0e28a37ac5c867cc9"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -3891,6 +4340,38 @@
               "height": 1800,
               "bytes": 101722,
               "sha256": "0ce750bf6b0c1965d8f7cb4b9b10345d90de467d9620f1638caeb0603f25450e"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/agent-card/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 86740,
+              "sha256": "51ab8b4d985665d653e903f6f20dab80000fc9cda6f53f747e3abb065f07061f"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/agent-card/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 89776,
+              "sha256": "7f504b54a9f362041660d9847e951ed7b466f2d41498e0047b84502ed8c71727"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/agent-card/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172514,
+              "sha256": "d6f0cdd9a4b8d661fb63f5f4eae593803d0761af744b55139640cc2f01a5a8f8"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/agent-card/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 174918,
+              "sha256": "4736cf6dfadd1d44e461085c53163c1a8dc5f6fc60c68dde10692623152ee496"
             }
           }
         },
@@ -4157,6 +4638,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/agent-card-expanded/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 99762,
+              "sha256": "6a65a3b8fbbe0bf03ef82712d42216b08086548860eb7decc332fb98c630c5fe"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/agent-card-expanded/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 105400,
+              "sha256": "44e9f8c94a0a9ae5abba55b5ad29864391ef40315d60dee2a42bd3d1af2b1d54"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/agent-card-expanded/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 132844,
+              "sha256": "a82dd57e13338d86c6b21d2d0b5ec64a0891240e9d39b9a690f5f59d34eae4b3"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/agent-card-expanded/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 139940,
+              "sha256": "7128688ea1dbdb57d27637e73b8f6d6fd7d61a95342ecae8206a811de0eab1ef"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -4417,6 +4930,38 @@
               "height": 1800,
               "bytes": 103850,
               "sha256": "c4d13dd87d905f04ecc153c3180066132d163afdc07918ae9547c3d5e0cfdd0b"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/agent-card-manual/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 83004,
+              "sha256": "ac23c8b52608ebb7eac8781c3a6b70610d002877d45070d941542d83e0be9391"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/agent-card-manual/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 85140,
+              "sha256": "83af5402d953c11cadc722e821dd383860551ef090e61974f44bc591e37c9903"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/agent-card-manual/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 173980,
+              "sha256": "ca9be917f4e6e3e6263d25d7e7286178e78fe75a74c0b8287b49edd70f487c05"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/agent-card-manual/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172588,
+              "sha256": "7b5f01debf1c0f2301aa14f29e4a839f875db256f35469daef13a7d1ee62c157"
             }
           }
         },
@@ -4683,6 +5228,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/agent-suggestions/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 86954,
+              "sha256": "e3f3bb81d77bd86fd2008b54f7e3b7b57dbf67b0944fdfc5967788e3d98d0330"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/agent-suggestions/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 91498,
+              "sha256": "1a24ad024d1a81fcbd79ca81adaa2d3b5f79a8f6a826cd3b922bef3a39420e08"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/agent-suggestions/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 201846,
+              "sha256": "0de136884a7072ef709a6fa23b9f56645c256573fef3d833e18fb9573ac5ed2f"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/agent-suggestions/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 205394,
+              "sha256": "169e951155954dc817da4040a626416d70477d33e412b6082088f750a58fc947"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -4943,6 +5520,38 @@
               "height": 1800,
               "bytes": 161872,
               "sha256": "4fd55346d0c868430251947d9d1e9d1dd4f82da1cdacd84104ebc3c4ee977653"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 47488,
+              "sha256": "30a070a17b339c0c4db120c70e194254136c05359a3130f677b99cb57eeb94e4"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 49712,
+              "sha256": "621907d64d4102967ec9429ee6d0cdc58542243b7a46a335c9434d3b10ce1a09"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 201010,
+              "sha256": "fc61a9fa71ec8dd8b9508069f29dff9288889d04a6435237dc960bc5a2aa7df1"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 164322,
+              "sha256": "0e274f894a7a741e6f7e62e9e5383880dbe3b30c22612a4d04313f266cd427d1"
             }
           }
         },
@@ -5209,6 +5818,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/entries/create-menu/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73754,
+              "sha256": "9ce3f3b73c28eeecf74f0c2b4c0134086524062bf3c75b962841e6aac12f9f69"
+            },
+            "mobile-dark": {
+              "path": "nl/entries/create-menu/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 59858,
+              "sha256": "ce85affb438cd4311df3d572eb074e531343fbe740cd11a24c39fecf4767e83b"
+            },
+            "desktop-light": {
+              "path": "nl/entries/create-menu/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160880,
+              "sha256": "abeadea9456bdb495a0a2f4d12c7e85a3426485361c30ec85edd0d5526388353"
+            },
+            "desktop-dark": {
+              "path": "nl/entries/create-menu/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 117614,
+              "sha256": "86df63350cf54957bb3b2f85ae3a2bca77b77c2127195300fd5ff5cdb0c6e661"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -5469,6 +6110,38 @@
               "height": 1800,
               "bytes": 222510,
               "sha256": "5eb0c13f5eda259090c370bc54953c36aa28c77b0e73c1006adb15d20b4acce4"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/cover-references/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 133806,
+              "sha256": "253a724352fe3f67c9acbb882d928b6003b4ef644b38b8274a83012c85f8fc42"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/cover-references/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 121648,
+              "sha256": "72879dc54421042e9985b0f53c9e79321d767f67efae03f55b964eeef21daaf4"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/cover-references/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 262964,
+              "sha256": "8868c8018dab829efcef5e76a05b510996c9314fe5aa588a24ef4aaaf4b0371d"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/cover-references/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 225570,
+              "sha256": "f111dd5c335d9cce8d1a10ba3b5709acdee4fac54ae4606db0ef7a229b6d72b6"
             }
           }
         },
@@ -5735,6 +6408,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/cover-generating/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 68436,
+              "sha256": "b903f08020f2af9d269c7fcb8d0a52791c830748400e7b0081027a0509fd8a0c"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/cover-generating/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 56342,
+              "sha256": "1c0ca857c76f80e32040d9ceea0a2ae302254cbcb750ff04e79185f0c95f90a6"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/cover-generating/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 166926,
+              "sha256": "fa7125e7d3921e34b1686de84dcd48571b5b0c2a0ef24599d02105b11707941b"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/cover-generating/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 120298,
+              "sha256": "1bfb04feedd63d87d095bd40def0f1c775b666ff418eddc8c76b21f66e943284"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -5995,6 +6700,38 @@
               "height": 1800,
               "bytes": 138412,
               "sha256": "60a23be85d6ba19c63af34aaed49cc3ea77b5b97dd172d787275fa999202def8"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/tasks/link-picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 65354,
+              "sha256": "6978fff7760f01ea6bffb11655b2037041db10a9401864c20080512f8b415715"
+            },
+            "mobile-dark": {
+              "path": "nl/tasks/link-picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 66274,
+              "sha256": "fe7b91b3f1c3472df96e155422602a1cecd3e1686fbf6a649fa7319505f0d696"
+            },
+            "desktop-light": {
+              "path": "nl/tasks/link-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136718,
+              "sha256": "365776123a5185f1f05e7a3c0196c902a4940962949cae79dde3e4897fc2aa46"
+            },
+            "desktop-dark": {
+              "path": "nl/tasks/link-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 137450,
+              "sha256": "55fe06fea5693fa0ad48fb111918164120be08e16b475ba9ab7d15a1cd89ad64"
             }
           }
         },
@@ -6261,6 +6998,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/categories/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 24624,
+              "sha256": "29b0ddbff3177b1da48b1468ae5427a1632de884982664a3089b8276e3d56c4f"
+            },
+            "mobile-dark": {
+              "path": "nl/categories/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 25654,
+              "sha256": "e8d05ea7cba664349a9e0724eb092e1fa45cf1302017868e9cd4742feeeb76fb"
+            },
+            "desktop-light": {
+              "path": "nl/categories/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 35690,
+              "sha256": "e7b79be009fec21346b3f3bfc0d08f7b680fd7953afaec623aa7783228490a3d"
+            },
+            "desktop-dark": {
+              "path": "nl/categories/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 35644,
+              "sha256": "073d75806036a22896f64525ea125bf3f41b6c7586289408db730f79bbe73c80"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -6521,6 +7290,38 @@
               "height": 1800,
               "bytes": 57614,
               "sha256": "a8760120fe6d0a5f3bfd893d8dfbbc3e6f73af9b2328d54f21b95f018f970b50"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/categories/detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47366,
+              "sha256": "fa5e56a1821cdf874354026d8fae9da91734a77b650503c71dd9fedac4250bdf"
+            },
+            "mobile-dark": {
+              "path": "nl/categories/detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49328,
+              "sha256": "40a603aaa75ba3f97dabe741841250c67e7aae5da63682e1adc47ac633014a9e"
+            },
+            "desktop-light": {
+              "path": "nl/categories/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61498,
+              "sha256": "54c3485ba684b5afae7271929831a802e50712568a0b113939d099c0314a25fc"
+            },
+            "desktop-dark": {
+              "path": "nl/categories/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 63198,
+              "sha256": "bc9bb0f42688bbca308e2ea16f7f3b79b9b2c376235799bf77ab3f5f3e6af2b3"
             }
           }
         },
@@ -6787,6 +7588,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/categories/automation/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 59910,
+              "sha256": "d47b332ebabad96eb1d76c7f3a09e3e3008ff21e2441de4f51378bd1bdff57d3"
+            },
+            "mobile-dark": {
+              "path": "nl/categories/automation/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 62528,
+              "sha256": "1553b4c021b6f99eee94846437727d76fd0b835eb09a407db0f4a5c7d62bc6e3"
+            },
+            "desktop-light": {
+              "path": "nl/categories/automation/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79294,
+              "sha256": "d9fcdba5cffd650c854f179264865727847f4d29cad0b0c61cc57cd81790f918"
+            },
+            "desktop-dark": {
+              "path": "nl/categories/automation/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 81804,
+              "sha256": "75d03071d423abca3ae6aa2a80c1800da69c3923da8d8c96289a35c71dd01331"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -7047,6 +7880,38 @@
               "height": 1800,
               "bytes": 33558,
               "sha256": "4728062765e50b0b584992f65168fe9a86a2da718529e1ada66b53aa2366202c"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/labels/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 23714,
+              "sha256": "8aa21f75497f8438a26b40ad2234c5bcf4e7708a986f22bd6d18776f4687c023"
+            },
+            "mobile-dark": {
+              "path": "nl/labels/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 24792,
+              "sha256": "d1d8cc71dff28c054380e700355bd73bdab2b03025877b7683ade52932992bb2"
+            },
+            "desktop-light": {
+              "path": "nl/labels/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 33526,
+              "sha256": "862d51424592a3b74818ee61f0e329fba186b5d1d6be80a2a340033a1e1fee47"
+            },
+            "desktop-dark": {
+              "path": "nl/labels/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 34260,
+              "sha256": "6e94a66a21292aa3dd8768d7a41439ff48fadc0146007b1ee28b06889678fe3a"
             }
           }
         },
@@ -7313,6 +8178,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/labels/detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48466,
+              "sha256": "111593caa9bb0897f1b818983e0c98c932b1195ca4e19ceb908119f4e425cfb0"
+            },
+            "mobile-dark": {
+              "path": "nl/labels/detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49304,
+              "sha256": "8500aa1f53a5e123ae42c98301e03504c61459526f069862f9f7168b5f74c3ef"
+            },
+            "desktop-light": {
+              "path": "nl/labels/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61476,
+              "sha256": "5bf168e011ab4bb7ea3a2d81adcde352160bf9c28818db33a98df600a8c96443"
+            },
+            "desktop-dark": {
+              "path": "nl/labels/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 60290,
+              "sha256": "b7e5720a8d6f505eeee029b6afa285cae980e1eabdd876aa7edc2821aef74bcd"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -7573,6 +8470,38 @@
               "height": 1800,
               "bytes": 77742,
               "sha256": "1bda2070beba885afee7fee7d00b329145320ef09b8265545f638d2eb7766907"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/habits/today/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 54816,
+              "sha256": "5ea420e97bc1d1feafffec00d4781d104cb659838fbf5a5a8a47523c3a84f5ad"
+            },
+            "mobile-dark": {
+              "path": "nl/habits/today/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 56762,
+              "sha256": "71631668dc245fe33163c2f231d5f038bfb2ff3806fa5c0f5ec065d10831939f"
+            },
+            "desktop-light": {
+              "path": "nl/habits/today/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 77348,
+              "sha256": "08a1f4a59f8b657509e956047c322bea3e74069632d506e8d63abad1fab6c7a7"
+            },
+            "desktop-dark": {
+              "path": "nl/habits/today/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 78530,
+              "sha256": "5e87bcc62859ae2ce3a2f188e37b64cf864577765b5e4393d0edb47d9023f425"
             }
           }
         },
@@ -7839,6 +8768,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/habits/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 27940,
+              "sha256": "1d351303a5b3a2968e99f140a06a4c1fbad7a40b3c02c87b16cc8178d402279a"
+            },
+            "mobile-dark": {
+              "path": "nl/habits/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 29264,
+              "sha256": "cba23c2e005d9aedd50c786786a7903f482afb2a1ee92d0811105cfb5a85f7d5"
+            },
+            "desktop-light": {
+              "path": "nl/habits/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 46946,
+              "sha256": "c92dff3870f9b40bf69b08c487f7e75d64a151484079ef286b06aacbb7bf7c51"
+            },
+            "desktop-dark": {
+              "path": "nl/habits/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 48968,
+              "sha256": "a2f24c151fd35ee6ade2f25f84853b36b024e65e813b2f03bb6362b7f7d26bf2"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -8099,6 +9060,38 @@
               "height": 1800,
               "bytes": 58798,
               "sha256": "815e3b4d6ace607ddbee025d6133ee087fd37349cf9cc2aca11eb65be60c9243"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/habits/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49234,
+              "sha256": "253dbed02d7843c97373e4eac99d1c0c858d3347c833c9515c62fd8be69dcd58"
+            },
+            "mobile-dark": {
+              "path": "nl/habits/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 50824,
+              "sha256": "c96a17eb99072a95b228df1d408aa36ac7dd0b9aff1fdc5adb87ca170bbcd522"
+            },
+            "desktop-light": {
+              "path": "nl/habits/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 60956,
+              "sha256": "a393114977c01a6039e7346370668c13717b02867095480919c87723b338679e"
+            },
+            "desktop-dark": {
+              "path": "nl/habits/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61352,
+              "sha256": "ccb1383e28b49e7b7fbf46146d5117f50fef4842e0fb16720797768c0ea2a05a"
             }
           }
         },
@@ -8365,6 +9358,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/habits/schedule/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 32376,
+              "sha256": "35f0eded4601a03607f6dec6964d807d12b0023eac7edd66f7dd9045e75e2a20"
+            },
+            "mobile-dark": {
+              "path": "nl/habits/schedule/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33632,
+              "sha256": "08201cb5eab07ba10efd63b98f4f9c2053ad759560ca94534942a5cae00e78d5"
+            },
+            "desktop-light": {
+              "path": "nl/habits/schedule/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 46690,
+              "sha256": "e99cafacad6e26d06af7529dadbe6a2b6538f84b6d8afe2db109c04f8335c1ec"
+            },
+            "desktop-dark": {
+              "path": "nl/habits/schedule/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 48096,
+              "sha256": "f094eb90b7dfdae7a86b3350b5c3db2809b2c0e5634b6229157d5587f3a39aee"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -8625,6 +9650,38 @@
               "height": 1800,
               "bytes": 32186,
               "sha256": "a6406f1c28a02561b5a71e597ed9221e3c86b70da4aba2921e7db7dfcad245cd"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/habits/record/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 24146,
+              "sha256": "13a96345dd736c1c3e3d93a68765ed0d17ee733b159ebf7044b90c4caea4c2cf"
+            },
+            "mobile-dark": {
+              "path": "nl/habits/record/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 25174,
+              "sha256": "ce8a8d5118df6271d235005aba496b3d20989d00fc7c5ac39dec6289675b44f1"
+            },
+            "desktop-light": {
+              "path": "nl/habits/record/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 31092,
+              "sha256": "88b45f2e627405e851c96f133a212e79435ac82aee35a84dd54cfe88e79ef437"
+            },
+            "desktop-dark": {
+              "path": "nl/habits/record/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 32008,
+              "sha256": "7d4286c97b95220b99452e0c370abf52243ead9a0b02c3a691eb082ea8b17ab1"
             }
           }
         },
@@ -8891,6 +9948,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/measurables/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 18814,
+              "sha256": "891e760858600aefa994a2d51a6a323a434c93fe71a532dfcb957fe9cde6743d"
+            },
+            "mobile-dark": {
+              "path": "nl/measurables/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 19966,
+              "sha256": "267586a53beffcd8d9383da7d40c22e2947d986c87e9aadcd1403f8fcdb54909"
+            },
+            "desktop-light": {
+              "path": "nl/measurables/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 29332,
+              "sha256": "7307c15b0777bc8e7be4f14f9f78a19a49b39029f87abb53b0e395c43d713a70"
+            },
+            "desktop-dark": {
+              "path": "nl/measurables/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 29582,
+              "sha256": "d50ea9debb513e5c0050a24437a40045a5643419c16d706f296019fdbd19290a"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -9151,6 +10240,38 @@
               "height": 1800,
               "bytes": 55070,
               "sha256": "595f917b87d48a4d6bfc79ef74166cc98897202555578b6155f81adf2e5a7f47"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/measurables/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42564,
+              "sha256": "5259ca227f0434cc2f10bcd1fbfb0e0d5e0d3792b50221efe711ae654fecd8fb"
+            },
+            "mobile-dark": {
+              "path": "nl/measurables/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 43628,
+              "sha256": "21791301830c1e7be96d6dc39f527647c4402da047857283cfea75dd96d9ba61"
+            },
+            "desktop-light": {
+              "path": "nl/measurables/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 55672,
+              "sha256": "e1a31724fc9eae528409fb0c17d9cf87b73fe4c6870e327e2e6eee81176347e7"
+            },
+            "desktop-dark": {
+              "path": "nl/measurables/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 55126,
+              "sha256": "6998f88c7aefb336cccc2e72c77e341a3512a67053f421c94ce0a085d6f292c4"
             }
           }
         },
@@ -9417,6 +10538,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/measurements/capture/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 41802,
+              "sha256": "2f0ea271a1a221e244d3e7ef4bf71a109249399e872c954fe672a916d068fb74"
+            },
+            "mobile-dark": {
+              "path": "nl/measurements/capture/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 41236,
+              "sha256": "f3ec5ba27bf5cfbfb797b2ed9ade80dbfdabb8e1031787489878216eb9db9e46"
+            },
+            "desktop-light": {
+              "path": "nl/measurements/capture/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 50094,
+              "sha256": "8fb0afe5bc391a5c1255374fe0625bb1da3fed77f7383b74e56a593d721ba9c8"
+            },
+            "desktop-dark": {
+              "path": "nl/measurements/capture/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49672,
+              "sha256": "b02f49ff469e6a8545d6bfff6cab8df4386478a54d198b4941d41dd46281c6bb"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -9677,6 +10830,38 @@
               "height": 1800,
               "bytes": 50556,
               "sha256": "297793bb47f4107828161d92a8106516f8a8d4e2d8e0176abc95580307ae5fb2"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/measurements/date/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 30974,
+              "sha256": "1d4a137817cb95775f4a40c2e52027e294bc7823cfcbeb5ef9f91ec7bb75c731"
+            },
+            "mobile-dark": {
+              "path": "nl/measurements/date/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 31732,
+              "sha256": "c0843396dabe8cf0a55d10529f800d41437d2106e6bac0c1d431f50b333c1f36"
+            },
+            "desktop-light": {
+              "path": "nl/measurements/date/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49522,
+              "sha256": "d9ceab43ec8675354c4a556a161f52d9f70332f0f4fac215724aa8b9d89bb65f"
+            },
+            "desktop-dark": {
+              "path": "nl/measurements/date/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49778,
+              "sha256": "ef1da7c47fdf83368ee58136fb5dbe30a493f725d74c5e2e4df98a8168a46ae9"
             }
           }
         },
@@ -9943,6 +11128,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/measurements/time/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 28170,
+              "sha256": "2795eae4ff585400f2762b1a8d47d6c28340460b39913b7388d962df14d39b42"
+            },
+            "mobile-dark": {
+              "path": "nl/measurements/time/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 28626,
+              "sha256": "7d2ea88bbeca7446eb1adc897d2e0b78145d428084768f3388f7ba7f125b9f74"
+            },
+            "desktop-light": {
+              "path": "nl/measurements/time/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49584,
+              "sha256": "3992164eb9010410bf8be891c3860256c7fef63bf1f564cee6ae7970cf7d8486"
+            },
+            "desktop-dark": {
+              "path": "nl/measurements/time/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 49610,
+              "sha256": "c28203b162470e29e1b188d070482520a20b4ff9998fa2ce74aa91e3ee1b2310"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -10203,6 +11420,38 @@
               "height": 1800,
               "bytes": 31266,
               "sha256": "14c8b4df695bc0ba04d8d0f7668792aa0a4a19192a65080524eb35c5625c6e96"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/settings-list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 20748,
+              "sha256": "0dee372f64dff5727f21d546862d19f401140a0979db41c48786b99249c620dd"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/settings-list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 21494,
+              "sha256": "42700fb93c6696577bd4127e2f24743c480665099f81086816d2c02316c76fc6"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/settings-list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 34432,
+              "sha256": "7975bbc999faa396519616faefd86a9b9557852662ffc1c0cadcda4803a673f9"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/settings-list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 35204,
+              "sha256": "92aa610b0bf86b3f7be4f8cec4047cd727cbf5638d703beaf4d62efc77b7ea3e"
             }
           }
         },
@@ -10469,6 +11718,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/settings-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53420,
+              "sha256": "271b5d160ba05f498f6403c8c4f1cee58e79cab3154a82db362fd3f046db5ed6"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/settings-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56354,
+              "sha256": "488f44cb266e07417ee6fa40fc6177a3fe46c0298f77c6bedacc412210d63f15"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/settings-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72462,
+              "sha256": "f5fd1faee877c7cc8cac58085c35674b838fde67bd5b4a463ba438d07ecb5b5d"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/settings-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 73648,
+              "sha256": "06bed9a81acd600eb2b9587779c687c9936d5dfc1d4c00f7b11b6338dbf8c5b9"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -10729,6 +12010,38 @@
               "height": 1800,
               "bytes": 55666,
               "sha256": "a67b84644348077fc6e520daa2e9df8c17d5df8e5a5c62719769380e16c926dc"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/charts/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 48940,
+              "sha256": "da2427306e58119f67b47e6d1d6cd1e35fc8bd0c649172ae8034452f8b2c66c9"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/charts/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49708,
+              "sha256": "5bd0db2b210bdb078df422d2fe73e96204d0f61b139afc017cadf25967b0a619"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/charts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66566,
+              "sha256": "cfbe27355f1a02f6dcda55376c99c55ca0af4b051e63006c138aeda4a5a2f32f"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/charts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66652,
+              "sha256": "c7faca1136182547950242dd9734ab72a8389bfa87c39e63d087153a8e7fff4b"
             }
           }
         },
@@ -10995,6 +12308,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/sources/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 43426,
+              "sha256": "3597ab72341971f3021c061e0fd965358fee40e074c59b9cb8bf98b837acb16a"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/sources/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44996,
+              "sha256": "32fddf65cf762827e4e23cfb494c7bc8e6e64afa1d8c8414f11a834f76990c72"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/sources/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61344,
+              "sha256": "55e539465d926c468870fcdc4d9f79deab4caa6a5dc54e2e62cd3a47537e428f"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/sources/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61868,
+              "sha256": "00e2d7883daa5b1ef8238b03a71b85b6fd6286f75dd4c1a6ba27b68712e55363"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -11255,6 +12600,38 @@
               "height": 1800,
               "bytes": 102790,
               "sha256": "2accf4e395e192fc21a5ad4f60f077fc07e936cbf89b9e8cdc1312c3ccdf3b80"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/list/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 16244,
+              "sha256": "ab959a8946139b7a899762868c031fbfd2dfe1d5212cdb2628024389169b5ad0"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/list/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 16728,
+              "sha256": "81b829578f692bb575c19c503c7db692621e6821b4d9dfa60c0787d262738f56"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99642,
+              "sha256": "06e0dbf466174e88324ea8e2c439cbf6ec756d0f8242488496f0757d3cd29df1"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 105204,
+              "sha256": "0a0a1a27b1b6d5286f189686dda7fb31ca380eb4bbab393dca38e10a3013a72c"
             }
           }
         },
@@ -11521,6 +12898,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/view/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 37244,
+              "sha256": "c572e491b41f52c8919cbcb4d39b498fc8a01026758d2849df84727dbd2610f2"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/view/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 38758,
+              "sha256": "142a9dc85b89f3159cb53c8d6d1b37ebf3160841bfbf173f3acd9db0f2807ddb"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/view/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99642,
+              "sha256": "06e0dbf466174e88324ea8e2c439cbf6ec756d0f8242488496f0757d3cd29df1"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/view/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 105204,
+              "sha256": "0a0a1a27b1b6d5286f189686dda7fb31ca380eb4bbab393dca38e10a3013a72c"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -11781,6 +13190,38 @@
               "height": 1800,
               "bytes": 103728,
               "sha256": "563d38eeb213f6795c6d989b81646a8dc8b4801c8dfea639fe4a03d0f57f94f6"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/dashboards/view-crew/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39764,
+              "sha256": "872649aef421bc90cc89089d22e1c687428c2d3dc2d471f3a9d886c970aa8441"
+            },
+            "mobile-dark": {
+              "path": "nl/dashboards/view-crew/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 41192,
+              "sha256": "d9b05b2cbb429dc5c0337257ef8f6f0f2bf7be1dcc682aa801d71aefca8828d3"
+            },
+            "desktop-light": {
+              "path": "nl/dashboards/view-crew/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101970,
+              "sha256": "2c50df2f3f7cf57f059438831a140aaa924b48728fdcba5bc29290124caa7f3b"
+            },
+            "desktop-dark": {
+              "path": "nl/dashboards/view-crew/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 105630,
+              "sha256": "a2a7d386c8e8dca8e61abef415faa651e99875a1112e8364134ab31be7e48034"
             }
           }
         },
@@ -12047,6 +13488,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/surveys/panas-intro/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 55756,
+              "sha256": "0240b63929337c42d5b50bf4c57b112525a2c3e82ed575a0ce93ec0124e225cc"
+            },
+            "mobile-dark": {
+              "path": "nl/surveys/panas-intro/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 57350,
+              "sha256": "a65ba78ac0fd97b1ef3c22506b7dd285d35fba83de0a408746878e5a09d859b8"
+            },
+            "desktop-light": {
+              "path": "nl/surveys/panas-intro/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 102600,
+              "sha256": "ed91d7f992bfda8210209f3d985819fb45668528f12cbca949361ac7bd98ef0f"
+            },
+            "desktop-dark": {
+              "path": "nl/surveys/panas-intro/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 98720,
+              "sha256": "c6bd8ca8d0a8d2c9044a4b8a87e8c880e8fae80ad76ef9ab7b35d2ab3c01b604"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -12307,6 +13780,38 @@
               "height": 1800,
               "bytes": 62202,
               "sha256": "ad0b9dfee8113687ed91e98da2c9bc2b899a3030f90e9967af5ebcca517ff373"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/surveys/panas-question/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 24552,
+              "sha256": "aa619ddfd48c073c2e98a9f80f0b7ac165f8fec3fda65999a83aa0f97915fb08"
+            },
+            "mobile-dark": {
+              "path": "nl/surveys/panas-question/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 25346,
+              "sha256": "77365413350cd99705a62a928ff70314c5c6daa6dc6030e56baae393eadab813"
+            },
+            "desktop-light": {
+              "path": "nl/surveys/panas-question/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 71676,
+              "sha256": "eb70ab2afe815ac620eed58d88b1581199a52ff5d73895daf3d3ea6619021f6c"
+            },
+            "desktop-dark": {
+              "path": "nl/surveys/panas-question/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66006,
+              "sha256": "1189ccb9d7aaa293a722b15e16b6ea329db87f7f5def7e9469aa684f9c81fddb"
             }
           }
         },
@@ -12573,6 +14078,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/recordings/active/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31194,
+              "sha256": "8b51cca7f7a9f0206d5df3dcf1f8943d7f92aec4149290a827761587a1a95bb0"
+            },
+            "mobile-dark": {
+              "path": "nl/recordings/active/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30652,
+              "sha256": "e24462a0533740661f1e4cd79456f4c53cc4506de7f3ce7cb12ba086d49671c4"
+            },
+            "desktop-light": {
+              "path": "nl/recordings/active/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 37722,
+              "sha256": "0a1c53357c29809ea685448819019053b66907ca97b3bc3d450a97278045178c"
+            },
+            "desktop-dark": {
+              "path": "nl/recordings/active/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 37032,
+              "sha256": "febbb66519ee543fecc0d71171342628d5e954514d4bed196f7ab84c61e15911"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -12833,6 +14370,38 @@
               "height": 1800,
               "bytes": 38732,
               "sha256": "f95162a2bd7a026cb508ab14a586907643a04b1871999f9bfc80b64c3908b612"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/recordings/transcripts/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 31176,
+              "sha256": "20e39d3808b15e8ab42f7a508ccc54184c599a9b084ee7ce8640ced44e8f97f4"
+            },
+            "mobile-dark": {
+              "path": "nl/recordings/transcripts/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30320,
+              "sha256": "b6c853a6320cc418f4dd8d8e91a942deef285f1a6b40c1d12799b2674542b4ee"
+            },
+            "desktop-light": {
+              "path": "nl/recordings/transcripts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 39318,
+              "sha256": "f1ebc07a751908ce7ebe14c72c1aa6359e785a2a0646c47f7e7b408621277ee2"
+            },
+            "desktop-dark": {
+              "path": "nl/recordings/transcripts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 38066,
+              "sha256": "f9b662f77946df24907533cf1afd7aee7dd9bafcd950a2d5ce6dba5a5017dcf2"
             }
           }
         },
@@ -13099,6 +14668,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/recordings/transcript-expanded/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 59632,
+              "sha256": "fb01d5e3363d21f40c92e625e5e7facc0430759f1bb808983c17e8a739e4db10"
+            },
+            "mobile-dark": {
+              "path": "nl/recordings/transcript-expanded/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 61404,
+              "sha256": "7ef70ca8d6c1ff74255ba9cd0df7d09d51d71d82983fa9b1615b689e482326eb"
+            },
+            "desktop-light": {
+              "path": "nl/recordings/transcript-expanded/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 67698,
+              "sha256": "81ec1bdc77cf94094458e8eb2ecc6522af32fe27a9f0e3c0407520f53916191a"
+            },
+            "desktop-dark": {
+              "path": "nl/recordings/transcript-expanded/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68788,
+              "sha256": "2f2d228038fd339c74d1bf9ace1c8eb138ddd8f9ac6a2c1f6d372a57d0268233"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -13359,6 +14960,38 @@
               "height": 1800,
               "bytes": 65070,
               "sha256": "779c26549281f25bb905c065f1fd93f0212975b63ed8df1e0e60a7e9972f6d64"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/theming/preferences/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 9888,
+              "sha256": "4de8a555b56a5cb33fa4ce0551beec7ee66ead5daa925daaed4319a0b9eed55e"
+            },
+            "mobile-dark": {
+              "path": "nl/theming/preferences/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 10598,
+              "sha256": "77386db7907b3347ed5a97240cf271669b92d33ca8dc11a098abd87638c502bf"
+            },
+            "desktop-light": {
+              "path": "nl/theming/preferences/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66582,
+              "sha256": "7b49e0b346bb10e931132f9c75097a56bd1309ed44c5b159c267d2e057942079"
+            },
+            "desktop-dark": {
+              "path": "nl/theming/preferences/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 69754,
+              "sha256": "80704d5a29632eef8c8c0caacc7f769bee44c6b38461d688f8b42490a2891996"
             }
           }
         },
@@ -13625,6 +15258,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/theming/picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 29280,
+              "sha256": "3bf65950d96c061db78437e1d7c4b96dddda7d9adfb7f700f537a7db893352cc"
+            },
+            "mobile-dark": {
+              "path": "nl/theming/picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30216,
+              "sha256": "d40c8f1cf178e10c7c5e2d8155a5c8a5f7ffac11ce792066912bb3fe01d41802"
+            },
+            "desktop-light": {
+              "path": "nl/theming/picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 73712,
+              "sha256": "cfe94b43f17d2a3e56e0fc86004355daf88d6bd07a4e0a622e2a2cbc820151a7"
+            },
+            "desktop-dark": {
+              "path": "nl/theming/picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79086,
+              "sha256": "215c92b9dec06ae1982c1746bd3b21c576e714a51a65be7ac8d4d76a5f9de020"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -13885,6 +15550,38 @@
               "height": 1800,
               "bytes": 93392,
               "sha256": "3a5523ab3795163fa4e3bf17d113d6ce37bd6261afbc9f15a2d1ce246cb0471a"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/recording-style/preview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 34786,
+              "sha256": "e59685ff0712da1db39e453932c2b4229d3a8daba3cbb794ba16cadf4c980c54"
+            },
+            "mobile-dark": {
+              "path": "nl/recording-style/preview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 36796,
+              "sha256": "1286114f1fe832b22d57413e50cf486be077819e976b4e7f41bec01a617935f0"
+            },
+            "desktop-light": {
+              "path": "nl/recording-style/preview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90776,
+              "sha256": "1e878223df71acd99983ab0aa791e4da7418cc32b8d6af612fb94edaafc401bd"
+            },
+            "desktop-dark": {
+              "path": "nl/recording-style/preview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96826,
+              "sha256": "66147700376b75cb4cc52c3a627fac8c5582b2fc9588e33e050d79425b9aea21"
             }
           }
         },
@@ -14151,6 +15848,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/speech/settings/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 30458,
+              "sha256": "dc8d905776b092134b8f51bbca1b2a2ce6238b2aafeeeb10c86cd17110880575"
+            },
+            "mobile-dark": {
+              "path": "nl/speech/settings/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 32004,
+              "sha256": "4e9a2374b4f11d7eacbda1eefea8ace6ce9661160e3b9a22d5175b70d0130887"
+            },
+            "desktop-light": {
+              "path": "nl/speech/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 89054,
+              "sha256": "38f9ece5f7466d9d4599afa650086f7766b7b00171edd7993c6aa1193b3d274a"
+            },
+            "desktop-dark": {
+              "path": "nl/speech/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 94284,
+              "sha256": "23e499320753cb1975ca36b665bda4e8b50d6e8d6858d08d00c0facff31d1053"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -14411,6 +16140,38 @@
               "height": 1800,
               "bytes": 88768,
               "sha256": "d1c2e561868200367bc94e2598b7658b8e01677aabba33c8ee59671d99f11e61"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/speech/voice-options/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 33268,
+              "sha256": "d54bfab042d7894e1d1da5d67b6b147373eb4ba2c079e25364bf73918c826d4b"
+            },
+            "mobile-dark": {
+              "path": "nl/speech/voice-options/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 35082,
+              "sha256": "dd017ca6917a5bc4a9b0310498cd0b6b37b5569d3ac7512fee06dca7817add24"
+            },
+            "desktop-light": {
+              "path": "nl/speech/voice-options/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91680,
+              "sha256": "c65df14d0c22c55fed91bce56c312a5476f1e02db6dd57ceb37864d09821bae7"
+            },
+            "desktop-dark": {
+              "path": "nl/speech/voice-options/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 97244,
+              "sha256": "c60adcb15187dd425b242771b3b30390a26a8f632939830e39b81be4dd073c0e"
             }
           }
         },
@@ -14677,6 +16438,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/keyboard-shortcuts/catalog/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 36910,
+              "sha256": "f9c195d366c6d18d7470a54f13af3b01b2463514b574595371f5c17096061e9f"
+            },
+            "mobile-dark": {
+              "path": "nl/keyboard-shortcuts/catalog/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 38050,
+              "sha256": "b2275eb8d7479ec443522fb2ebdac15a0fde836534bf9e6ea1fc7d7882e0b5f2"
+            },
+            "desktop-light": {
+              "path": "nl/keyboard-shortcuts/catalog/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 102420,
+              "sha256": "65ec686f0b304ced34d40b8d57aeac9abcf1674187dc54080bb993e39f2b5e46"
+            },
+            "desktop-dark": {
+              "path": "nl/keyboard-shortcuts/catalog/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 106630,
+              "sha256": "ce2a9c50a1b1e47b3a638cfa87c0c8653c9c3f094bbcd2f643988b2e4b168867"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -14937,6 +16730,38 @@
               "height": 1800,
               "bytes": 75946,
               "sha256": "4e6e1110401e5bc0f5e3662076f50a63fb0be3426420374e972a13772f01575a"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/keyboard-shortcuts/search/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 18948,
+              "sha256": "4f2d1df46611e232842a3252cc55c2a84cdf7b819b86a2eb9e35c4aef71eb0df"
+            },
+            "mobile-dark": {
+              "path": "nl/keyboard-shortcuts/search/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 19972,
+              "sha256": "ea3aceb2e7925f6ff24299c4466d92fea9bf802834c32e940784c64ced8192b3"
+            },
+            "desktop-light": {
+              "path": "nl/keyboard-shortcuts/search/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 74938,
+              "sha256": "55c28f01e532e8eb75a55046cfbd0b42b2744f66694b932e0d6d7e3a9bbcdf2a"
+            },
+            "desktop-dark": {
+              "path": "nl/keyboard-shortcuts/search/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79508,
+              "sha256": "83b085cc5ca713e4faffc4578a5343961fe5fa96a9fe091336bb660f4258d05f"
             }
           }
         },
@@ -15203,6 +17028,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/keyboard-shortcuts/palette/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 34156,
+              "sha256": "0a7c9541662916ec14672d1e44be7836d8e7f9a316dece904af7c5c2bc0fdaee"
+            },
+            "mobile-dark": {
+              "path": "nl/keyboard-shortcuts/palette/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 34544,
+              "sha256": "56e5c60675354ff4d32084469fd059aac837d26020cacc110ff1242ee718b0a2"
+            },
+            "desktop-light": {
+              "path": "nl/keyboard-shortcuts/palette/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96844,
+              "sha256": "e2b8ee58a177ba31131d14c9bddc2084e52b97170510adaba56e1744d13cf4a6"
+            },
+            "desktop-dark": {
+              "path": "nl/keyboard-shortcuts/palette/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 102056,
+              "sha256": "f92f6845ea52b795feb1d36c7339f0f1a0dcd1fd07385fbca19241825fa4700e"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -15463,6 +17320,38 @@
               "height": 1800,
               "bytes": 162836,
               "sha256": "9968f49022f549f41948657efd6481b57c0e898ca2fe77117ac68a93a98f9ca7"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/celebrations/controls/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 68394,
+              "sha256": "1f9bd74e83e032a78d75a81474e0a3a0ea3f03b0ccad87e950ff662b0560520a"
+            },
+            "mobile-dark": {
+              "path": "nl/celebrations/controls/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73170,
+              "sha256": "d9dc28b62cce07dc7147b71b5fcdc6dfacd977c726b9dbea2fe784d04ed95e3c"
+            },
+            "desktop-light": {
+              "path": "nl/celebrations/controls/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 163356,
+              "sha256": "b3914752b125c8198946b3892a8f40a5870fedd1594482d88adb57a0f8bca040"
+            },
+            "desktop-dark": {
+              "path": "nl/celebrations/controls/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 172162,
+              "sha256": "ffbb3f7a66efca707180691cc653dbd94941d4a1c3065726ec82ffa21f6634ce"
             }
           }
         },
@@ -15729,6 +17618,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/celebrations/styles/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 43380,
+              "sha256": "f1f6ca524199f0fb1f06ec86af716bec1664e88fa276718fe851d364d270086a"
+            },
+            "mobile-dark": {
+              "path": "nl/celebrations/styles/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 46642,
+              "sha256": "8c4e4b6f63d4ef03e99f2c7f8569c73c4bbd7807a047319bb675a300f4ece798"
+            },
+            "desktop-light": {
+              "path": "nl/celebrations/styles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 158056,
+              "sha256": "31251280685349f29acc2dc22d412531b4599d6a8e1896cf8339f33289e31081"
+            },
+            "desktop-dark": {
+              "path": "nl/celebrations/styles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 166820,
+              "sha256": "57b098b4ca59bfcabacfa60b2d991fe9a3eaab4dc6708ac8047f431f546f17db"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -15989,6 +17910,38 @@
               "height": 1800,
               "bytes": 63196,
               "sha256": "69cbd3b7536a6705326089baeec66a711830a6d1462d9e6030af52f8dfb4936d"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/celebrations/playground/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39318,
+              "sha256": "242d537a3671711602c409b0729c766632b7c15ab34d2db297f0336a124633bf"
+            },
+            "mobile-dark": {
+              "path": "nl/celebrations/playground/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 41606,
+              "sha256": "1d2cd989f4ec3b74d66f8577277ca5b6837705fdaf36a195c044cf4d5a98aa6e"
+            },
+            "desktop-light": {
+              "path": "nl/celebrations/playground/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62996,
+              "sha256": "8ede452d5e2f5d7d6e4b8ec45f3edc918ae4f8b695ff4b793529889a7eea9c1b"
+            },
+            "desktop-dark": {
+              "path": "nl/celebrations/playground/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 66148,
+              "sha256": "359dea439959156076c97da66667ee992592e644b187314ff6a71a9434370be3"
             }
           }
         },
@@ -16255,6 +18208,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/list/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 65544,
+              "sha256": "215b0fd5e58c4dec5319b41ca2e692028466fbf53c1f705834078717560c0b39"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/list/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 67916,
+              "sha256": "508a2f4cd8a4258ddfe8e936769c8317bd77cc4d0d61670ba045308c0b88a2d0"
+            },
+            "desktop-light": {
+              "path": "nl/projects/list/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79456,
+              "sha256": "56f7be852df1e80df324f6b1f4e1e829c0b229ae6ab7e1d2a52f7d79f8ef5605"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/list/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 82616,
+              "sha256": "90903595f5bebda1e32afea5d0d1d68fad89a150b81e4203ceb6f10b275ce165"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -16515,6 +18500,38 @@
               "height": 1800,
               "bytes": 163666,
               "sha256": "f00cf654ef856c328591e1037f7a883aef71e3f73d20f2e73966c3fcacda829c"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 88438,
+              "sha256": "cb1e1af25308406d735f157ab8d937b1dddd7338cf56e6df0d4a1a038ebed5ee"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 94718,
+              "sha256": "fef76c3ada1929a1eb8910ac8056b0996b2ee49086859718d41b7730cd707d24"
+            },
+            "desktop-light": {
+              "path": "nl/projects/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160146,
+              "sha256": "31627cfc8767681034ac1cd71ad1db15e6be9a274f391f0eeb9daad626952426"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169364,
+              "sha256": "89d03905ca2c524c45d308d560acb93ef50e85e10b05592779fa06ca96728ef2"
             }
           }
         },
@@ -16781,6 +18798,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/tasks/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 88084,
+              "sha256": "9e8c07067ad9d8d8d1dae5d2633454a5668fc655379b171cbe2e6fddbe9155da"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/tasks/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 95198,
+              "sha256": "109123b3d02bc1ff2343a2d8660ec0a5581e994a224fcf93fe87d0f19fea931c"
+            },
+            "desktop-light": {
+              "path": "nl/projects/tasks/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160146,
+              "sha256": "31627cfc8767681034ac1cd71ad1db15e6be9a274f391f0eeb9daad626952426"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/tasks/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 169364,
+              "sha256": "89d03905ca2c524c45d308d560acb93ef50e85e10b05592779fa06ca96728ef2"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -17041,6 +19090,38 @@
               "height": 1800,
               "bytes": 57044,
               "sha256": "edbb83a5b0c5e84e227545dbef9e71f10f1498565c42f7243f337818a894736e"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 45718,
+              "sha256": "946739afa6633ebd39fd1851e36c3182c1d2d1b43ab77fb5d31c40ea5c18ea68"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 41234,
+              "sha256": "89899bee3f77288130c2afee8a046d04f2b53a044d98e43c56b70f36bc9e4a5c"
+            },
+            "desktop-light": {
+              "path": "nl/projects/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68792,
+              "sha256": "29c5ccaaad070a4f005f147636a8bc37c2f5733290e31185f089b330780bf167"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 59128,
+              "sha256": "8d0f9b651a97783c2d8b778b90f7cba9521aff95bcb4212933bcf64274500032"
             }
           }
         },
@@ -17307,6 +19388,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/create/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52746,
+              "sha256": "3b2b600241496bfe4f76ac955aec1ec6f85e50b7691a977a67981b5275661e51"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/create/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 48004,
+              "sha256": "63dedaaca4684bbe01b22a3f20e38e14151214fdce1788b8f093fdbed2df89df"
+            },
+            "desktop-light": {
+              "path": "nl/projects/create/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 76778,
+              "sha256": "e908df78e46bb887066f604987e03e4711049d357fe33185e8d9836bccaa815f"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/create/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68550,
+              "sha256": "d91a952924358c75f4e4468cc5ef80484729f5a9a5c48a7dc566a44c31cb8d24"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -17567,6 +19680,38 @@
               "height": 1800,
               "bytes": 52844,
               "sha256": "068baafb5c84625d845d635abbd4f951d2568f7d1aa285dc1a0a877147715a22"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/projects/editor/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44792,
+              "sha256": "11e6549e98631b6c085d014e8e54d99ef4958b42c69aad1debe65de755435b30"
+            },
+            "mobile-dark": {
+              "path": "nl/projects/editor/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44070,
+              "sha256": "fd8b6ef9e73c005e502a6dd6777d52abace96dd9ee5a9e4aba9363723f506f66"
+            },
+            "desktop-light": {
+              "path": "nl/projects/editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 55456,
+              "sha256": "6caa0d0822a6eb37402b5ef68003788f384da1101f105f656919cafee84642cc"
+            },
+            "desktop-dark": {
+              "path": "nl/projects/editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 53386,
+              "sha256": "cdb1dfd4456ceb10d037f4f7ee4e91a8d7966c57baa4e8cba12c6d67d78a7ea7"
             }
           }
         },
@@ -17833,6 +19978,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/events/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 157258,
+              "sha256": "d1e080c11860e107c8bb266073bdae0e43c13caae3f7f16b38a60283cdbfe42a"
+            },
+            "mobile-dark": {
+              "path": "nl/events/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 158538,
+              "sha256": "c89c56e802799f98573bde67f6fffc0c79150dd5e82f9c465e6e79598bb8ea17"
+            },
+            "desktop-light": {
+              "path": "nl/events/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 284390,
+              "sha256": "00747c49428f624c09965bc64b58e707757873282edaab96f15bda63c8a7f0ec"
+            },
+            "desktop-dark": {
+              "path": "nl/events/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 284484,
+              "sha256": "10e5005df8a13317a2cb188d465910edc0d3f05d159ce1c5ebe5df16981f7665"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -18093,6 +20270,38 @@
               "height": 1800,
               "bytes": 312216,
               "sha256": "13f86a0ff45886fe83fc11f3313109714096e6de5a3f572d882c0cbc866432cf"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/events/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 154008,
+              "sha256": "61af2d93f669c1d7cf863cb91701544cc432746932ae9629bafbeac3aa7ff60f"
+            },
+            "mobile-dark": {
+              "path": "nl/events/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 159594,
+              "sha256": "f28c1cee7f01f6995e2f9adf473c1322df64b8f3150300593eddf4f790ba833d"
+            },
+            "desktop-light": {
+              "path": "nl/events/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 311704,
+              "sha256": "fe33d6378ed6b4a27343eacc67b8305476e5ee1e123168deef6a9f79de541114"
+            },
+            "desktop-dark": {
+              "path": "nl/events/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 315170,
+              "sha256": "7a560dac730b820f403799d9213b8fe8122e16d15969279f25b53e9dabfa776d"
             }
           }
         },
@@ -18359,6 +20568,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/events/timeline/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 152602,
+              "sha256": "4ff9ccfc21e971e50f00e80173a6d099afda1cb830a4676bc1203d879ba4019f"
+            },
+            "mobile-dark": {
+              "path": "nl/events/timeline/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 156310,
+              "sha256": "0ebf5db350d96279c1092958fc6b5372e8d922204c977d125ed8ccbe28d6ddfb"
+            },
+            "desktop-light": {
+              "path": "nl/events/timeline/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 283162,
+              "sha256": "c977996c61257aefa704827541a83e90ec74eca0cd3c5659581a7cb549ae1d3d"
+            },
+            "desktop-dark": {
+              "path": "nl/events/timeline/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 286602,
+              "sha256": "dd70ac5dc444d32173245f721fc1d40800c3af8723dcae2388b93584a7fd25fc"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -18619,6 +20860,38 @@
               "height": 1800,
               "bytes": 109606,
               "sha256": "d960c8b43800d485f4b1d39d9c5478444bc41c7cb5f09ebb62183dc99d7cfb8b"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 85968,
+              "sha256": "e5287bb6a581430841fb733abe530a3fb56bef59ca100b8b231a26db5a6ba076"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 90048,
+              "sha256": "fd84a6d1b42bef0c27f7b02001b6933bcb854a502134c88d54d630a2e9559279"
+            },
+            "desktop-light": {
+              "path": "nl/journal/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 104256,
+              "sha256": "3dbdaf9ed129feb7b3001abad6d77d7ec9147d8d5247a590a37b48f149b44fa5"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 108904,
+              "sha256": "007d8f248d1fc649e809f11c50752c7f8d69070d87279ed15a60f8dfec9ef084"
             }
           }
         },
@@ -18885,6 +21158,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/filters/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 62500,
+              "sha256": "481a95836a6b11447919a94d87cdca76aeebc016f17b5721265382bc363d28ed"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/filters/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 59646,
+              "sha256": "eccb3b6c2243f55f715c85ae7b11a7bcaf2cc4c6cdec608aee0663456212742e"
+            },
+            "desktop-light": {
+              "path": "nl/journal/filters/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 96918,
+              "sha256": "abc0c4a1c69f0b0ddf206b69a88dab35f6036f4f60fedceef577eeaeba60acf7"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/filters/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 88320,
+              "sha256": "529fda894d6b9274a5d729fc23f5dbfa96f11ac9fbb187992b853f93a9d389b8"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -19145,6 +21450,38 @@
               "height": 1800,
               "bytes": 72158,
               "sha256": "9535c702d4946955e90bc9a310f4f8a2089ad41b79b1dd7096302af8b7d2aaef"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/create/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 53186,
+              "sha256": "af2b04931170bf83a5df886d3ef429fab0ab305c4db9606c1cb499b05200d092"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/create/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 47896,
+              "sha256": "1a6ed58e5ac4165e0ee7a60629569169bb17887ebc5ab3b413fa086af82add66"
+            },
+            "desktop-light": {
+              "path": "nl/journal/create/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84282,
+              "sha256": "a7dd96060c54ad610140c697ae192ba352c6790d957cab486ec2190afe47514a"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/create/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72952,
+              "sha256": "ff559546bd5e6ae3cc6304322ab50202adccb16370e03709b6e49a8e1b382315"
             }
           }
         },
@@ -19411,6 +21748,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/detail/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 73746,
+              "sha256": "8b48fe3fd1a178094c0693fd3f379a61b91079fff42e015a4821db0b543b9cd1"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/detail/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 77890,
+              "sha256": "9294ee8079f899059dc31a9a0e1efd3c997a26b72403c94c7bdc38ce9d638b2c"
+            },
+            "desktop-light": {
+              "path": "nl/journal/detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 261954,
+              "sha256": "00bf60b8a135cc2002fb036ed8cc079077f8952b74abfb5cdc76030d7d5fe092"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 264676,
+              "sha256": "34e44c65c83a2db8c8af5202b0b7784d8f0b494e3daa4f2ae9a4a5106a8b495f"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -19671,6 +22040,38 @@
               "height": 1800,
               "bytes": 114608,
               "sha256": "02ab797c147a04c1dea3bafa95b94e6463c90619487128a17d85b9c57a79844b"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/activity/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 53592,
+              "sha256": "60ce3422e38ea8e028c67746a5a5eb1d58e202540d147e650cd4efc7245fcdb5"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/activity/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 57436,
+              "sha256": "24333688b77f204dcd369a053261f4c6922845cbc8d4c714716e60753cb13262"
+            },
+            "desktop-light": {
+              "path": "nl/journal/activity/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107796,
+              "sha256": "0bc1d927cf7bd777fcb53760e31310b6198cafeddf182f081ad569e8833f3236"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/activity/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112690,
+              "sha256": "16aa227c2fcfadab7ed28daa84c519767ee32c4ef988175710a11cd00042efcd"
             }
           }
         },
@@ -19937,6 +22338,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/date-time/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 37670,
+              "sha256": "f6606bb0871e2b97d9191324a05603a4bfc74df3d874dbedde302927b91f1ef3"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/date-time/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 37728,
+              "sha256": "99827e217c31a4a885067203ba212ad087d22ccbf1dc8d6c79f1880ac725bdd5"
+            },
+            "desktop-light": {
+              "path": "nl/journal/date-time/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 160318,
+              "sha256": "897ce91be4bc51d77a1eeb7480945ecbe6600bcc6e9aed0c5740fe09be61f6e8"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/date-time/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 129864,
+              "sha256": "7b0cd670cc24b1df430c7d21a71b73cc7d30d2655904911b36d12496fdb60091"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -20197,6 +22630,38 @@
               "height": 1800,
               "bytes": 130278,
               "sha256": "c64e9f19218c62508261899d08465d85222f2b61feb8d811b3add19d8ff326e9"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/date-picker/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39574,
+              "sha256": "92f793962e78af0a7597fbad058a51f830b4ead589642a869a9a49e9b479aa42"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/date-picker/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 39020,
+              "sha256": "8df39a44d9108f86f1897b7dba1b7aa1300eabeb5b5a513c6670bec1fd5635a9"
+            },
+            "desktop-light": {
+              "path": "nl/journal/date-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 163800,
+              "sha256": "49b21fd7f2463e1ca3ae47cba4fd94f63457aadb69b6fb9dc80069667b000d66"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/date-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 131218,
+              "sha256": "a3557e70ac1481a52871aeb2d1f56860d0fbf3d0d4178f1b939b8d0b9e4e3d3a"
             }
           }
         },
@@ -20463,6 +22928,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/journal/linked-filter/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52682,
+              "sha256": "2b5b537743c52853fb89806638f730cf7b5321142c9703f502c4ed5ef381f5d2"
+            },
+            "mobile-dark": {
+              "path": "nl/journal/linked-filter/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 49828,
+              "sha256": "c07b8c0da996fcc0f0005ed584199487dd1c998bfb371508f6f75cf1bdeb3042"
+            },
+            "desktop-light": {
+              "path": "nl/journal/linked-filter/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 208448,
+              "sha256": "3ad5be75cc0f84ad79ed1e53cc8e74fed448eb446aa1d6e113877d1efef3b908"
+            },
+            "desktop-dark": {
+              "path": "nl/journal/linked-filter/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 158822,
+              "sha256": "aba3e666873df131e620ff7f87e356d94ea5d91b740f7e46133df04638d54a62"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -20723,6 +23220,38 @@
               "height": 1800,
               "bytes": 61076,
               "sha256": "0bc29f2f0eae5b653b146c1db6285e1d89ce584d9483c328f1c022de40f8ba57"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/time-tracking/session-rating/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 51406,
+              "sha256": "4677a68e6155cea439908f87104c669da9f6074ce729cb56a58fc91eaa6f0ae4"
+            },
+            "mobile-dark": {
+              "path": "nl/time-tracking/session-rating/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52530,
+              "sha256": "c50825693baaa6996c1af35166d9b3a5b8acc459c733e35807105afede8a4d1a"
+            },
+            "desktop-light": {
+              "path": "nl/time-tracking/session-rating/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 59238,
+              "sha256": "3dfbadf398fdabc5fb89bf9321b7580ebd6b8668bd0ebe706f01c4cf3a20d0ec"
+            },
+            "desktop-dark": {
+              "path": "nl/time-tracking/session-rating/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 61144,
+              "sha256": "890be294a15d48854797a7cf82c19380ac8ba473e96f715b44e353258bc3afcd"
             }
           }
         },
@@ -20989,6 +23518,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/time-analysis/overview/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 42896,
+              "sha256": "b2deea48b6f99d75343db35640a25d9a41682b3e63e6bc94bb3c7aa73614cb42"
+            },
+            "mobile-dark": {
+              "path": "nl/time-analysis/overview/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 43368,
+              "sha256": "2f901d518d89688a94ea5790685b6cad027ea834b3f9456a4d6c31b24009166a"
+            },
+            "desktop-light": {
+              "path": "nl/time-analysis/overview/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 85348,
+              "sha256": "f9bb4f835538e485e4b1461b0f1e098064b223f11e5d5c23ab4b52add74b6fdc"
+            },
+            "desktop-dark": {
+              "path": "nl/time-analysis/overview/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 86798,
+              "sha256": "0ab925cf96a0968bafdb85afc86ce5ebaab88743cd3184a7a4f1883d68a14963"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -21249,6 +23810,38 @@
               "height": 1800,
               "bytes": 94974,
               "sha256": "1a6410c4f3c22279bbea919363cb417327c0b34cc2474c6161e33ce912ae8152"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/time-analysis/compare/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 53148,
+              "sha256": "abc5743564d7e23e1f6c8b5012d771362603dd782cf8814b6b47ac3b3814e582"
+            },
+            "mobile-dark": {
+              "path": "nl/time-analysis/compare/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 54790,
+              "sha256": "5a1e4602f716f1f8407f245a5eb05197c37c370c7ac0ea03d01bac42ad62fa7b"
+            },
+            "desktop-light": {
+              "path": "nl/time-analysis/compare/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 97860,
+              "sha256": "9004e95f508d6b5898d14ece5c6196cb84d2f5fa7127b0c75021126cedbd5eed"
+            },
+            "desktop-dark": {
+              "path": "nl/time-analysis/compare/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 100702,
+              "sha256": "40af54f55da61346df6e55df15db47b4f8afe23eec7db46c12f067213d28a104"
             }
           }
         },
@@ -21515,6 +24108,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/time-analysis/running-total/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 52882,
+              "sha256": "1263a9e672a4823ab8b5fa5a71604f03debc78cb3de9a8430239985db200f0ee"
+            },
+            "mobile-dark": {
+              "path": "nl/time-analysis/running-total/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 54610,
+              "sha256": "0d6f46d2283156a445ec3bd70e20c4387fdec4013083d6aa7ffccc261cd40eb3"
+            },
+            "desktop-light": {
+              "path": "nl/time-analysis/running-total/desktop-light.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 106842,
+              "sha256": "24b0dfcf245c636f0aae07834ed04a435cf1c9387dfadba140c7b6dc8b964f56"
+            },
+            "desktop-dark": {
+              "path": "nl/time-analysis/running-total/desktop-dark.webp",
+              "width": 2800,
+              "height": 1800,
+              "bytes": 109806,
+              "sha256": "fa7583085b9f6c83f868cb94784583b475b3b44bd9b6d1ea09a3f7ab76b4f22e"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -21775,6 +24400,38 @@
               "height": 1800,
               "bytes": 89768,
               "sha256": "0f66fd3bfa464f40087b56f7a969bc0b0cbf34ea719868209d7790ea0f9443b8"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/hub/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42258,
+              "sha256": "c29d062025d0203384b70903c9341703feef574686c79892ee632f29caab7d26"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/hub/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45030,
+              "sha256": "87e0a8f70ed28c540e85e1c9a2acdf7dd2317e4fd74dcd536b41f17057bd4a49"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/hub/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 89822,
+              "sha256": "5b17489b68e1181a7ed38928e9eb8c2ed74cbb97c677231fa6e86096c0e6afab"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/hub/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 95556,
+              "sha256": "3cba01b09b0452b6a54fb9c8e6b3f32b1223a4ec2e0577b43ef8fc53aa615138"
             }
           }
         },
@@ -22041,6 +24698,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/flags/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 68898,
+              "sha256": "0fee30834ad8e6c76a910d5676a0dff2885a3071e2860fe3ea4760144c6f6a6a"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/flags/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 73684,
+              "sha256": "bc64d0f3a7e367829f2eb1d3aebd8a71c591040b2490b2953daf7dd1285cc236"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/flags/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 227282,
+              "sha256": "2af035d426c6f570b37f3a453c97da38a42542596a8ddb77ca74e7cb4dd72f6d"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/flags/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 242476,
+              "sha256": "e81f34310be56acbb391911c55209ade1828b6f1654e2cd95c8d7cfb317283b8"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -22301,6 +24990,38 @@
               "height": 1800,
               "bytes": 116530,
               "sha256": "0f1f92ae1d1eec167f8560af3911c69742f1883a4e3415cb9036fbd77c81ac2a"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/logging/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 36656,
+              "sha256": "fc0ed881647dd6099330fad24de79c6cf7e8c1642bfa1b6059ffeb84d431c5be"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/logging/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 38410,
+              "sha256": "4bdb5e3295407cfc825f422f8a3f47f5166af2c9b30d1229528c1d8d8d267828"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/logging/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 119390,
+              "sha256": "986fe85350ae55b2d76fd86063ab5303390055fb70bf0c99c65029814505707a"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/logging/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 125542,
+              "sha256": "055d66d07bab211b79f42c7bfe3dcb71e1dd7fc353b7b331c4e4c4a8de93624d"
             }
           }
         },
@@ -22567,6 +25288,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/health-import/overview/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33970,
+              "sha256": "cbd8769ffd1c37646d9cb85201ed4c2f71941453d92f91a3251a1b7d99c9791d"
+            },
+            "mobile-dark": {
+              "path": "nl/health-import/overview/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 35148,
+              "sha256": "efc13e1a80a364acd83cfe4c3ac1b35e6af6b23f4955c00a0e8e8a22c74c66a8"
+            },
+            "desktop-light": {
+              "path": "nl/health-import/overview/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 89822,
+              "sha256": "5b17489b68e1181a7ed38928e9eb8c2ed74cbb97c677231fa6e86096c0e6afab"
+            },
+            "desktop-dark": {
+              "path": "nl/health-import/overview/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 95556,
+              "sha256": "3cba01b09b0452b6a54fb9c8e6b3f32b1223a4ec2e0577b43ef8fc53aa615138"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -22827,6 +25580,38 @@
               "height": 1800,
               "bytes": 170486,
               "sha256": "aafec655aa9ce44435d7e5d0dcbed9a2125756604f7ce4301e0d03d80325d40c"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/maintenance/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 70456,
+              "sha256": "6e9c56ce47c571b3ecda79cab98ed10c3618b4e04439b3b4bc1d68feda5847ff"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/maintenance/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 75414,
+              "sha256": "3fe15cf8e82e862c45b42cc3731b2b8042d5318a7a7efb30fc69231886ab66a9"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/maintenance/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 165050,
+              "sha256": "8d8370d2a49bf07be7d6ff419f985a708239931e800bff843a38da0f47c68cf9"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/maintenance/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 174836,
+              "sha256": "5d2f0be96c123a6882aad684d7b332f295cbd09713158fd41bc9e9758e4855dd"
             }
           }
         },
@@ -23093,6 +25878,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/onboarding-metrics/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 32486,
+              "sha256": "6d9b919fb798f1ca61e0cf162bc2185d5d0ba397d7280d4b9fbef040e0ce0f21"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/onboarding-metrics/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 34994,
+              "sha256": "ba465557d35c39f2af18c324fff9a7eca914731ecbfd18ceea99886e78d94724"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/onboarding-metrics/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 112218,
+              "sha256": "16eb9724a59027b5df673ad0296ea8af66942ccaea821f6a9150734be4bee332"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/onboarding-metrics/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 119338,
+              "sha256": "c14ed3914d4685f6c2c47c94af2801cead303da7cb10ddfc31f03ad76d61eb29"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -23353,6 +26170,38 @@
               "height": 1800,
               "bytes": 109072,
               "sha256": "1a2dbf8f2073a398106f6ff118b759bdb5802622afdd2d51083307b3bbcc0fd6"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/advanced-settings/about/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33632,
+              "sha256": "e5cb6f0e7dd257f2aa3a0bebf1ae6c31d5bb23cab7d2c99b24300d7d09be130e"
+            },
+            "mobile-dark": {
+              "path": "nl/advanced-settings/about/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 33760,
+              "sha256": "03f647da2df3364266f08c771b80570af4823b627a10fa9df83ece541eda70cf"
+            },
+            "desktop-light": {
+              "path": "nl/advanced-settings/about/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 108850,
+              "sha256": "7d8d00c991b394c70e0c05cdde3165701d35516efea0625a5fde375a8fcd57e4"
+            },
+            "desktop-dark": {
+              "path": "nl/advanced-settings/about/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 113660,
+              "sha256": "08e5c7dfa0e0e9113519943962b4732c5cc2fa3320b3f2fe9727e77d77f1e1e5"
             }
           }
         },
@@ -23619,6 +26468,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/settings/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 13526,
+              "sha256": "ca45879ff0e1c4f0cad86523d005e767dccfe392fbc8795fee2ec4d46c770623"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/settings/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 14342,
+              "sha256": "315e5a8784466af5dc4ec1c8ac6acdd98f7cfbbd52b4561c3ed8f4e052740c65"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/settings/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72602,
+              "sha256": "c0e385de396cd83f922401f00df0a26f4754886663aabb45a49f4662376c2c9e"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/settings/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 76594,
+              "sha256": "4397720bb811338a5ca475e4cae7c2b5a3999751b7bdab2487e2587df8a039ca"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -23879,6 +26760,38 @@
               "height": 1800,
               "bytes": 83462,
               "sha256": "a2de25172400f1f47cd6f9e8176c86dca0cd2bd22f0fa5a87befe0b8015d98e4"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/welcome/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42040,
+              "sha256": "e7b16c5bc70bfb399835722d2eeb931b72255b8c70122f8081156a867946359d"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/welcome/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 56726,
+              "sha256": "3f6a35ff14b11b96441f67686d7eb4b2c9e726f890c15ade675d912f3b856e6c"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/welcome/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 72168,
+              "sha256": "dda1e5711809bb7eaa1158cbb71df839fe8e5d6b79ce0e456ea04631670d0573"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/welcome/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91374,
+              "sha256": "2504322b20000f17fd96894c09046775462b119cfa6fd274a8e47faacbab8799"
             }
           }
         },
@@ -24145,6 +27058,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/providers/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39876,
+              "sha256": "28fc2fd68132339e560962aacab0ad58c2431d2a07446a31971f767cc7d79c84"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/providers/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 42336,
+              "sha256": "6f172760a1eabec626063b3fa66dcf9d71811ab2f3f99ef8cd07b528b9a92285"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/providers/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 81068,
+              "sha256": "df45b267baaf64eeba916a3b640950aa55341435a65d5667efd2d4bb3915f96c"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/providers/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 86304,
+              "sha256": "77957fc9907ccf002763b492c9837e22e5eed6332ecdacd8e0df8916110d75a7"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -24405,6 +27350,38 @@
               "height": 1800,
               "bytes": 59226,
               "sha256": "ad079c34371076172e8f024ae43153964f2255e378ce32d663f14fe84c5edb0a"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/api-key/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 41572,
+              "sha256": "f6edce00935ee7b793dd2eafd24dff6deb9cc40f8b75cf1db24e80916d6b97de"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/api-key/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 44822,
+              "sha256": "90e078f2ffa3041fe4567a82b41b56df94d8a6047daca3bfba3bb937ee50df95"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/api-key/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 58438,
+              "sha256": "63ef0e1fdd0d57cac6a8bfdc921622197f632f244889890a29c95a76ce9cec36"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/api-key/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 62226,
+              "sha256": "1e609909d19a801f139acbaaad31582b5ebeb6fa7221e97aadca3ff6026b6306"
             }
           }
         },
@@ -24671,6 +27648,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/success/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47464,
+              "sha256": "666118f089b0335d8e6eef1ee9030186681f5ecebc14152ae892b0af6a330662"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/success/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 51104,
+              "sha256": "1eb7a7008e5f6efdd0ef0963a51958f6962bc5d362f8bba18d9f11455f361a54"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/success/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 64164,
+              "sha256": "f60136257c790e1ef43e85a7df4624f94ebc6e6a8a4e8d5a0ca4b08ea36459d0"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/success/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 68710,
+              "sha256": "b96b5f86fafd211e9ce5c10a99eb32b71c4ec8bb8f58d79982cc11abdb2a4ade"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -24931,6 +27940,38 @@
               "height": 1800,
               "bytes": 89096,
               "sha256": "edac8da41fd97e29402db8a681d18b7844b949943914790a2faffa86157d9f49"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/recording-style/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 49572,
+              "sha256": "5778ec7597349d871504385f4b7e3e1979e304e28d9b1cd0ae2ff6726ff0ef55"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/recording-style/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 51502,
+              "sha256": "ea459070cb5d12615786bbeeefa332e5b27d5539ef96c47248ee42531d4de7bf"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/recording-style/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84920,
+              "sha256": "53987439b97159de522198713d1c098e4fefdb7fc9e5c1f4f4bae7d14c13ed81"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/recording-style/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90648,
+              "sha256": "3c004fb4873e00e022c25b412cad48ff62e1882d554f07f7241fd33b80280a2e"
             }
           }
         },
@@ -25197,6 +28238,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/categories/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54408,
+              "sha256": "adb931b97ff6577a9480b63fcbb32e7625fe5cccd7b143571aa170cacae86ffb"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/categories/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 58968,
+              "sha256": "aaa224ed9d652c0208d3b92093a50a18863f93bad7e70ec7bd9e065993d6e9e5"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/categories/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 74356,
+              "sha256": "ccca63c7459ae287734531a874b5a4a7c54f20eef23a9755df5602b2d7113ec3"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/categories/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79994,
+              "sha256": "c6406ec1e6e20254a39c570fe5b4846e1a25b3b21c89228c8fbf82c2dfebd7d9"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -25457,6 +28530,38 @@
               "height": 1800,
               "bytes": 74870,
               "sha256": "6d426055ac2486abf62312048d54590c93bb4ada7855a6a1138632089d8dba33"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/first-task/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 50440,
+              "sha256": "2f524afa3e6aed71b5ae5b7d0a39311595a76b05e857a150e848c13dffb4403c"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/first-task/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 52704,
+              "sha256": "67c22f7996f6e6e99e199d7b280cf5e0f9c8a147fc1ca430eb2eedf932e23a86"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/first-task/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 75658,
+              "sha256": "ddc8d32642815db7875d32008e9793e84ec0022c1849e187189de8b39e016fe6"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/first-task/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 79626,
+              "sha256": "070b5e7f8fa81a202869f1b6b458e632ed460452de4058dd17c9f5b17777bf9a"
             }
           }
         },
@@ -25723,6 +28828,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/onboarding/task-created/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54746,
+              "sha256": "ffaabfc5779240f479de7215d83aa930684052249f29a24ae9b55e1f2554ad65"
+            },
+            "mobile-dark": {
+              "path": "nl/onboarding/task-created/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 58616,
+              "sha256": "a32650cb34d01e01253482d54b5dc8e0b4f2783a7e979218ac7b517768153805"
+            },
+            "desktop-light": {
+              "path": "nl/onboarding/task-created/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 59538,
+              "sha256": "3b1576a7ecc6bbb3d115b9e4533513d94b371698847d361705fc9211fdd0995e"
+            },
+            "desktop-dark": {
+              "path": "nl/onboarding/task-created/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 63284,
+              "sha256": "c410a52fec8bdf16fc3459b2b8e0fb9992fbeb7c88af9acfa089852b0114f370"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -25983,6 +29120,38 @@
               "height": 1800,
               "bytes": 174144,
               "sha256": "59190cf19bc7bf43a46c6a94419dfc8c684619a93dfba66983a3aea219f6a545"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/whats-new/latest/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 113530,
+              "sha256": "930573c494b6a72fc09016a15d90e17022f0b51aa39bd0f67be3ec99145df22f"
+            },
+            "mobile-dark": {
+              "path": "nl/whats-new/latest/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 117174,
+              "sha256": "dc804e4d162770031a2b6875ac73889eb3bf903b027ce360eb225d84af54f5ef"
+            },
+            "desktop-light": {
+              "path": "nl/whats-new/latest/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 180496,
+              "sha256": "8bfefa7fc1a172a6509071fe0261f6088f21a46a99db0b20a0a42706b631d6e6"
+            },
+            "desktop-dark": {
+              "path": "nl/whats-new/latest/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 176642,
+              "sha256": "66d4f9317de9deeb1c93faadcc797e90ade386bbba7f7d98eb9fefad02d2a533"
             }
           }
         },
@@ -26249,6 +29418,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/whats-new/past-release/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 119756,
+              "sha256": "87ebf53cac8ed87354b731ad9190c0d9834e259f379548f87b28e43ccef99cbe"
+            },
+            "mobile-dark": {
+              "path": "nl/whats-new/past-release/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 122688,
+              "sha256": "fb2654b6ff5c4ac8e98a25be64959e978af19c92933a19c4102676c60e4e89d3"
+            },
+            "desktop-light": {
+              "path": "nl/whats-new/past-release/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 192486,
+              "sha256": "84b854572c6f97e3c2dcb6e41eec98a4e6f4570aa6b10ee989def1d7e1eca51b"
+            },
+            "desktop-dark": {
+              "path": "nl/whats-new/past-release/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 189080,
+              "sha256": "89303921578371ba8b745d48607f8cc77f81b5d4a6a59ecf8876116fcc9d1974"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -26509,6 +29710,38 @@
               "height": 1800,
               "bytes": 132576,
               "sha256": "c6a66e6448911b7b3b008a9e3d0ce5611d9281fbed063294df8532975a12a9a7"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/providers/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 59098,
+              "sha256": "bd85240be26a88e8104c15da19f343b8ef141e9c6148211002ce60a478e60d72"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/providers/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62622,
+              "sha256": "3e8c670aadb3c33f8f27c1277d372845f0cf984b47366e6e9fd4e42cc889c4e7"
+            },
+            "desktop-light": {
+              "path": "nl/ai/providers/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 127576,
+              "sha256": "9d1a88f75d97102371cccad4ca41f1511d2f17b9a63af5aab687b53e7860a723"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/providers/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136422,
+              "sha256": "9a7504e5a3213039869f1c5cce5946e560fcd5a9b6f3e40e09ce947f17c810b6"
             }
           }
         },
@@ -26775,6 +30008,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/provider-detail/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 83472,
+              "sha256": "3eb055105311d54dee9fbd1c0366bd25c77260d57443e00d7c2e4cce16ac0e59"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/provider-detail/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 87786,
+              "sha256": "4f3817e8a6a895e88fc82ccd4b4a853b80b7b118c2bdcc643dd1d9ba8a239935"
+            },
+            "desktop-light": {
+              "path": "nl/ai/provider-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 141952,
+              "sha256": "091f511041a5d266118ee5950e3f0ee8042b8d88af4cf589d76e3ec999880d92"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/provider-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 148960,
+              "sha256": "2fbaf035e8ca262a9c833adfdc299cbaae74075a592dfb8710b4f36245f9de6e"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -27035,6 +30300,38 @@
               "height": 1800,
               "bytes": 65240,
               "sha256": "7a76bc419f84ab057c35fb31aa19ba7b9055058f7878e5116770937fd1fedd83"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/provider-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 57756,
+              "sha256": "c8eb1834be7c611283ad24f67a239f9755d627038337db77a3b6ccef75189fd8"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/provider-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 58662,
+              "sha256": "4d54156b381ee7fc82c767c92f7275336c7b1e4d5eb30464155857021eac133c"
+            },
+            "desktop-light": {
+              "path": "nl/ai/provider-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 65342,
+              "sha256": "bb47abdaa28db437e4c3f75ca98d0c2131195cb00b135ca3a5a304042081853d"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/provider-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 65082,
+              "sha256": "81fffc8907023365146f81f1d7b93158a3584f4634c3a1fb5471534d466c075e"
             }
           }
         },
@@ -27301,6 +30598,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/models/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 86392,
+              "sha256": "d768d5688267e25447b90adbf9ac729fa971c1ff070aab7463d11f66c4728c38"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/models/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 92240,
+              "sha256": "350a2c3dfd2378a5225d726074988d70c0d3975433559e9b0d6610988e9b8f9b"
+            },
+            "desktop-light": {
+              "path": "nl/ai/models/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 157630,
+              "sha256": "965c4cf5a0f3a705c5d04e9519665db3c4d8e013d9ae552a53e5d449fc9bdc8b"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/models/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 167044,
+              "sha256": "d2fb0989db34dec6ca3275a08351cef7d6ec73fd97d06c9d8f6446b9d1ec142a"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -27561,6 +30890,38 @@
               "height": 1800,
               "bytes": 127726,
               "sha256": "8aa7b86aed5d26d68fe55e7c8ab668864ae41844cc73c35aa06493bb6d69f510"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/model-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 60218,
+              "sha256": "e5079aa1ad589cd4149c08ccef7a3fb9c80c3e73bf0ae452fe31fff48f74ded7"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/model-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62348,
+              "sha256": "ae0a3bcfc71c58cade20df3a32bf952b63dd52a29996bab14f9f234e15f07ed3"
+            },
+            "desktop-light": {
+              "path": "nl/ai/model-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 123558,
+              "sha256": "6332dd190405178fa58de1fd7faaf34f3861202378b5084a1a722f56c966f1fa"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/model-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 129836,
+              "sha256": "2b833395f6d5fff04235b0e4164ad9157ac1703da5e94a520cbd5b74de43dc3e"
             }
           }
         },
@@ -27827,6 +31188,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/profiles/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 90682,
+              "sha256": "597a7894d58fe3c29d55b5cf3d2e90e7b8de1467dce6b590defb822270285847"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/profiles/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 96594,
+              "sha256": "f3adfff4ee3c77bf4e54f07fa4fdae09f64190381d7a81fed9628042367c1c0c"
+            },
+            "desktop-light": {
+              "path": "nl/ai/profiles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 157664,
+              "sha256": "fd7dde45babf371c670225b8c36a46afd5f46b40881673df9a0c52242ac8ffbd"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/profiles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 168650,
+              "sha256": "ce46393158aba8bbac10249dbccf51cd0dbb486f9729dda8687943aad304088d"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -28087,6 +31480,38 @@
               "height": 1800,
               "bytes": 151994,
               "sha256": "8b09762764250af3ecdeb5fa3e87518948bb0f30e9effd233453d4acfb372060"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/profile-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 95076,
+              "sha256": "93a2afc85ad55935d2df096c2fbada83574e289abb627d9516f3213a7ea88b91"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/profile-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 97180,
+              "sha256": "5a1d264b0219f92028dfcfef160b9b4ea9f413ec9901e2dcfd07ddd71f2d904f"
+            },
+            "desktop-light": {
+              "path": "nl/ai/profile-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 145770,
+              "sha256": "109208c8b9201e0480e3cb749ddd57d7389a1c21e280a066e3ebf9f719301f21"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/profile-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 153966,
+              "sha256": "c2eefc2bb58efea71a8d316058ec1be7c98a934fc008ac26e4bcf28a453ca129"
             }
           }
         },
@@ -28353,6 +31778,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/model-picker/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 49186,
+              "sha256": "52b43e4369bff38e4cb875a7de0ccb72cee75393097d56bf1d6306de62f1ebe5"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/model-picker/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 44184,
+              "sha256": "47d8974d9d92316d5f80cb7a6362c76bb5997a938c47bc96bca91bde6d2558c8"
+            },
+            "desktop-light": {
+              "path": "nl/ai/model-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122356,
+              "sha256": "7c13ee775c96268d924e6717cfc3040317ea14bab0dd3f91a2d0296da1a08be0"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/model-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107340,
+              "sha256": "56d508f2696776c893e9aa4b66449427c6e27456d7f7cf341eebf38f9425a4c3"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -28613,6 +32070,38 @@
               "height": 1800,
               "bytes": 75358,
               "sha256": "32105568f5bdb205d5e3e0cef211281b71f761fd72d719f582b03cd7d5d1dc29"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/profile-picker/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 63118,
+              "sha256": "93b26eda425f7c5cba9025438d63bc48db387008fc47cfb873b731f1b2bb577c"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/profile-picker/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 63342,
+              "sha256": "50b7bdecb46af6fc6863240181c61c7622700440898548fcca1af25a0a702133"
+            },
+            "desktop-light": {
+              "path": "nl/ai/profile-picker/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 80822,
+              "sha256": "b5fa70d47bf67119edc5f6f47e605a642325b3ce7fe49b5a5464703bffd12faa"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/profile-picker/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 75930,
+              "sha256": "6774a258d4a975a89e1b4fa4c854c3084d0cd7f120159c788ac8d10370941fe7"
             }
           }
         },
@@ -28879,6 +32368,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/legacy-profiles/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 44522,
+              "sha256": "22d01a99d8eb962fc93a8e8512700b6a22fc507617935330442332fa4de9790a"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/legacy-profiles/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 46982,
+              "sha256": "e68d004678168782dd5ebf7e78ccac3b6f1669eaffa200804dd29e05fc73a9e2"
+            },
+            "desktop-light": {
+              "path": "nl/ai/legacy-profiles/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 52326,
+              "sha256": "44c69fa3a41ae3d71e19db1b5554691e79e4a9e36c48a607daa4cf44017e46bf"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/legacy-profiles/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 54186,
+              "sha256": "7f56df8c5f1543134a66ebe81cc3b06b2dcd9d05634f77176f7adc6b6948081b"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -29139,6 +32660,38 @@
               "height": 1800,
               "bytes": 134844,
               "sha256": "fa9444997e2cde2fdbdd42b16a6eaab03caf08d17e7c22040e1073d567821377"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/skills/mobile-light.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 53984,
+              "sha256": "36ec52bd0a1398c05cc26d5e3afd6f094e8bcd2104ccf1eba4542c7061d2dbad"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/skills/mobile-dark.webp",
+              "width": 804,
+              "height": 1748,
+              "bytes": 44108,
+              "sha256": "04f1ee314679af69fc20dea50c59d637ee8b180df8298f3e105a44e27e186b14"
+            },
+            "desktop-light": {
+              "path": "nl/ai/skills/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 181708,
+              "sha256": "89e7b85b0ef8564c1d9246051bd2470cb58f4b07c4bb8902a3a47e424eb5e41d"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/skills/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133370,
+              "sha256": "ebef572b5bf5bd7382cacb6cc2252318b1fdde2d6efb2be1cea303e8a24f78d8"
             }
           }
         },
@@ -29405,6 +32958,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/ai/usage/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 43490,
+              "sha256": "25b774f7147dfa31d28fdf3ff243889939a93607ec9078a9ab821b841edc8b2a"
+            },
+            "mobile-dark": {
+              "path": "nl/ai/usage/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 44750,
+              "sha256": "bd4d30f2451c1fbe56160ec72304fe501064dcd120321f089b5c0391f290b39a"
+            },
+            "desktop-light": {
+              "path": "nl/ai/usage/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 132636,
+              "sha256": "af3d27b4248955dea8f72b2fa3b2f9aaa5fe303b4f233230cf5da0b8a0c56d69"
+            },
+            "desktop-dark": {
+              "path": "nl/ai/usage/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 140618,
+              "sha256": "b1fd1759349847e4e301eba3777d28f24a5ffcb8bb3c83c13c06596b2b025304"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -29665,6 +33250,38 @@
               "height": 1800,
               "bytes": 123954,
               "sha256": "8f50c551d5764b8d7e90bd6b01fdacec459285abd7640faf0877ae8dda0be7b5"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/stats/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 56000,
+              "sha256": "aee2852e884e8a70a20fb311ecb7050ad51dc225a7dac4005c7f319cacbc6569"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/stats/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 58828,
+              "sha256": "82d7c19d7f83350eef49ea4c655e1abb4b41b3c8a57fe454b28a3573b965edc9"
+            },
+            "desktop-light": {
+              "path": "nl/agents/stats/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122382,
+              "sha256": "29f708c0ace96766f874489f764a676ce43d5fa69ee86df3110877a0fb11b43a"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/stats/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128758,
+              "sha256": "d401d10bd94da4c6d80db5a070395abe64e246644a692cdaed42d9f44244d816"
             }
           }
         },
@@ -29931,6 +33548,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/templates/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 51586,
+              "sha256": "2eee23c611b20bdd30a02d177677f50c91078a31cf56a27ff5ee024ef91460f6"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/templates/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 54312,
+              "sha256": "907b4361a4e5b314a385e3a8ce9f8b846f5b2fde0f5e3f891cb3375eb257787b"
+            },
+            "desktop-light": {
+              "path": "nl/agents/templates/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 113614,
+              "sha256": "b25157e20a04a2075651ba3862a5767fc44b72eb3ffcb29f3ead3dcb8431947b"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/templates/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 120704,
+              "sha256": "4365041a119f8c93e32b1c7075bd92b1f95d666dd61de2b50990c94b7a553397"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -30191,6 +33840,38 @@
               "height": 1800,
               "bytes": 124562,
               "sha256": "965c211d15651b63a53efd140b20a01f45bf78cbd2ad895b7e70ec3311be34b9"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/instances/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62484,
+              "sha256": "9af1e1f8eec0d1ae8df899189e5dbcf6c0de709294cd6ebee0d13ffe053fbff6"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/instances/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 66746,
+              "sha256": "083ef2222e16b5ac0144382bfce8b3b6f6b962bdb9e230829dbfa3f3fe4a0065"
+            },
+            "desktop-light": {
+              "path": "nl/agents/instances/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 120490,
+              "sha256": "b7f6877b9a9074b5d8c4d177951a12624947275081594e50839743a3afa7fe7c"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/instances/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128018,
+              "sha256": "3ad7167cee278b143585dc240495f83ef3cf13a2401e16acbf1647979ff99dca"
             }
           }
         },
@@ -30457,6 +34138,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/souls/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 25556,
+              "sha256": "d86bd32bccc91009c88e5af4523f593485e0d2b3cad541a30ee5201ee0b81734"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/souls/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 26634,
+              "sha256": "a2ed34d6a01bf9aa6aadabb7988b0e9b13f2c0815a88fdc3aef6608344bacc1f"
+            },
+            "desktop-light": {
+              "path": "nl/agents/souls/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 84536,
+              "sha256": "1b0610ca3beb06e9e7f51d8c32a5a791b714468f89b67a758a9fc2a393ac4f1a"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/souls/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 90072,
+              "sha256": "944b5e3035d040fea8bb3ce56c7038042de0bfe36072cabd9a86a7a6714616fd"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -30717,6 +34430,38 @@
               "height": 1800,
               "bytes": 138002,
               "sha256": "1d298a15de49f61205a6690adc5021221fc31b2dea09c90fe5c7ea69fa109e47"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/pending-wakes/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 63224,
+              "sha256": "d10ce6b99740482505fe0180ce21b4c674a55170f924ad580df14cc887395e60"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/pending-wakes/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 65732,
+              "sha256": "209334bc5256a165aa9f9b712e3ab991e4e9eba0f9ba011d793c406e2b151959"
+            },
+            "desktop-light": {
+              "path": "nl/agents/pending-wakes/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 130988,
+              "sha256": "83dd671fe252290675c8bde3fe2fcd16a2a48d7138e1b5c548fd1de9d384eb63"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/pending-wakes/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 139932,
+              "sha256": "1dfb17f4bfc231a19097c59e5fe699601c9989b386a64528c9fd47078a78c404"
             }
           }
         },
@@ -30983,6 +34728,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/template-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 59488,
+              "sha256": "98c422d1ca1854abc2bee2da8d2c609891cdd4d02b40835ae9c8193ab5f9576b"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/template-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 57942,
+              "sha256": "d3d630d3964d6e3202e339e60ff3b942ba308f4d8bcd21b52f7cc782a8233966"
+            },
+            "desktop-light": {
+              "path": "nl/agents/template-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 129388,
+              "sha256": "d32d4a613af67672650c98036b2b9c53152295272294edaa48b95206e36a1194"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/template-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 133280,
+              "sha256": "e861351203c72f6eaa9392213f1b1cd920e338a3b5b37916c7078f760c223b73"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -31243,6 +35020,38 @@
               "height": 1800,
               "bytes": 81956,
               "sha256": "93fc18c668b4a778580c3e872f02722bacc4cdb0def3d387e2cb99f2f0aec260"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/template-review/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 65342,
+              "sha256": "fe855f585174513107652333c299b5307bf6f0572563221950f7bc9b2006b05f"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/template-review/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 68704,
+              "sha256": "6a537d8461793468faf2b9014b966ccef8c2ad560a4a51b001b0f57327ea999b"
+            },
+            "desktop-light": {
+              "path": "nl/agents/template-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 87656,
+              "sha256": "ff851ca495fc8f0450fe35fc7b7cbe059890af449d04060c2c0df1c91bf04b7b"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/template-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 92114,
+              "sha256": "2df164003a372f2e18cab2645216d4275bc9aa0db59022a5c19b9dd31b0e000a"
             }
           }
         },
@@ -31509,6 +35318,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/soul-editor/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 62184,
+              "sha256": "1f18b589714f4fe0b56495277005f5161914653ec9449c9b25e296fab0b96786"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/soul-editor/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 63298,
+              "sha256": "e9ed03147108d6a4a532eef3d6c6bab98eec85fe448c34d16c2739e188367170"
+            },
+            "desktop-light": {
+              "path": "nl/agents/soul-editor/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 130376,
+              "sha256": "24d9ab8cb33eb5a6704b8503e52715192fc73082e81d6ed9dc41bfb3ad96aadf"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/soul-editor/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 136910,
+              "sha256": "89b4d652220459d59bfe12c60cb5722de8129b97397cdecbcd0ad63a7cf25d38"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -31769,6 +35610,38 @@
               "height": 1800,
               "bytes": 80314,
               "sha256": "7b64a1878b7a038f476b95aedc997d56506ecd5ea9e888749ca8900679c07f05"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/soul-review/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 68888,
+              "sha256": "6c78f88514dbc65e2e1938d2b130accd7983387b8f855a1e6e45f0098a642042"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/soul-review/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 74106,
+              "sha256": "6c86023b1961840b112b5d7b42050e8e0fbf9e5886038f7dab8dc2e228437cc6"
+            },
+            "desktop-light": {
+              "path": "nl/agents/soul-review/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 76014,
+              "sha256": "3ff0b411a0ec3d27fbf48c7e5c95006359dce3c31871975a5a3aa894a56f8bc3"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/soul-review/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 81946,
+              "sha256": "84e2927a3557b2c2ddd15f06cb8462bde3bbfcdc305ca9b6fde70667cc1f0c79"
             }
           }
         },
@@ -32035,6 +35908,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/agents/instance-detail/mobile-light.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 90488,
+              "sha256": "d1adb02ccae569c4df27e9f64fb940fba6bab00e5d00a6303d19c58e4f2f931f"
+            },
+            "mobile-dark": {
+              "path": "nl/agents/instance-detail/mobile-dark.webp",
+              "width": 880,
+              "height": 1912,
+              "bytes": 96064,
+              "sha256": "1eb5811c40107b7bbd59c612f18ef57aede821027f65b778f8047c36bc457d16"
+            },
+            "desktop-light": {
+              "path": "nl/agents/instance-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 149674,
+              "sha256": "94d934a2f5219fb22942494be7556c6be3e5bb83b07c65af21cdcdee2714e9eb"
+            },
+            "desktop-dark": {
+              "path": "nl/agents/instance-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 159136,
+              "sha256": "0105e1eb0f7f188ce0a24947cf8c4eb3e74cbf46acca71aa80aeb4ee929b4c0c"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -32295,6 +36200,38 @@
               "height": 1800,
               "bytes": 96862,
               "sha256": "9b5b95b375e4a6ce4055ffbe69bbdb695d092f5723feb13db7d52e9855af9bb5"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/hub/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 54908,
+              "sha256": "50a320e33ec2b59417be178f27167a3296170c5450a80153c5f2c2639bf2ebc3"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/hub/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 58692,
+              "sha256": "dbc0549627148bf94cfaf6e02f068d1575a2b280f61125287335f621c1a329ba"
+            },
+            "desktop-light": {
+              "path": "nl/sync/hub/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 94012,
+              "sha256": "7760446e03db58fe132d886da81c5c67e6512b6d7b072ff79d9c2f195e14c4bf"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/hub/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 100008,
+              "sha256": "d64dad5836a97d016af4bbe7ccda2235f6a79f99d320670ccc4bd49be843f4c6"
             }
           }
         },
@@ -32561,6 +36498,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/provisioned/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39830,
+              "sha256": "dcec61011047aca676ed8c2e3ad24fbb600e756ff1a1bd01b731dccc0fa24594"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/provisioned/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 39636,
+              "sha256": "b643b8060eba491322836cb52022aa123146738be8fac18c47e6e27a02501dbd"
+            },
+            "desktop-light": {
+              "path": "nl/sync/provisioned/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 101994,
+              "sha256": "08d87a3ad99c6c86770b19fa230cb35c25e2186aab358070438fdb068490e3e3"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/provisioned/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 93352,
+              "sha256": "c02018c36fd342274c77d133adfe1edb6bb3a8dacc8e33802b47f0e8e71c5494"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -32821,6 +36790,38 @@
               "height": 1800,
               "bytes": 93080,
               "sha256": "727c8d2208e50b560c4e90727e6d7c31bbd551c8e5399356cdb5581bc26d4f89"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/status/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 36290,
+              "sha256": "da4beb308b55aa551a629df606220895b1d904906494965aece9746c2637bbf1"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/status/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 35564,
+              "sha256": "2542c3913d3c7252c0aea5a2264ce717ea9e09c3e66f1f4c8110ca465f418f52"
+            },
+            "desktop-light": {
+              "path": "nl/sync/status/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 107194,
+              "sha256": "f2544028a2b40170463b3d2dcf140caea0b9f97cfc5342788c66ff33e6560149"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/status/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 99630,
+              "sha256": "55f25caeecb29b6d6215205635af0cb577d6380fcc2627bd8a432675824ffe19"
             }
           }
         },
@@ -33087,6 +37088,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/verification/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 62884,
+              "sha256": "6e2d316bb8566eca12c720b2df5b1cf97267cfe6bd5e4a2b164d810a1e5d3c27"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/verification/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 61724,
+              "sha256": "741cf4a030929b4176046cf22384208d22044a6e5950d8a8633ee6fb3e2f48e4"
+            },
+            "desktop-light": {
+              "path": "nl/sync/verification/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 106640,
+              "sha256": "ddd5cd419a8bd8a32bf179c42a9d9c1d6ef9f846807c2399192abd55727ef980"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/verification/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 91604,
+              "sha256": "055baa6c6839163acbc798df90e823703f50dac2df1ae844850be683f7e18e32"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -33347,6 +37380,38 @@
               "height": 1800,
               "bytes": 136310,
               "sha256": "cf3ee8aada226e8bba03085770ed169939d5ff358b8e8226a1d7068a2f641aaf"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/node-profile/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 50762,
+              "sha256": "779140b693a429f3b751416ee9f8bb50bbdb7bff424904c9639007881fca08dc"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/node-profile/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53050,
+              "sha256": "fb56016b489838071b8b53d96af033145443b0a20344e27f50fa09b2e242ec9c"
+            },
+            "desktop-light": {
+              "path": "nl/sync/node-profile/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 134638,
+              "sha256": "a8103a5d1962343eee110c9b2b9a331721e536c68db7aeae4c90ba4e74c570c3"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/node-profile/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 142850,
+              "sha256": "3f4509016a887559584c125b0955f768e51de00671c127cc229f4d0b84f163fb"
             }
           }
         },
@@ -33613,6 +37678,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/backfill/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 50284,
+              "sha256": "89da7d9ea1e8ebe2e0c06f1cf508d9134531a2c3c3ec027fa046b82eac092b3e"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/backfill/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 53190,
+              "sha256": "bbf3faa5c488f660c218b3fedaa7a50c4ed60908cea9c8a86555edd1b3578447"
+            },
+            "desktop-light": {
+              "path": "nl/sync/backfill/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 144320,
+              "sha256": "4cdc676b527525fe98e7b807cfc7030f82655f12351d0e2d40e0254cf5086138"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/backfill/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 151794,
+              "sha256": "c83b79adaef14dd637bf6e9cc0a7bfbd4aaec068a59de336044a664a32f480fd"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -33873,6 +37970,38 @@
               "height": 1800,
               "bytes": 159796,
               "sha256": "e1da928f30600936bacec34961ff4efac57841d4f5900dc2d737e58512ee8dc8"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/stats/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45718,
+              "sha256": "929cc80e917e8b1bd74e971d1d2b6fb424186fa25c67c7c6c33025fb6d959fa9"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/stats/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 47122,
+              "sha256": "2c715ec19dcb963936c056a05d1b26391c8ed49cd948e2fff2702b478014bfa9"
+            },
+            "desktop-light": {
+              "path": "nl/sync/stats/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 159832,
+              "sha256": "953020b95943b9ba42336ddb38aa1bdef20468d7c0c6c8e60c2f1bd28faa59db"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/stats/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 166598,
+              "sha256": "584573aa7019c20e155327f472ea69495bd6472deed261f1663bfddeb370d099"
             }
           }
         },
@@ -34139,6 +38268,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/outbox/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 46114,
+              "sha256": "82b15c79417277af02343216ccc1d5e0569ea1179c2dd2743af18f2ce0aae5e6"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/outbox/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 46116,
+              "sha256": "ac9107ca625c15328eb2fb10fa948828bfa8d38e974ea0ac048effee51ff2972"
+            },
+            "desktop-light": {
+              "path": "nl/sync/outbox/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 128784,
+              "sha256": "9ea49236522f528c6ab94cf25fab5ca2b1173343f231937c10336adc55189872"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/outbox/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 134504,
+              "sha256": "2a86fedde9b04391ce67a5b172b7ac5608c9b936bd422be22c8c8b4cd8772081"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -34399,6 +38560,38 @@
               "height": 1800,
               "bytes": 118070,
               "sha256": "b7f4e0bf8492dc024f945a3b6eb04c9acf4cf3322de834836faaf3b4ceb01514"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/conflicts/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 29268,
+              "sha256": "b634749a2c2167df535b5c0b908415962ff0e33892367588cad0b5883ee181b7"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/conflicts/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 30318,
+              "sha256": "4fbafbc02d5b22641f1312062e74c33e4b687ba55cb88252203de7f0f66a3acb"
+            },
+            "desktop-light": {
+              "path": "nl/sync/conflicts/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 116398,
+              "sha256": "30489447ac5452118023a1dc8691981c0696090966a51b32ab3f493602d78189"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/conflicts/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 122510,
+              "sha256": "5d00be27f0dcdb328b3d397f5594b474bab880f9adc6c9c7ae204f8ca3480e4e"
             }
           }
         },
@@ -34665,6 +38858,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/conflict-detail/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 96864,
+              "sha256": "76a48a165ad5feb3a257f7abcb0eba1c52bafee314805e0d19287b2c4171aaa0"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/conflict-detail/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 98260,
+              "sha256": "0980938a86d3fb619c3383091410bc2cf448d0f24d6845ab16d48c36d7f1e8f9"
+            },
+            "desktop-light": {
+              "path": "nl/sync/conflict-detail/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 183438,
+              "sha256": "188539a6f1a72ff940759a6e0a0955a6342c7dcf0c32c27eeb0408f3871c469e"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/conflict-detail/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 187880,
+              "sha256": "44f8b39c4df6f6bb35215d32a302b8063972649b2c8c4ed0dcea4d5cb6cd90b7"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -34928,6 +39153,38 @@
             }
           }
         },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/conflict-combine/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 30008,
+              "sha256": "5dc7b58e9bf07b84d7f4f9399b848f92d556af325bb737abebc9b9a67bcf2f8e"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/conflict-combine/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 30964,
+              "sha256": "055446c735f7eb6d662c7ffef2d957585e65d4719dccc98c06f32c6c0aeadaee"
+            },
+            "desktop-light": {
+              "path": "nl/sync/conflict-combine/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 120160,
+              "sha256": "78310502cb3e8238ecffa60adcdeba55e9be19cd5da7ced7eb698eb959462ed3"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/conflict-combine/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 126898,
+              "sha256": "fbb425271b618c3aed2ba12d80f00740f34128d6bac6eac516cbd79e42053143"
+            }
+          }
+        },
         "ro": {
           "variants": {
             "mobile-light": {
@@ -35188,6 +39445,38 @@
               "height": 1800,
               "bytes": 143678,
               "sha256": "f36eb27bc8331adea00ddc43297253b9dd8838cae41e0c00dc3ba2a7e83b8dd7"
+            }
+          }
+        },
+        "nl": {
+          "variants": {
+            "mobile-light": {
+              "path": "nl/sync/maintenance/mobile-light.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 43462,
+              "sha256": "00d7f703fea7d5b87457f5d20a3bc825668d7c0fb21aac8db4098c5762afdeb9"
+            },
+            "mobile-dark": {
+              "path": "nl/sync/maintenance/mobile-dark.webp",
+              "width": 750,
+              "height": 1624,
+              "bytes": 45886,
+              "sha256": "ebf8b8e9842394393325332f17f6f627186bc6a9a115c6edf3b83d766f7de72a"
+            },
+            "desktop-light": {
+              "path": "nl/sync/maintenance/desktop-light.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 139690,
+              "sha256": "a723d3bc66f1c557673e829e0f7661d1cc0380525383ce65f836ed3a4eeecd51"
+            },
+            "desktop-dark": {
+              "path": "nl/sync/maintenance/desktop-dark.webp",
+              "width": 2880,
+              "height": 1800,
+              "bytes": 148046,
+              "sha256": "07e0263b8384b4eec0b5addeebaf9b5b051aa4c56aa6044de0b892fb43da40ed"
             }
           }
         },
