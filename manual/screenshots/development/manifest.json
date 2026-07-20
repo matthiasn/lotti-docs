@@ -15,8 +15,8 @@
     "da",
     "sv"
   ],
-  "generatedAt": "2026-07-18T15:39:27+02:00",
-  "appCommit": "91bcbbb5877ee8f5f955a8f083c54d2857c99cf4",
+  "generatedAt": "2026-07-20T02:32:18+02:00",
+  "appCommit": "890a0b86849a2943545d15853abddb184931529e",
   "cases": [
     {
       "id": "daily-os/agenda",
@@ -5055,29 +5055,29 @@
               "path": "tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 67986,
-              "sha256": "e34ad47fb9e2b8cee643f408dff407dcdb00f80800e56730308621ac3b0ef0f4"
+              "bytes": 94424,
+              "sha256": "bf4f7f1e1709a3c74c4aebb43bb95be0c256c9ac068c0ff385d483f0846912ae"
             },
             "mobile-dark": {
               "path": "tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 69702,
-              "sha256": "febfe5b7f33072b04e725dbe4c67c2e1a0f52d4a5f6bef6a4e5d8647ed6b0a3b"
+              "bytes": 97674,
+              "sha256": "81dd516896a12bddee19db6455a3cddadc511c09690e2ef49b02c530290a764a"
             },
             "desktop-light": {
               "path": "tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 91322,
-              "sha256": "0e6a83fbf01447140c75a93832538e8eda37677b6f84d411f10192334d4d91a9"
+              "bytes": 173618,
+              "sha256": "610fd4a862121db5e00390870c33c1e072b729938a4c8bafd315a69a0b40ed38"
             },
             "desktop-dark": {
               "path": "tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 94056,
-              "sha256": "72db5430d74604cbd5b8a2f0e205b45c4036e33ea8a007c547420b6109fd978e"
+              "bytes": 174874,
+              "sha256": "84f8abfcb55a890de27fe7fcfc08031cb1b23aa3292e257c8861dbb4a9f8b3f3"
             }
           }
         },
@@ -5087,29 +5087,29 @@
               "path": "de/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 79284,
-              "sha256": "fae25426f4d8adca8d9701b38daed71f7ec0a06ed0bdbe640046356459360b45"
+              "bytes": 85914,
+              "sha256": "3ff70547989980ce0298abc324dc6360ae4fcda06417410f9f1ecebf85e116ee"
             },
             "mobile-dark": {
               "path": "de/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 82546,
-              "sha256": "a4e3f5e9cadccb66f5dc5b1b703024ddb2421d143766f5857cd78c397929deee"
+              "bytes": 88112,
+              "sha256": "cfcd79a2f25d483fdf8ee9d2c59fc8cbf59d74c01f75d32d470b38144e8dedab"
             },
             "desktop-light": {
               "path": "de/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 102894,
-              "sha256": "d9202a0c175ba4093ab589c589dab64ba57600033b1d17bf34991de88465a3f3"
+              "bytes": 172120,
+              "sha256": "e61ac08051bdd2a5d33a73d5e5888e3f765f330763fef769e8d1884a48454211"
             },
             "desktop-dark": {
               "path": "de/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 106632,
-              "sha256": "be8e8f9624cac548a022c5776b1eb682d5505575f62d7868563bd67d4a64165e"
+              "bytes": 170466,
+              "sha256": "7f28dac29d6f9cd652934d58679fabb3a3897fc1ff0720de7062804487c2caee"
             }
           }
         },
@@ -5119,29 +5119,29 @@
               "path": "fr/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 75962,
-              "sha256": "7b62b847a48350d7685de17f97b2ac7760c5b71a65c6c59e3123da026f59397f"
+              "bytes": 80478,
+              "sha256": "ed3a73720cd39d395f203cb3f591f1635e01df93cb982bbf419f7d91cb0c9c45"
             },
             "mobile-dark": {
               "path": "fr/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 79816,
-              "sha256": "a3c400477a75cbddff935fe8bc63f556b49d6fd0d61bfa5fde96ac8c77c04335"
+              "bytes": 81582,
+              "sha256": "d43a8751234d4f9ca7f4681ffee6897ec52ac8dbf97235f436035be6101f4d00"
             },
             "desktop-light": {
               "path": "fr/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 105310,
-              "sha256": "eead4c1377200557c7eb055772205ea0e471dd6e2301f60f291bc637c443d51d"
+              "bytes": 183662,
+              "sha256": "b7dbce875caa3a79181a91474c993af568a6a7245abf8b8bb41d19d3bf763ece"
             },
             "desktop-dark": {
               "path": "fr/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 109098,
-              "sha256": "1e6a3cf7dc09fbff41137d6bb41929f44318ab97d7743ff81441eec75d456f57"
+              "bytes": 185540,
+              "sha256": "e80f93c726e7185cc77cceb4a6c1dbb2a0f43c2e1279389b24ee6fc8171a48de"
             }
           }
         },
@@ -5151,29 +5151,29 @@
               "path": "it/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 87200,
-              "sha256": "52989ffd0c76bddc2f109117760d228b61c67619484241499852f1d631b40c83"
+              "bytes": 78692,
+              "sha256": "bc8e089f7b613e575affa6e8321ed4550f7299d4031132edb2b1c980d215fd85"
             },
             "mobile-dark": {
               "path": "it/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 90718,
-              "sha256": "eff32990d23e003771f5c4f781be852402055135ff393dc3f4db3dfc26e9f5e6"
+              "bytes": 80384,
+              "sha256": "fad79532fa04d69ddc6a08d3f471dfca9fca9f5f88038bf9557f9c0ad784619b"
             },
             "desktop-light": {
               "path": "it/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 163704,
-              "sha256": "f8513be5754b23132cef4d4cf8b0c8db2263b800af7e66cd7862ee58019301b2"
+              "bytes": 183078,
+              "sha256": "3b9b1e934b32313e395d6bb63759692ab8d950608715cf2b58b971737f742a09"
             },
             "desktop-dark": {
               "path": "it/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 164218,
-              "sha256": "2ea3739d09d27a76ddec9fbd201b51c58bfade856959e90f5d1364e196cf8644"
+              "bytes": 185084,
+              "sha256": "daa794dc01c71ab6ee82ae9e432d672128ad4ef9531f9d07a308cc4d39f85707"
             }
           }
         },
@@ -5183,29 +5183,29 @@
               "path": "es/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 77728,
-              "sha256": "ecf458d13c4f149efaf08da0e7136cf9562b8570f7e53d6bbd9520c5f13b5e50"
+              "bytes": 81346,
+              "sha256": "1030443b8866e64870d00ac204378152bb12b2739f71ce62a0f876f9465e1b2b"
             },
             "mobile-dark": {
               "path": "es/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 81950,
-              "sha256": "b2dcdec74df47b22a0d536e52a52088ff283e9d5ad73a712533811bcd5d405d1"
+              "bytes": 84584,
+              "sha256": "ad8b53157b9b914c79cee63cf3dd24fc5b6b110680deb754b49559f7b6e7a3b1"
             },
             "desktop-light": {
               "path": "es/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 105386,
-              "sha256": "b980e5800dd56f77a12534303220c08f7e71599da4483c4d238430e25b8cba76"
+              "bytes": 183796,
+              "sha256": "5dc65a73e0f8e77dea4096e676f4b94debab175a7f209189dbaa9129aa0e2a2c"
             },
             "desktop-dark": {
               "path": "es/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 108908,
-              "sha256": "1027651eccb6bd7a654f38114b2be9cca851b823948dd229be791e45f8d22a64"
+              "bytes": 181160,
+              "sha256": "80495e6eb8ff31cc6a74abcc06565cb62c212427018ad447a1ea262e63b70ae0"
             }
           }
         },
@@ -5215,29 +5215,29 @@
               "path": "cs/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 71972,
-              "sha256": "1d9ec804c4757860b4f663b7740868178f77572519acd5cf267eb35cb8fdf320"
+              "bytes": 81860,
+              "sha256": "005714ca2e61bf0bb3441c4d617ca36e20a45b43f925b3bcff85adcb93735b82"
             },
             "mobile-dark": {
               "path": "cs/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 75956,
-              "sha256": "2eab0d95342bf842756daf64f703d5440c53fb8e42ab268decfb83f4ef756f4d"
+              "bytes": 83762,
+              "sha256": "912ae76eaf5d75c02edd4f52281c3f19531c2b95486fe3b4ef2079218fbfdace"
             },
             "desktop-light": {
               "path": "cs/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 98472,
-              "sha256": "8bdbfb90c6200fdc10ab83ff7583a5ce423ba5e1f7db849682af4d2481faa2c0"
+              "bytes": 177242,
+              "sha256": "e8a7b865b1ccf7f5357868d74b25eaebfe5e7f752a0869bfdcd096c6aefbbcc3"
             },
             "desktop-dark": {
               "path": "cs/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 101722,
-              "sha256": "0ce750bf6b0c1965d8f7cb4b9b10345d90de467d9620f1638caeb0603f25450e"
+              "bytes": 178822,
+              "sha256": "9c1d562d1bd69e3fd5e6cd75bad75dcf1eea119ee7d178426fc7cb1e47407cc2"
             }
           }
         },
@@ -5247,29 +5247,29 @@
               "path": "nl/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 86740,
-              "sha256": "51ab8b4d985665d653e903f6f20dab80000fc9cda6f53f747e3abb065f07061f"
+              "bytes": 102756,
+              "sha256": "07de2be0305189ff862d96aaf35336ca6354583fd4ec585a78fa19a4a0d3bd06"
             },
             "mobile-dark": {
               "path": "nl/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 89776,
-              "sha256": "7f504b54a9f362041660d9847e951ed7b466f2d41498e0047b84502ed8c71727"
+              "bytes": 106666,
+              "sha256": "e29787c142a2417bb0aeaead6b9bf07b8175d772abbc81a158bc56e81ad49024"
             },
             "desktop-light": {
               "path": "nl/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 172514,
-              "sha256": "d6f0cdd9a4b8d661fb63f5f4eae593803d0761af744b55139640cc2f01a5a8f8"
+              "bytes": 180742,
+              "sha256": "35a0b060ec8d19ea67b29e4e3cc34da7012a88e9698b85714f37e47aa2657e60"
             },
             "desktop-dark": {
               "path": "nl/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 174918,
-              "sha256": "4736cf6dfadd1d44e461085c53163c1a8dc5f6fc60c68dde10692623152ee496"
+              "bytes": 184494,
+              "sha256": "f4247ae75b285adec3544e3308b88b837d46ff2e077af2b04e8faa52e4758cb0"
             }
           }
         },
@@ -5279,29 +5279,29 @@
               "path": "ro/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 75452,
-              "sha256": "544543007adc98847858d420c00ad780c8443519b35246534202d92f2510b0aa"
+              "bytes": 78248,
+              "sha256": "df71d1e6b658b8feb3e2423b13e626431353e1d22fe6d1310d953a6856091c5f"
             },
             "mobile-dark": {
               "path": "ro/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 77928,
-              "sha256": "be45eabb1a1fa92c32228f8234f5db2c6c17ee5239a467925ff90f70bf3c9d26"
+              "bytes": 81568,
+              "sha256": "5a9b874523a983fb42f7b1c9145ce1ef374c563ff1a6234f623e316b47d4d87c"
             },
             "desktop-light": {
               "path": "ro/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 103504,
-              "sha256": "db8f14b9c08866588c49860dd45446dfc75bf2e6f24244b6abf1cc6f71f31689"
+              "bytes": 181984,
+              "sha256": "5652a60691bea8993919a45a057db016e47e21552ee9841b517acf7dfa3039c2"
             },
             "desktop-dark": {
               "path": "ro/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 107328,
-              "sha256": "40c59cc38f1c6434eecb0c4b1a56b680e4a3f26ba904317ba4074e6ae9c8432a"
+              "bytes": 183616,
+              "sha256": "3d06db6abb023f1f3e388b4a738ca699f4e50a514a5b0ccf3d0d5bab76adc046"
             }
           }
         },
@@ -5311,29 +5311,29 @@
               "path": "pt/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 83918,
-              "sha256": "9dd85f2286389c8bbf38e03a7b8be77d2da8069871d2894e9737cb50c78760e2"
+              "bytes": 82720,
+              "sha256": "b26de9adf8043fe9a34403640ecc684a8dab66362eb05d152fdda3d7b418ffca"
             },
             "mobile-dark": {
               "path": "pt/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 86348,
-              "sha256": "1fda617ae1d1f74e54e7c798d405a2b43b9a4283d880499f3debb7f2e86f203b"
+              "bytes": 85394,
+              "sha256": "8141289e0d197d3072c06e9c4ef1555c8f5c9a9b1ab910d4f0a67eb99d4d4530"
             },
             "desktop-light": {
               "path": "pt/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 170346,
-              "sha256": "233bb70b64b259f9f11d2cc15a0982da5104e5ca36cb55c343227b6eb464db57"
+              "bytes": 170046,
+              "sha256": "676d326a0212acb2319688c8e09dbf28adef0a1b09c2df3618a782732a80772c"
             },
             "desktop-dark": {
               "path": "pt/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 174630,
-              "sha256": "85a5f93c30e82247b90efd94af601213397037a5272425bedd9a68a7290a0a34"
+              "bytes": 170108,
+              "sha256": "a5c770f5551d1124a6593d7d986e06dc6a21ea7d001aed3c92c9d6b300968ece"
             }
           }
         },
@@ -5343,29 +5343,29 @@
               "path": "da/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 83990,
-              "sha256": "08cd6e7c5092e9f1dc0b6de699bc9aceaaf041910b02308e62b8378002648bcf"
+              "bytes": 84256,
+              "sha256": "b7b425935a5fd01469db6409acbbd15b03ce0f21bdfec60b9a81192561eccdd3"
             },
             "mobile-dark": {
               "path": "da/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 87656,
-              "sha256": "19e16ce2b064fcf85f2dd127e709c02d340b4d416878132657a96325689f3b30"
+              "bytes": 86376,
+              "sha256": "372e6beb9a9a84ebeb4bb8ab50a54b281846a73798ed969ba98ec1853ab15fc9"
             },
             "desktop-light": {
               "path": "da/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 160462,
-              "sha256": "27108f5a29270e77b22522e7c7f7de64dd58df52409713e68676c0008b2ea419"
+              "bytes": 179958,
+              "sha256": "99d03edaf5aedd2d64a52aa75846ee1327cedf82e8b1da2f3c30c38e887876a9"
             },
             "desktop-dark": {
               "path": "da/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 163962,
-              "sha256": "061e56f03805f0f037017fe70d85454124daff4c0f06ef5efeba3f42c44efb7f"
+              "bytes": 181676,
+              "sha256": "ec15765512dbad6642928024343cf6e5b77d9c419ae2e0473d9ee533b407c493"
             }
           }
         },
@@ -5375,29 +5375,29 @@
               "path": "sv/tasks/agent-card/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 86216,
-              "sha256": "c570bf15e34a30b22a6b225564e69a73a4ee00e4c285411f6a76a1b6a7de85bd"
+              "bytes": 86386,
+              "sha256": "3f118500854f1afbc10aa91d98ee4e1b579902a7e8fb8b8eaf0fcff2cea41151"
             },
             "mobile-dark": {
               "path": "sv/tasks/agent-card/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 89238,
-              "sha256": "57c42fc4c402ce67e8cbf1e9d9d5f8b0359cb7d6dc39a6e8df7bdf646c7eaae9"
+              "bytes": 88590,
+              "sha256": "2d674a59ae94d48ef896e4be4c89096acf64e0f0bf43f5b01b0d565bcd7b139c"
             },
             "desktop-light": {
               "path": "sv/tasks/agent-card/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 172554,
-              "sha256": "a72543bdb1564b3c104e287cda45c470d382c0d3e7a8e3975453b4e49458c7b6"
+              "bytes": 182144,
+              "sha256": "832591b0d189d1283776653e0cf022633d1841d2ea4a1aea4c30f76a03279ce2"
             },
             "desktop-dark": {
               "path": "sv/tasks/agent-card/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 175916,
-              "sha256": "295fb7a145f515fc698d2551e8551d448a5a3765d68ed7638e1b0577509ae565"
+              "bytes": 184366,
+              "sha256": "96eca9b1d8fab32c51eb59c4c962d0bb5541ddffadb41fed127b2c17d1e68b76"
             }
           }
         }
@@ -5414,29 +5414,29 @@
               "path": "tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 79558,
-              "sha256": "d07ba6549b505ce3538e223033f7ee8b6697d67c76538d12db52fd0df6692732"
+              "bytes": 85906,
+              "sha256": "69783e403e391a3b0ca389dc6899001ba895a02e59588e12b3a21e96ec93fd9f"
             },
             "mobile-dark": {
               "path": "tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 83502,
-              "sha256": "efa1f1fce03b794e08eb292ef5060e3d75b2d308a01adcd65c11ac274c14c3bc"
+              "bytes": 90456,
+              "sha256": "94620ac2d5e04abae2b0d2616971c2d25e5d079ba9c8949f1aefcf8f4c6b417a"
             },
             "desktop-light": {
               "path": "tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 108702,
-              "sha256": "a9247918e2769e81eac55ebdee02b317ef5049e72b309e651d84e6205a129205"
+              "bytes": 136522,
+              "sha256": "32085d875e25b8f833bddfac1e6fef24467e7d699091d497ee19b32b824f989e"
             },
             "desktop-dark": {
               "path": "tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 113590,
-              "sha256": "d332cdc95e3f90b5f77f15556203a3734cb7a075425612e9700e480c4cae9f1d"
+              "bytes": 142472,
+              "sha256": "d726e8933e6f77c654f34e175d6f65b072156f929950542098a59a6844c6a76c"
             }
           }
         },
@@ -5446,29 +5446,29 @@
               "path": "de/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 95546,
-              "sha256": "b85f42a971ef5d03766e0dc0de7b30e0d4139b1b7a666814b3876ffc8943f0af"
+              "bytes": 104494,
+              "sha256": "64a1ff8192815682f75e2048e7d81b17d9f148d67e74340505185c6bcf2d95dc"
             },
             "mobile-dark": {
               "path": "de/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 101354,
-              "sha256": "92324433e1cc72e0d15ea4261e3d2a5610930605d4cac8b20d211933b3e57006"
+              "bytes": 109100,
+              "sha256": "8eaad26499b6022e2be8651b1a341012812ba9abb1628029e5396d7cf0f6e19e"
             },
             "desktop-light": {
               "path": "de/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 129162,
-              "sha256": "41c4052bfa20783872c276aa52025995283c0702c49682b9afdd67345e604ddd"
+              "bytes": 133898,
+              "sha256": "17e527bbcd2fbdea7e4b0d8a68410e3936ded9e1b5d402b1efc8a0344d180b73"
             },
             "desktop-dark": {
               "path": "de/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 135570,
-              "sha256": "a79f90a8fcc86f98dfd156ffc5b603de7e1b30fefdb7e65a7d532a409df4556b"
+              "bytes": 140336,
+              "sha256": "41d16491ab352eb571355186bf47be20eeb960a57d9db34c8dea2f7646095f60"
             }
           }
         },
@@ -5478,29 +5478,29 @@
               "path": "fr/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 95490,
-              "sha256": "d8ced7886aac67d8418c620a036ca90769e7c707b45c13fe8cc799f72efe21b9"
+              "bytes": 97114,
+              "sha256": "3f2e06888f7140d124a394ebf0dfa56d118bf74fd74c2c1b71a24b322743578b"
             },
             "mobile-dark": {
               "path": "fr/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 100654,
-              "sha256": "2154f9918c75365156e787633aea333f103f0c00ff003d92724fa1a25bce2ab9"
+              "bytes": 102190,
+              "sha256": "db5ac06207303600e97e6e5d7ba3a96b56ddbf21de3b3c77ad94cb9d4d1c35b0"
             },
             "desktop-light": {
               "path": "fr/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 129660,
-              "sha256": "fcea39fc55ea2afc0c3970bd29a17ed25caba61fc4078fa9e449d160fe9f8bdf"
+              "bytes": 157182,
+              "sha256": "9b3f8397654d7b5ae02bd3713310b31ab595c842cc36b5afd9348d5785db50c4"
             },
             "desktop-dark": {
               "path": "fr/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 136526,
-              "sha256": "7b603dafe377a732420d3828921099ba560946734e02e4b16c67580991fe99dc"
+              "bytes": 165380,
+              "sha256": "f86d8e48fa2c2d813dc7ec0748fe77f2afe6a88dbbb68a8356f286375b764cef"
             }
           }
         },
@@ -5510,29 +5510,29 @@
               "path": "it/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 100934,
-              "sha256": "ce2702d04ac0c810ef433094b17c05afab97e7a7308bbbe9d5c61e46a171fbe9"
+              "bytes": 100496,
+              "sha256": "8e0c89b8b0fb4e689e37d3fc72a65651479aebaac982f4781af5550df76c5d93"
             },
             "mobile-dark": {
               "path": "it/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 105534,
-              "sha256": "be086a2ae05e6436c22e99a480a7b45f46c52a75da088926efb54ba680187d4d"
+              "bytes": 105184,
+              "sha256": "11deab001d130610551c613a83e145c200621d97403f3e1e2f04660377dca5e5"
             },
             "desktop-light": {
               "path": "it/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 128132,
-              "sha256": "5be5800005cdeb23ad1600ed6fe9cca90bf798266f224aa6d37048c42b96dd86"
+              "bytes": 156758,
+              "sha256": "c5ca51d9c9a8a3410e69d3407836228638e9918589d264f71bb66ca1ca687e80"
             },
             "desktop-dark": {
               "path": "it/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 134534,
-              "sha256": "fc84c87256ebb4a4a9f7140d2c6707cb06d59fbcc8425ec38a55508ddd811ce9"
+              "bytes": 164878,
+              "sha256": "7c596a9d171bafa4c074f383acbb0ddb4870e744f17ecd5da088c627d5eee0c0"
             }
           }
         },
@@ -5542,29 +5542,29 @@
               "path": "es/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 101340,
-              "sha256": "08d3bda0f3e6e613d6b6a734d01198fd7a46118f00de839686df7381c7a1451c"
+              "bytes": 105602,
+              "sha256": "36f3fe6c5f364bc4291665c0ba037baf507062ed49fe4318a6e70e273b37e56f"
             },
             "mobile-dark": {
               "path": "es/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 107486,
-              "sha256": "e7208b29879cc84b7052dbba1b8aa0b7d869d81254a521f577f9d6e6995ec37d"
+              "bytes": 111228,
+              "sha256": "8f7798632187f97a9025be759170f5e0c30b6988dc150c1e4bd11d9b06df5ba2"
             },
             "desktop-light": {
               "path": "es/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 134612,
-              "sha256": "20826fa5199eb97063c51740a4de14dfc6ce254bd4b4504366b94421d3b7c4f7"
+              "bytes": 139550,
+              "sha256": "f6b81c26b189a170e84be4ca29841ba4602bdcf00b52b099fa16355de0748aeb"
             },
             "desktop-dark": {
               "path": "es/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 142114,
-              "sha256": "630fce46ba3911fdd94498916b4c2e7213fb8e7b0299b332f7e9c6b52b258b6f"
+              "bytes": 146788,
+              "sha256": "da6c586490d6982a7bbed4178cbc34ebb3eaf49185d0a5ef3506e961fa9ea477"
             }
           }
         },
@@ -5574,29 +5574,29 @@
               "path": "cs/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 84746,
-              "sha256": "8cf5b5345e0d6414612cee3ae18ebc63e826069ce5a51c5488825bed87ff21d0"
+              "bytes": 87020,
+              "sha256": "f1033f93998ace64fe684e14a90331a5af6cf717e6e6cd5f8082e145b6e06b57"
             },
             "mobile-dark": {
               "path": "cs/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 89258,
-              "sha256": "7a14119e1acb614b456e39123fbfb5cd31a163cfbf527306ded3918ca2f779bc"
+              "bytes": 90892,
+              "sha256": "2094477d7bcff22080b64fc653655b4fb18ce454177b3874069715cd7169470d"
             },
             "desktop-light": {
               "path": "cs/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 116530,
-              "sha256": "af07deaf1b750b918dcc8434aef9cda8b307beceabffb2e2d501f753cfd4cbbb"
+              "bytes": 146608,
+              "sha256": "4f96eaa42fdc20eea041019f04aef62345c48253e8d4f232f7c9fec15814bae7"
             },
             "desktop-dark": {
               "path": "cs/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 122724,
-              "sha256": "8ffe8a9fc49172d64238f02cabaf19c636ff95f1cd676555b542dcf7bc999c4e"
+              "bytes": 151436,
+              "sha256": "f66495ee1d62e87359e5d2059de14d5c93179d28b991fe29da138688f02eaade"
             }
           }
         },
@@ -5606,29 +5606,29 @@
               "path": "nl/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 99762,
-              "sha256": "6a65a3b8fbbe0bf03ef82712d42216b08086548860eb7decc332fb98c630c5fe"
+              "bytes": 103640,
+              "sha256": "21d2e996ad2685d41a9532a56a4dcabc3bb74c48b8c69a8bac12ede990e13b74"
             },
             "mobile-dark": {
               "path": "nl/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 105400,
-              "sha256": "44e9f8c94a0a9ae5abba55b5ad29864391ef40315d60dee2a42bd3d1af2b1d54"
+              "bytes": 108202,
+              "sha256": "89668c429a1956abaeeb53f7d8a9824b8fe800abc50d0febc7e0e0960b02bd67"
             },
             "desktop-light": {
               "path": "nl/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 132844,
-              "sha256": "a82dd57e13338d86c6b21d2d0b5ec64a0891240e9d39b9a690f5f59d34eae4b3"
+              "bytes": 144780,
+              "sha256": "84a2aa2442160eceff3c803008124eac49b9f104692c82035d9424909b3ef694"
             },
             "desktop-dark": {
               "path": "nl/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 139940,
-              "sha256": "7128688ea1dbdb57d27637e73b8f6d6fd7d61a95342ecae8206a811de0eab1ef"
+              "bytes": 152432,
+              "sha256": "0d71c819048e0b758d0f5467363e59b3fd7b9cfaaea84960d6970269c15f9791"
             }
           }
         },
@@ -5638,29 +5638,29 @@
               "path": "ro/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 95724,
-              "sha256": "56c604fbe4e1f0dd70eebd8d56ef584163dac7183b6c5cc256691ec9204fcff5"
+              "bytes": 100356,
+              "sha256": "b56d975d46c58e87d07ffe6999ed1b0ba12a9cec92722ceb68245b7720204faa"
             },
             "mobile-dark": {
               "path": "ro/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 100220,
-              "sha256": "671d5ce9d8d145579f1e230b63607dc974394516ec215223741cda6c4927c1f7"
+              "bytes": 104682,
+              "sha256": "228582b3d9244810b1af608ee1ef8733aa6bb5b36095c0388820d41c78db630a"
             },
             "desktop-light": {
               "path": "ro/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 129886,
-              "sha256": "550a53ad013a9d0e0995c715def8d88d249fd59c7197a2d8d61d1c6e56c51802"
+              "bytes": 160022,
+              "sha256": "476bd21a031000758a558c1ba2bc0a1bfd9bd27ff84e77a74d94e160c9b14864"
             },
             "desktop-dark": {
               "path": "ro/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 136232,
-              "sha256": "f1070e991a1b987da6446bda7d61a4cb0b51f2aee8c37d9f10d0d6f5c0201667"
+              "bytes": 164662,
+              "sha256": "92778de64644696569e6f536c75371843a0ff37b40b7e2e993134a4d2463a867"
             }
           }
         },
@@ -5670,29 +5670,29 @@
               "path": "pt/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 101978,
-              "sha256": "14224503d85a344463ac61db6799e8afe2a74a72a0e7b269b0d61058a05babd2"
+              "bytes": 105032,
+              "sha256": "14cd0fee3e28c707465bd2c652fe5cfb6fe69eca0fae633d5e7c181b0073f04b"
             },
             "mobile-dark": {
               "path": "pt/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 107836,
-              "sha256": "33512c1ddbc63272f403e0b5a222c926b9b455aacd836dd91524cc66afad1d74"
+              "bytes": 110248,
+              "sha256": "4be825891a027ec5018c3ae03c99a4ce32819d8178c6e550596ca50d0cbcb6d2"
             },
             "desktop-light": {
               "path": "pt/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 142048,
-              "sha256": "82af5fd0a0a8290be072f3151011444236cadb2ee1de93bd911d1ea969750680"
+              "bytes": 141554,
+              "sha256": "aefef5de98dcd08774baf818cab8ae2030e5638eae7427f80e56bc263b7eb2ce"
             },
             "desktop-dark": {
               "path": "pt/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 148862,
-              "sha256": "f21990b62ac4c610595e332d33bb96f9f51dbcb2d82b0137f21469877a005885"
+              "bytes": 148428,
+              "sha256": "2023435ba227bfe874fbe0e9fd72e8f096deb7a877152cf1cc416992968113ae"
             }
           }
         },
@@ -5702,29 +5702,29 @@
               "path": "da/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 93400,
-              "sha256": "9dc68d3b8e638ab7126075f7be5d429e457c9dbdae5d96ed23c30a965776d1eb"
+              "bytes": 96056,
+              "sha256": "f8f4599f0403d21a0de94911165fcddaa6cb29cff17b87e32aa23ed0b4d2ff68"
             },
             "mobile-dark": {
               "path": "da/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 98956,
-              "sha256": "0d2a7947fba450f8ff9898fed2856392640435c280ed6d4b948776cc838b8de4"
+              "bytes": 100486,
+              "sha256": "5893a82e6e698b959cddac78737642210ab4964f112b15658a5f278dff4497dc"
             },
             "desktop-light": {
               "path": "da/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 123786,
-              "sha256": "b159eb3e0b4b9c4b2b30fec96b26af4461408663e23fbfdbf366619f561eff36"
+              "bytes": 147546,
+              "sha256": "c2f7905a32bac59a73469ba82147fd8e08b39cfb9f5586c7fc2135043c2927a9"
             },
             "desktop-dark": {
               "path": "da/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 129996,
-              "sha256": "5f1a20e0d48581719050e5d537e6fe6f376fd8d0eee873cb2c0a99e83ef8cc0d"
+              "bytes": 155580,
+              "sha256": "04931cab33b48340e91f1f0e6defffc71ab841c58e0065b07505fe754d2c1182"
             }
           }
         },
@@ -5734,29 +5734,29 @@
               "path": "sv/tasks/agent-card-expanded/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 95138,
-              "sha256": "08dd7a2fb76e2160b50787ebe12a59a3a5435e1966098b09bcdc3d2ff1f00b90"
+              "bytes": 98574,
+              "sha256": "a100bd778a2639d1c0781a9d3142505ee24d6833a46a361d1109839ba4a79ec6"
             },
             "mobile-dark": {
               "path": "sv/tasks/agent-card-expanded/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 100244,
-              "sha256": "0b8071c936c35fdb2604554066ff4b34b96349d550bfc3f4746ed10225e4bf75"
+              "bytes": 102574,
+              "sha256": "54fa327d6dc97962385f9db5e4917b4172ef11ec48aa0ab8f814e528305c3f65"
             },
             "desktop-light": {
               "path": "sv/tasks/agent-card-expanded/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 134890,
-              "sha256": "dfe075443d43eacb876c42595e51b79a5829504398da8a31027b73befe72757a"
+              "bytes": 151612,
+              "sha256": "82ddb9291a2436ed1d14f36db52db852d6ac9130a7f8e6a271135554e1464f76"
             },
             "desktop-dark": {
               "path": "sv/tasks/agent-card-expanded/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 141078,
-              "sha256": "82bbf34922866d2ec33d645de7b5037fb7bee4b0b8fe85e4ee5c6a0434e85ea2"
+              "bytes": 159042,
+              "sha256": "abb0e0bfd7db7d9b760c66f7c657d38218276f355315db404228b6136f3663c5"
             }
           }
         }
@@ -5773,29 +5773,29 @@
               "path": "tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 75846,
-              "sha256": "de2db027bd82a77aea0f1fc77012d5d402d01e3ab1111315678b402d34d37dbf"
+              "bytes": 66798,
+              "sha256": "bf69e8f8f1789fb0f1900c5b7b02b282896e791f94baf83c52bb73ab7e04c154"
             },
             "mobile-dark": {
               "path": "tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 78868,
-              "sha256": "9fc7785134de034cb2689bf0fd35da1b711f331d97da234de8585606984de4ca"
+              "bytes": 69528,
+              "sha256": "1b76b3aac7bcbc0ff274805332072fafbb216051ee8c6b33766804448f4d792f"
             },
             "desktop-light": {
               "path": "tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 95910,
-              "sha256": "662df7dcb4068a38374eaed8e475d74bf1fab0fa1774e05c05dbb5777fadb9d6"
+              "bytes": 160824,
+              "sha256": "1e48d84dd69725133016cb24e616e826c2e0dc5e1e83e0bd40851b44a94bd32f"
             },
             "desktop-dark": {
               "path": "tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 99086,
-              "sha256": "0cf06a4e827eb5bb7d08fb66355d42914b65100c7a1a3d94737c146d500c330b"
+              "bytes": 163540,
+              "sha256": "428abba18444c3146357fd1829cb16363cb54557d1a061f98cbebf3d1cfc52ef"
             }
           }
         },
@@ -5805,29 +5805,29 @@
               "path": "de/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 90908,
-              "sha256": "9e6f52a8885067f6cd59986a5b82187db640d0bebc1e77bf12333c93eeeb3a03"
+              "bytes": 76104,
+              "sha256": "839ea14ea392dc0a982ad804cc65e4b92ba20497676fdeec9349e348351b8ee1"
             },
             "mobile-dark": {
               "path": "de/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 94622,
-              "sha256": "c10d77af8d73fddc16b89ebc9d28d141dae625a77c817bb2022da3a69f2c21f2"
+              "bytes": 78560,
+              "sha256": "fa8c549c817363c91a482fa7e0e3a160ef8f88e1c1bd7a732933d5738b3bad4f"
             },
             "desktop-light": {
               "path": "de/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 111772,
-              "sha256": "bdf4480c497088458a202bbd8da088684238797b19be6a8ba48272d95eca4a95"
+              "bytes": 170452,
+              "sha256": "450400850ca84aab8f3cd439b4373a950fb81772629e0b5a6e8c974db942b1d3"
             },
             "desktop-dark": {
               "path": "de/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 115516,
-              "sha256": "3eccfe571db068c987a11c173a3e58c11cf0a978d0be345e4f1d8235c5e85786"
+              "bytes": 174348,
+              "sha256": "4ae53a86c85df50f90848cee44deb87a56790f745248f48b16bc2d3c84099ae6"
             }
           }
         },
@@ -5837,29 +5837,29 @@
               "path": "fr/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 81786,
-              "sha256": "20cca2650e98649daa5adf81e8ea426371fe4bc41cdcdb9b76fb353ecbc32b89"
+              "bytes": 80234,
+              "sha256": "ebf5a59eeac225f1b5b5645574b8d7bec70d2421986dc7909d038e01449fbb1e"
             },
             "mobile-dark": {
               "path": "fr/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 85674,
-              "sha256": "34c0288bbc1561a1ead35c56c9131d7bd1003be468132c550486d5cf1c10aa09"
+              "bytes": 83562,
+              "sha256": "710efa9778356035cb05571cc71b414df22db07506aa43acb5f3ab710366d661"
             },
             "desktop-light": {
               "path": "fr/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 108174,
-              "sha256": "ffb4a6a5a43cf851e019e3d65822e4a5d8db2bf4be303be644fc32584fabef43"
+              "bytes": 171188,
+              "sha256": "5c2f6617660f30946a8bc0ba0ff74afb301302ced2276757c4d2d13e66fd3960"
             },
             "desktop-dark": {
               "path": "fr/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 111824,
-              "sha256": "ebcaf918a795c07a9f37f952f0231dea433d8ecae2aa2e09a6fe99ef149d54d6"
+              "bytes": 174682,
+              "sha256": "1b28c25986ac6b294d6eb6909379a5ebb6be1377dda4312cbe186955c8af7fc2"
             }
           }
         },
@@ -5869,29 +5869,29 @@
               "path": "it/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 83400,
-              "sha256": "b81b7ee5e29b436b13c9f56dfcd335f34a69b0b02ec3ab2eca6d64869ffb6450"
+              "bytes": 79354,
+              "sha256": "f447fdef43d367d7a543cddd9c77be44d063cd4924368d85abb51b2566dc332e"
             },
             "mobile-dark": {
               "path": "it/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 84946,
-              "sha256": "fa5af1f5f35885987eb9a7683879dbbb49761c0c8da5f264606d0aa1a4090501"
+              "bytes": 82182,
+              "sha256": "38a22dfad91e517c0808cdb48dbc97065f3ca6ec0cfa165f48bb9b7c8130ce34"
             },
             "desktop-light": {
               "path": "it/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 165976,
-              "sha256": "da6c4b8ecd1b3e0ab895efd93b0f92f30c1e5f1cf10605af3611a8b01012806d"
+              "bytes": 170882,
+              "sha256": "99f2ad2a293d0bf8a7062bcfa583e56581a24fb791ae0d6cf99ec209cdef5c91"
             },
             "desktop-dark": {
               "path": "it/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 169684,
-              "sha256": "af6d7226f7900edd55226fa5dfc81a7199050e7bda744b7f22aa7e3e93936609"
+              "bytes": 174846,
+              "sha256": "41498aac67c079430bd1d056565781e2e845ec8d45e0fb18468239913763324b"
             }
           }
         },
@@ -5901,29 +5901,29 @@
               "path": "es/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 88052,
-              "sha256": "5e3a4b57bcaa752fde5f486271eaf0276bc3dddce23b6e2462057639cde5c512"
+              "bytes": 82606,
+              "sha256": "c92e143bf0b1e4b2ffad190ff7c25aaf6ef2cbc1a90ed8421bb274babe10573f"
             },
             "mobile-dark": {
               "path": "es/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 91536,
-              "sha256": "834478d712d4a9a172550f32bf34b891b23f14680c1a4e3af8f1ebd811689aa0"
+              "bytes": 86234,
+              "sha256": "32f679f35947d228ae1d8580ee5937d2ffa30475d86f5b490f440b9c3449616e"
             },
             "desktop-light": {
               "path": "es/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 106328,
-              "sha256": "02f4554abe8ff750be29289dd14dcc5125701d0a33ef93acc367f345ed5ea400"
+              "bytes": 166596,
+              "sha256": "36fa5b983d0e80695920a31880ecb50120fb16131effe1772c53ee1e3a04707d"
             },
             "desktop-dark": {
               "path": "es/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 109880,
-              "sha256": "381d66053e3ccf5832531a36f21517c55c6a3b7a2259d725df6eb23df2cfc488"
+              "bytes": 165488,
+              "sha256": "f09fd2f6b1591c83bb77c7bbccffa2923c8c052193fa00f6e150619d130a49ad"
             }
           }
         },
@@ -5933,29 +5933,29 @@
               "path": "cs/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 78360,
-              "sha256": "96dfac1dab7aca8c21f1cb3cf9643e7194e91b2a1ca29ae6556cc7b09810fff8"
+              "bytes": 70276,
+              "sha256": "3436dee8b8baafb4cbc00107e18597c932752362b2364ad318d7c1dfac9fa954"
             },
             "mobile-dark": {
               "path": "cs/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 82042,
-              "sha256": "9659b90a94ec7ea9eac2b3aeb4791c6ef1e47dcf9228fbb1693eea12964b372d"
+              "bytes": 73044,
+              "sha256": "0e7b43304fb61aff155648e34222543fedcb68f3e28063dbb9203979ca21db99"
             },
             "desktop-light": {
               "path": "cs/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 100470,
-              "sha256": "8cf3298ba4465276ce64de73d5f5fe49500858964cd422ff1311b58dbfdd939d"
+              "bytes": 164324,
+              "sha256": "c18dc587875b451ca11eec2810090cdc09c7a03d5959b3dab262977f3aa3d679"
             },
             "desktop-dark": {
               "path": "cs/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 103850,
-              "sha256": "c4d13dd87d905f04ecc153c3180066132d163afdc07918ae9547c3d5e0cfdd0b"
+              "bytes": 163304,
+              "sha256": "e8c0ef48eafff3a4987ec0f0399d8a96760630d3b35c5f1949855ac7bba7d7dd"
             }
           }
         },
@@ -5965,29 +5965,29 @@
               "path": "nl/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 83004,
-              "sha256": "ac23c8b52608ebb7eac8781c3a6b70610d002877d45070d941542d83e0be9391"
+              "bytes": 76756,
+              "sha256": "760e509a7c350230a4521cb6bc86b38c64fa493fb6d1be11249834e0c1bbcbfd"
             },
             "mobile-dark": {
               "path": "nl/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 85140,
-              "sha256": "83af5402d953c11cadc722e821dd383860551ef090e61974f44bc591e37c9903"
+              "bytes": 78786,
+              "sha256": "0a55b276fdfde1e42b464bc6c7bbe3163cee2ea6f8802dbbf29d221e7cb120bd"
             },
             "desktop-light": {
               "path": "nl/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 173980,
-              "sha256": "ca9be917f4e6e3e6263d25d7e7286178e78fe75a74c0b8287b49edd70f487c05"
+              "bytes": 170518,
+              "sha256": "da7c658ecf3a3ad1f827966790d75ac9b6007f0134225e302fb407bcf72c7d18"
             },
             "desktop-dark": {
               "path": "nl/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 172588,
-              "sha256": "7b5f01debf1c0f2301aa14f29e4a839f875db256f35469daef13a7d1ee62c157"
+              "bytes": 170414,
+              "sha256": "60a74c34a99434a3f46827ddbf6df50c55f9c6d8cee6b2de3236fa813ebfb59e"
             }
           }
         },
@@ -5997,29 +5997,29 @@
               "path": "ro/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 81572,
-              "sha256": "4c892dd4f01c9083b1b4d39cde5358c59c409f25182e6b0ab0c5b2905d4e04ff"
+              "bytes": 79490,
+              "sha256": "e0c85da25c5cc4f6573492c0fa68c44effa73760e256891328613f583bc920b0"
             },
             "mobile-dark": {
               "path": "ro/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 85266,
-              "sha256": "0ef54701a1a78893e09ceb705b0c68cd345f82e0d61a3407193b911238c357ae"
+              "bytes": 83022,
+              "sha256": "1690d0d3059a2035b827555cf9b1c456e1eba2d1b82e37d0a2a127f7bd8087dd"
             },
             "desktop-light": {
               "path": "ro/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 107294,
-              "sha256": "c2fb32abe47a892ff70b588217a97bad6e334f78e8c8708ed6a142ebc76c6cda"
+              "bytes": 169932,
+              "sha256": "b6de627311493d404b528fbd48cab7ccc0756cd289d195e767eec05113bcfa12"
             },
             "desktop-dark": {
               "path": "ro/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 110854,
-              "sha256": "59d9d96c534cf0882353270f7057e0d8ac6c16bf8e72f57f2bfc6ad55f3e2bde"
+              "bytes": 173544,
+              "sha256": "513ee20c17927856f4b02a305fb787ea36fc2b13dace2db413433f959db08d10"
             }
           }
         },
@@ -6029,29 +6029,29 @@
               "path": "pt/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 86692,
-              "sha256": "f06db1359db9fadcb824620cdfa368f484451b745471dcc2fc88d6cd4915f191"
+              "bytes": 84002,
+              "sha256": "84b6065f2ef770654b15e22b29243a8cf4a374f662079e3360e512778dc13317"
             },
             "mobile-dark": {
               "path": "pt/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 91044,
-              "sha256": "41cab179f1bf5546dd98dba254a7c94d51a89b7fb4a1becd4033b2f3697c6695"
+              "bytes": 86782,
+              "sha256": "71dd4f0de96cbec272be3a85f6fec2e62a373c29d0538ec2b49c4be3602bb700"
             },
             "desktop-light": {
               "path": "pt/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 173680,
-              "sha256": "eebd5a76f3e885e5e91d461ade0fd9d6b5c78a97269403b4b9ea71f4372b9670"
+              "bytes": 168878,
+              "sha256": "99a2c1ba95afe471171b789ae11f443b2c8783a1442b1cfb319004bce4e06a67"
             },
             "desktop-dark": {
               "path": "pt/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 172460,
-              "sha256": "372d95c22c85b0407786d86f330f79ae97105fc2cf4267e2fbe85b318dcadb6d"
+              "bytes": 172324,
+              "sha256": "778a0a19bef9407812d9c26da81b755ef5080528b27a952aa74d2eb7aada4767"
             }
           }
         },
@@ -6061,29 +6061,29 @@
               "path": "da/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 79212,
-              "sha256": "818b858572b78f39955012802504698b0316ba3986e4cd262b140c2cd14ceecf"
+              "bytes": 73334,
+              "sha256": "3674bfcc0a995979e2b1d508cda0ceaed122532bb35789f018aa1e54dc352514"
             },
             "mobile-dark": {
               "path": "da/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 82092,
-              "sha256": "d449778a05b897657de3a2cd6819a0a584d91e5aa27acc93875a78ef61172e66"
+              "bytes": 76326,
+              "sha256": "29c0bbfbec79102704e6718e41f330a8040e767a1fef9f928a61f95699eba20c"
             },
             "desktop-light": {
               "path": "da/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 162292,
-              "sha256": "a5c13dd0a9a12a7ff622df092268e101b4bc25a371f748c1f174f09a73036e5b"
+              "bytes": 167180,
+              "sha256": "6519a067e2e2fd6943092175d100f1095107c9ab632b3ea7653ed83330e814ee"
             },
             "desktop-dark": {
               "path": "da/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 165368,
-              "sha256": "ee3628c9918cdbe224115990dd3258ac6a07dedaf2a9931c3b8f55c91c524730"
+              "bytes": 170130,
+              "sha256": "8bf1ae124fc8fb655f1611859c5d934b1087606fd5043118b5e324f9b5765a58"
             }
           }
         },
@@ -6093,29 +6093,29 @@
               "path": "sv/tasks/agent-card-manual/mobile-light.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 82470,
-              "sha256": "0ffdf890687b5a26b697af51f7e0e1bcc093c7e769e37b0889e65ea7003fb1c4"
+              "bytes": 76960,
+              "sha256": "a46367499eb29a6bf0ba227e90f73ca384a587bc5569b2f8a710beef507f4902"
             },
             "mobile-dark": {
               "path": "sv/tasks/agent-card-manual/mobile-dark.webp",
               "width": 804,
               "height": 1748,
-              "bytes": 84598,
-              "sha256": "8037230b9b68dc5a9bcab269c430f579d3091bfb65a830430c91fe72e5860d28"
+              "bytes": 80030,
+              "sha256": "2dfb0e469f11fa09738afaf29f95abcd05828d76f790af4b63fea6f320b3447d"
             },
             "desktop-light": {
               "path": "sv/tasks/agent-card-manual/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 169016,
-              "sha256": "4993142c465f700a205cde11b1997a50b46f9c629136168c2e020b7c62709030"
+              "bytes": 170652,
+              "sha256": "f5e195b6969907f26d7e5abccb2e15863ede18ae1444af862f2fff74824ede29"
             },
             "desktop-dark": {
               "path": "sv/tasks/agent-card-manual/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 172358,
-              "sha256": "b38c7061d8cbaada2a2ca3afbc69d06cac6775b4cf526c7e224dea2b311baa10"
+              "bytes": 174238,
+              "sha256": "c91592fabd02c348219cccce0be057c8409108594493bb71c675deaff1a68df4"
             }
           }
         }
@@ -6132,29 +6132,29 @@
               "path": "tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 73052,
-              "sha256": "a19f8fce28c44a4cbe8e0e0ae014f86bdcf8d6a6ae9b8353dab9d821bc2721c4"
+              "bytes": 71910,
+              "sha256": "894e342bc477e3cef600aea8260230a3e0293f97713e8f8979a24624fe413135"
             },
             "mobile-dark": {
               "path": "tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 77684,
-              "sha256": "272230b3d6b0f0284aeb655c82b96fb37961d284425b3c52dfec2fb2a9df57d1"
+              "bytes": 74098,
+              "sha256": "ba6983df7c964ebd79c9dd530cb77e3f47c1452b54f5b8aa891317dd0ceabd0b"
             },
             "desktop-light": {
               "path": "tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 116318,
-              "sha256": "258d4a87c82d59f224a6883459d274fd7691ff0bf96a64f10d0db2f9ec5c7918"
+              "bytes": 194868,
+              "sha256": "96100d7225d9007ddb7e3c1df8d4e1c96dd36eb11af1d9eaf7544aadc5728ab6"
             },
             "desktop-dark": {
               "path": "tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 120402,
-              "sha256": "639d0ee579f443fa8c2081483e6d1c285628b74ff7a08bb318972cd7b804d0b3"
+              "bytes": 196522,
+              "sha256": "8457c41d30e6dfd5493d966dae281bc207660840bcff4242397a42e41178e005"
             }
           }
         },
@@ -6164,29 +6164,29 @@
               "path": "de/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 88172,
-              "sha256": "c2da101ea72d008ee891505f16e107cbdf6b447371d9db2f5fe5d393245a85a6"
+              "bytes": 79330,
+              "sha256": "eef396de774357389f5857c4cec3dea83c3f4af8c2ea483c8422e5f0a21b6f57"
             },
             "mobile-dark": {
               "path": "de/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 92342,
-              "sha256": "cf8a24125fb287b7cdd7d66fb36ef74ae2ad7c67bd00c8b47a425b3b558f31e5"
+              "bytes": 82670,
+              "sha256": "7273bf4eb610d7d74b93de3f6aebc37c0fc66d08bfec198801f0a2a33418ffcd"
             },
             "desktop-light": {
               "path": "de/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 127858,
-              "sha256": "7b5a6c2e6f681b5ebe33b9416c42c88bfed843bd7c3e6af994895fa8904d1699"
+              "bytes": 201420,
+              "sha256": "2e00e18a32df8aac4c151a720241d2baefe246eb14a2b1e2cc946d115eebf641"
             },
             "desktop-dark": {
               "path": "de/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 133954,
-              "sha256": "41c11804f0c075154403a9e4fa31eec323e670e4923aededf58249d3b8882261"
+              "bytes": 203914,
+              "sha256": "fb0cd47a22ead8d8e695b593a32a4f02358c4ec06162a2ebf01bb88b8781bfc5"
             }
           }
         },
@@ -6196,29 +6196,29 @@
               "path": "fr/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 85396,
-              "sha256": "809642330f0affdab75a9a3ec51870e37335fdc113d0d9fa3536d91e4737a494"
+              "bytes": 81910,
+              "sha256": "0b21b285373d5108ed604a83534e984ec2d3016d815436a884816105333ad8d9"
             },
             "mobile-dark": {
               "path": "fr/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 91554,
-              "sha256": "1cb2947e508825e7c8f9463b56bd1a5cf27c5d9ea7fea2d58b709b1bd73207f4"
+              "bytes": 85406,
+              "sha256": "b537b1e0c61ad5bafcd99878b1a8152b45e09f7be41d3226aa3eecaee383c1f9"
             },
             "desktop-light": {
               "path": "fr/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 131132,
-              "sha256": "3a030fa47ef7a249a21050b551f31c66b94a46d4b7ad01afcd00c62361ec21af"
+              "bytes": 204430,
+              "sha256": "1d129c94748fa57625a7a25d938716814844b4f7d872fb6a1e695a21eff2cd78"
             },
             "desktop-dark": {
               "path": "fr/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 136234,
-              "sha256": "3cfc72738426298885dd2f3f3a19dc0f2ed3743f2f5294a5497edd64e542deac"
+              "bytes": 207256,
+              "sha256": "4c392254dc0fd4dd7104c087b6d7dbfae737ca5992c96ea4ee375db9fdb7700d"
             }
           }
         },
@@ -6228,29 +6228,29 @@
               "path": "it/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 91872,
-              "sha256": "63cac2d271563cb143e7b9dc184ac5a5488395d6b976819053b2b79b04f85601"
+              "bytes": 82032,
+              "sha256": "ff83ef266402152a94bab0c624a60c6eb7ee810bb273208c6d87f8fca33ece34"
             },
             "mobile-dark": {
               "path": "it/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 96668,
-              "sha256": "478cd682b40ea5b8a11047745985dcf09b8b332974c43c67c5e2c78fd50c9a82"
+              "bytes": 85040,
+              "sha256": "6cd5949ec1940832174547fa5431871a631d1b09d76737ca534c59c4feb81315"
             },
             "desktop-light": {
               "path": "it/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 193906,
-              "sha256": "410eb47150c5456c80f058a2dd4a2e2d28f0424bd7634e5bb6ca39bd83e21411"
+              "bytes": 203664,
+              "sha256": "5b19ba58f3268b018e7ad769dd7d8880157f1aeb5399559c7cb250b7a94eced7"
             },
             "desktop-dark": {
               "path": "it/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 196322,
-              "sha256": "46a623a6ea647f9d6e2a9dc92ff26fa644e78c13b71e31aa4e947308f693d844"
+              "bytes": 206774,
+              "sha256": "39b2c88742fee83057eac66728d2980df1bebe1c2436550ca90f6617e75a1b4a"
             }
           }
         },
@@ -6260,29 +6260,29 @@
               "path": "es/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 89950,
-              "sha256": "9fc9ffef313fcdb77292061012ab08ca9cd09d35d00a9a6f8dce62e4761f53fc"
+              "bytes": 84880,
+              "sha256": "95c9f0e155766a9b962301c83a513ddf2b9ec6f6f4250dbde06311bac82a0829"
             },
             "mobile-dark": {
               "path": "es/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 97374,
-              "sha256": "7dfe54df74bf0b5f75b256050edfa3082f04b2fef94a85a2a52466a3070374f9"
+              "bytes": 88862,
+              "sha256": "aa3f300add6260248bb0274f62326a23ecc93ac14a3f44db615199dcef87c950"
             },
             "desktop-light": {
               "path": "es/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 119904,
-              "sha256": "8030cc5ad13bb9330904cc29c58fdda100404423b4c1ce70136c97e6a0dbf15d"
+              "bytes": 196912,
+              "sha256": "5b521ba41a57bf303cfcccaa091b24fd041333bd8bdf5c146b9e0389b51eb519"
             },
             "desktop-dark": {
               "path": "es/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 126828,
-              "sha256": "8a5c808f7131beedbd70285c660764a641307b49a6fa41db23ae7bb7f404c12d"
+              "bytes": 199604,
+              "sha256": "0722c5e19d815c6c8c8e6f3b8fd5c6cfbb7bbdd1a91feb8293de12329624ad5b"
             }
           }
         },
@@ -6292,29 +6292,29 @@
               "path": "cs/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 78102,
-              "sha256": "6a2a83f1953b709834b31566a1b7b1d0469694eef5be7bdb0804eb8fc34c84d2"
+              "bytes": 74354,
+              "sha256": "d553faa22fd92a37edb2cf3e0f549e38742483e33328915e4f0ba7c8601e9654"
             },
             "mobile-dark": {
               "path": "cs/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 83794,
-              "sha256": "716e046c0422e9020da25bc724654bac8f51a3069597d8827a684eda3b4260c7"
+              "bytes": 77596,
+              "sha256": "50974bbe3772f81d11ec9a6e0e9a60979445eacdd95c6e0e80d9e1787497ea3b"
             },
             "desktop-light": {
               "path": "cs/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 123046,
-              "sha256": "22b1a75dba347b3fd0b14c59a31c1fbf6e41920829038e05766c488424b93cbf"
+              "bytes": 197620,
+              "sha256": "b0bc6867581fe967d265e15477f67ecc37d308d335843f5a728c57bfbf2bdc97"
             },
             "desktop-dark": {
               "path": "cs/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 128544,
-              "sha256": "c4e247f6c9010c97c79cd58440071210b221f82e75b7c93be594037182cc6edd"
+              "bytes": 200142,
+              "sha256": "d1a2606b41ecde30b28c3e78fa579b7ac02edb41a5228c5f1308a29895e28b96"
             }
           }
         },
@@ -6324,29 +6324,29 @@
               "path": "nl/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 86954,
-              "sha256": "e3f3bb81d77bd86fd2008b54f7e3b7b57dbf67b0944fdfc5967788e3d98d0330"
+              "bytes": 83574,
+              "sha256": "4f5dd5db78c85d53460bd8b7e18da9db8c81e84ce19d1edebeebb278eb2f0cda"
             },
             "mobile-dark": {
               "path": "nl/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 91498,
-              "sha256": "1a24ad024d1a81fcbd79ca81adaa2d3b5f79a8f6a826cd3b922bef3a39420e08"
+              "bytes": 87166,
+              "sha256": "234c18f03cb70d0289b1bdf69ebc40282d1f95de193f7b6dba261b331ef72b0a"
             },
             "desktop-light": {
               "path": "nl/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 201846,
-              "sha256": "0de136884a7072ef709a6fa23b9f56645c256573fef3d833e18fb9573ac5ed2f"
+              "bytes": 203676,
+              "sha256": "21fefa9a9cbba3ea802af696264c7b4bc73e07623fceed915c51736bc7798912"
             },
             "desktop-dark": {
               "path": "nl/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 205394,
-              "sha256": "169e951155954dc817da4040a626416d70477d33e412b6082088f750a58fc947"
+              "bytes": 206408,
+              "sha256": "8c7e4ab7bf706b42d71d5245284c4705c031d64976e2c733a05ff8df871537d2"
             }
           }
         },
@@ -6356,29 +6356,29 @@
               "path": "ro/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 86728,
-              "sha256": "c983c34165b81852b150068b3dbc14f9c94e586c3b3aa783640fd75d67bb7ec3"
+              "bytes": 84610,
+              "sha256": "c4fcd5820c7d0f8d5b7c85552ff09c5f2a42090b371dfd9d977415e8621b45c3"
             },
             "mobile-dark": {
               "path": "ro/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 92728,
-              "sha256": "dbc1bb8b22785373360ae10f3a24678b4397ddc93631c901fbe6e0e1e77f8cf5"
+              "bytes": 88458,
+              "sha256": "62ef361934c3b353a18d6bbfacf4c5ace42939f6c8cc9982300e16426c4745bb"
             },
             "desktop-light": {
               "path": "ro/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 131232,
-              "sha256": "b7c35bedf488d66b3fcd56e0bbed9d276a2dae0d709d38d674d2d2bcfc227f5b"
+              "bytes": 203422,
+              "sha256": "0fa8fdaccfa9c34dcba151bafe7acf61cfad39a292d6e2d7e1ddde7a12de758f"
             },
             "desktop-dark": {
               "path": "ro/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 136160,
-              "sha256": "6cf0e5796bd44a8541fece53071a3502fa0cfd65f758b013181db0ab5d1ab0e5"
+              "bytes": 205822,
+              "sha256": "155acc83625646c2aea21e391ff5c8bbdc8be42d3ea2c918b93729bc0dae6834"
             }
           }
         },
@@ -6388,29 +6388,29 @@
               "path": "pt/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 98502,
-              "sha256": "5de642878850d517435a216fe4a18c8a031fa91f513ab7b462dd7992aeeeaf37"
+              "bytes": 87714,
+              "sha256": "a137b9328c654ad6dd4ca747095b92362bda24d8bff93f2ec36f3525dfa0c5e6"
             },
             "mobile-dark": {
               "path": "pt/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 103198,
-              "sha256": "dcc759c330e8447dabe39ea38c8a99492fb4e68c5cc4dede70aded7972ce2447"
+              "bytes": 91678,
+              "sha256": "40bc977bce9ef18349aab07b8b6bcaf7ee3122e6815986ac06e14a7b410c3fb7"
             },
             "desktop-light": {
               "path": "pt/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 197732,
-              "sha256": "51031b7087709c6adeceea95ce7edd672f8455bc21bf57e10587dc65e091c035"
+              "bytes": 199668,
+              "sha256": "da3e9875ef7aaa4585bc9eb92c82c34930b32f355be623c630e9f52d8e974ecb"
             },
             "desktop-dark": {
               "path": "pt/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 201704,
-              "sha256": "3ac1cd21099f562f060ce827505d55c6007779421fb44d475a6aba1d4f6e6237"
+              "bytes": 202440,
+              "sha256": "117c92861eeed5442e38412dce051dffcef46e524018ecac114725cb650fce72"
             }
           }
         },
@@ -6420,29 +6420,29 @@
               "path": "da/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 81152,
-              "sha256": "34a3cd2e29b109c86cb458a4135211bee2e9a4df334f4fb0497d0c36e4ce11da"
+              "bytes": 78548,
+              "sha256": "db0bc590227789cdaeddb0d4aeff785783df15788ba7d49098b5bca9cffb95dd"
             },
             "mobile-dark": {
               "path": "da/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 85476,
-              "sha256": "d9b7aa474dfae4afe61175e284f5424de898ba30694e9b8e72931481b82649e1"
+              "bytes": 81494,
+              "sha256": "6500c4ef35d1f1bb41a07e5967d2948b0e3a4e4cc75ae374b41b258bac9cd397"
             },
             "desktop-light": {
               "path": "da/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 189352,
-              "sha256": "66a6b5c79d60310f86c0b73f5e26166c00d05641bf37cb64d73f8d455be225d5"
+              "bytes": 201054,
+              "sha256": "f536280731eaf6a8ecd3dc06264257d9c0f6de36a1084350b90baa020d73b20f"
             },
             "desktop-dark": {
               "path": "da/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 192722,
-              "sha256": "edaeb5d0a086c6f3d1d8b33bfcf643a15ffee3ceebeb9cd34054c085998234eb"
+              "bytes": 202792,
+              "sha256": "0fa688a6d7d3f7139d6a13b46f8421b0b1d032886432fedcb8bd9c077edafa1d"
             }
           }
         },
@@ -6452,29 +6452,29 @@
               "path": "sv/tasks/agent-suggestions/mobile-light.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 82684,
-              "sha256": "aaadd2f04ae9a25e6b0f7ce344f5d6edb149a752b4d9475706d22c81211d5d01"
+              "bytes": 81270,
+              "sha256": "eea103695602739d7c93bf6e98e37ce3279766a8f394ab1a98f5eb5e10352500"
             },
             "mobile-dark": {
               "path": "sv/tasks/agent-suggestions/mobile-dark.webp",
               "width": 880,
               "height": 1912,
-              "bytes": 86744,
-              "sha256": "53ee38c067f359c5d24abdd79b67616e2b00bf509ef7dce3ea2d2feec7ea3ded"
+              "bytes": 84402,
+              "sha256": "e88d2c9c8a24074936b4a0d9550e95194d7770de4fdf6ff71d877ad21ea4feb9"
             },
             "desktop-light": {
               "path": "sv/tasks/agent-suggestions/desktop-light.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 200416,
-              "sha256": "d1d364fb424c50e583d8dbbddf55b5abdc33f59231ee4a80a76999fef5129273"
+              "bytes": 202660,
+              "sha256": "f2df7cc40596547208d6836604b263ef3953eb2cb8c8be64fbb637861f27d98d"
             },
             "desktop-dark": {
               "path": "sv/tasks/agent-suggestions/desktop-dark.webp",
               "width": 2880,
               "height": 1800,
-              "bytes": 204142,
-              "sha256": "3fc8cca4c1fd986642ad821527004bf7c30103bf5333f0f2cef3fabdb00402c3"
+              "bytes": 205226,
+              "sha256": "44b29c43c6755a6d513ce72a1cd04d413c238add8c3837c315752f7cacc1baf3"
             }
           }
         }
